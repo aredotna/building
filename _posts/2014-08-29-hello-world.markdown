@@ -7,8 +7,6 @@ date:   2014-08-29 19:56:25
 ###TLDR;
 - We have already started development on our new isomorphic javascript client, Ervell.
 - ([More][isomorphic-links] on isomorphic javascript)
-- Ervell uses Artsy's [Ezel][ezel] boilerplate
-- [Ezel][ezel] is easier to learn after looking at Artsy's [force-public][force-public] repo.
 - Goals for Ervell
   - lightweight
   - responsive
@@ -16,6 +14,12 @@ date:   2014-08-29 19:56:25
   - be seo friendly
   - easier and more straightforward way to connect blocks to different channels
   - encourage exploration
+
+![Ervell][ervell-image]
+
+- Ervell uses Artsy's [Ezel][ezel] boilerplate, which is really just a set of conventions to hook various Express.js applications together in a way that allows an application to share client-side and "server"-side code.
+- This allows you to reap the benefits of server rendered templates (speed, SEO friendly, etc) while retaining the ability to write rich client side applications without rewriting your templates.
+- [Ezel][ezel] is easier to learn after looking at Artsy's [force-public][force-public] repo.
 - Middleware is a powerful way to process requests and responses at different stages of an Express.js application
 - An example of middleware we use is a lightweight authentication middleware, which adds a user's token to the header of a particular API request.
 
@@ -42,10 +46,10 @@ app.set "view engine", "jade"
 app.get "/:username", auth, routes.user
 {% endhighlight %}
 
-
-
-![Ervell][ervell-image]
-
+- Middleware (according to wikipedia) is a concept that originated out of the need to link older legacy applications with newer ones.
+- Where does middleware end? `The distinction between operating system and middleware functionality is, to some extent, arbitrary`
+- The aesthetic of middleware: functional and ideally elegant, capable of translating and mutating data from one point to another
+- Arena wants to be middleware between a single person their future ideas
 
 
 
