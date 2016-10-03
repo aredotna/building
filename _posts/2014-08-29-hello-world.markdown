@@ -4,7 +4,7 @@ title:  "Middleware"
 date:   2014-08-29 19:56:25
 ---
 
-###TLDR;
+### TLDR;
 - We have already started development on our new isomorphic javascript client, Ervell.
 - ([More][isomorphic-links] on isomorphic javascript)
 - Goals for Ervell
