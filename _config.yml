@@ -1,10 +1,9 @@
 # Site settings
-title: building.are.na
+title: blog.are.na
 email: everyone@are.na
 description: > # this means to ignore newlines until "baseurl:"
   Building are.na
-baseurl: "/building" # the subpath of your site, e.g. /blog/
-url: "http://building.are.na" # the base hostname & protocol for your site
+url: "http://blog.are.na" # the base hostname & protocol for your site
 twitter_username: aredotna
 github_username:  arenahq
 
