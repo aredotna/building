@@ -9,7 +9,7 @@ layout: null
           "url": "{{ post.url }}",
           "category": "{{ post.categories }}",
           "image": "{{ post.image }}",
-          "date": "{{ post.date | date: "%B %d, %Y" }}",
+          "date": "{{ post.date | date: "%B %d, %Y" }}"
         } {% if forloop.last %}{% else %},{% endif %}
     {% endif %}
 {% endfor %}
