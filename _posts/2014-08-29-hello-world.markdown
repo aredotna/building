@@ -3,7 +3,7 @@ layout: post
 title:  "Wish I Made This"
 category: "Channels we love"
 tags: "featured"
-image: "https://trello-attachments.s3.amazonaws.com/53825c12f5cc26118b4ed172/53dbf1f5d9405191696ddff8/1978x1656/7e058a12fd3c95b23fd912683a9a9ac6/Arena-Channel%26Connect3.jpg"
+image: "https://d2w9rnfcy7mm78.cloudfront.net/117105/original_8aa6481213407d9d29510920dcb9d768.jpg"
 ---
 ![Ervell][ervell-image]
 
