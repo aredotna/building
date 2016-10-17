@@ -3,7 +3,7 @@ layout: post
 title:  "Wish I Made This"
 category: "Channels we love"
 tags: "featured"
-image: "https://d2w9rnfcy7mm78.cloudfront.net/117105/original_8aa6481213407d9d29510920dcb9d768.jpg"
+image: "http://kimmerich.com/images/exhibitions/2012/torsten-slama/works/SLAM011xl.jpg"
 ---
 ![Ervell][ervell-image]
 
