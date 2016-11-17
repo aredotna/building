@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Information Systems"
+category: "Hello World"
+tags: "featured"
+image: "https://d2w9rnfcy7mm78.cloudfront.net/771203/original_6655b53130c865c4fa7a9120bc4b5e92.jpg"
+---
+
+We need tools to help us understand the information we consume. 
+
+What mainstream tools do we have for unpacking our own perspectives? Is sharing enough? What happens to the things you shared last year? Can you understand how your thinking has changed over time?
+
+In the 70's, some people had utopian ideas about what personal networked computers could do for culture and education. Ted Nelson writes, "Knowledge, understanding and freedom can all be advanced by the promotion and deployment of computer display consoles (with the right programs behind them)". 
+
+This isn't quite how it worked out. Not from any big conspiracy, this didn't come from the top down. We all made the Internet this way. 
+
+![Kremers' tweet](https://d2w9rnfcy7mm78.cloudfront.net/769889/original_dc2e576016b82b35b2b52b605f571b5a.png)
+
+Structurally, Are.na consists of two units: **blocks** and **channels**. 
+
+**Blocks** are units of information (a piece of text, an image, a URL, a file, etc.) and **channels** are containers for **blocks**. **Channels** can contain any number of **blocks** and **blocks** can exist in any number of **channels**. 
+
+Thus, pieces of information can be arranged in an infinite variety of contexts – their respective meaning shifts as the proximate information shifts. 
+
+An example:
+
+![An image](https://d2w9rnfcy7mm78.cloudfront.net/690775/large_8774c584416c3abb8e411acb2fae7238.jpg)
+
+This image appears in two channels, [Sublime][Sublime] and [Feeling Futuristic][Feeling Futuristic]. You can probably start to guess what these two channels are getting at, but it takes visiting both of them to understand the subtlety of what the two channel authors are getting at. While [Feeling Futuristic][Feeling Futuristic] often feels like some combination of wonderment, apocolyptic visions, and speculation on what our world's future looks like, [Sublime][Sublime] is more about feeling comfortable and amazed in an extrordinary moment. It's worth noting that my understanding of the intent behind the channels is all speculation, but this is exactly the kind of activity we want to encourage: exercising the ability to recognize contextual patterns, and empathy towards alternate perspectives.
+
+The intention behind Are.na is that a user is not just passively consuming information, but continually recontextualizing information into new ideas.
+
+We want a platform where we can swim in curiosity, where we can feel like our contributions amount to more and more over time, where we are encouraged to seek out the most arcane pieces on information and to juxtapose those pieces of information with current events in order to re-orient ourselves.
+
+Above all, we want to be able to _play_ with content. Play encourages exploration, and exploration leads to a greater understanding.
+
+My point is, we all need to think about what we want our version of the Internet to be. We have (most of) the worlds information at our fingertips, so what do we want to do with all that? How do we make that information our own? How can we start to break all these facts down and re-shape them into something new?
+
+Are.na is by no means perfect, and we (seriously) have a long way to go and lots to work on. We've continued to work on it (spending our own money to keep the platform alive), precisely because we want this tool in our own lives. And it's infinitely better to build that tool alongside a growing community than to keep it to ourselves. 
+
+Thanks for being with us.
+
+– [Charles Broskoski][Profile]
+
+[Sublime]: https://www.are.na/morgan-sutherland/sublime
+[Feeling Futuristic]: https://www.are.na/chris-sherron/feeling-futuristic
+[Profile]: https://www.are.na/charles-broskoski
