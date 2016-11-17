@@ -27,10 +27,6 @@ At some critical moment, Ed invited me to a Slack group that, at the time, was j
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/293256143&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-
-
-
-
 **Together**
 
 Learning Gardens basically emerged  out of Are.na. The platform’s take on decentralized, association-driven, and collaborative approach to structuring information is directly in-line with how we think about effective education models for the 21st century.
@@ -43,8 +39,9 @@ We’ve been growing this organically and long-term goals remain a bit nebulous.
 
 That said, we would like to work towards a few things: nurturing an ongoing conversation on decentralized, community-led education (our Slack already has some momentum); building out our roster of learning groups; strengthening our resources (for course planning, community organizing, and more); and working towards a way to monetarily support some groups. Through grants or donations, Learning Gardens could help fund large projects, field trips, upkeep costs, rainy day funds, or otherwise.
 
-Please, if you want to chat, email us [hello@learning-gardens.co][Learning Gardens email] or join our Slack via our website.
+Please, if you want to chat, email us [hello@learning-gardens.co][Learning Gardens email] or join our Slack via our [website][Learning Gardens website].
 
+– [Lukas WP][lukas] & [Édouard U][ed].
 
 [nirvana]:        https://d2w9rnfcy7mm78.cloudfront.net/770996/original_9e0b4a0ea7b404b48ca16114d7777f87.png
 [body]:   https://d2w9rnfcy7mm78.cloudfront.net/770997/original_a9bfd97666c972069791a266c1df3c6d.jpg
@@ -52,3 +49,5 @@ Please, if you want to chat, email us [hello@learning-gardens.co][Learning Garde
 [Learning Gardens channel]: https://www.are.na/edouard-u/learning-gardens
 [Learning Gardens website]: http://learning-gardens.co/
 [Learning Gardens email]: mailto://hello@learning-gardens.co
+[ed]: https://www.are.na/edouard-u
+[lukas]: https://www.are.na/lukas-wp

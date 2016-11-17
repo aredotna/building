@@ -3,6 +3,20 @@ layout: default
 ---
 <div class="home">
   {% for post in site.posts %}
-    {{ content }}
+    <div class="post">
+
+      <header class="post-header">
+        <div class="post-category-title">
+          <h1>{{ post.categories }}:</h1>
+          <h1>{{ post.title }}</h1>
+        </div>
+        <div class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</div>
+      </header>
+
+      <article class="post-content">
+        {{ post.content }}
+      </article>
+
+    </div>
   {% endfor %}
 </div>
