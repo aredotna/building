@@ -10,13 +10,13 @@ We need tools to help us understand the information we consume.
 
 What mainstream tools do we have for unpacking our own perspectives? Is sharing enough? What happens to the things you shared last year? Can you understand how your thinking has changed over time?
 
-In the 70's, some people had utopian ideas about what personal networked computers could do for culture and education. Ted Nelson writes, "Knowledge, understanding and freedom can all be advanced by the promotion and deployment of computer display consoles (with the right programs behind them)". 
+In the 70's, many people had utopian ideas about what personal networked computers could do for culture and education. Ted Nelson writes, "Knowledge, understanding and freedom can all be advanced by the promotion and deployment of computer display consoles (with the right programs behind them)". 
 
-This isn't quite how it worked out. Not from any big conspiracy, this didn't come from the top down. We all made the Internet this way. 
+This isn't quite how it worked out. Not from any big conspiracy or anything, this didn't come from the top down. Humans made the Internet this way. 
 
-![Kremers' tweet](https://d2w9rnfcy7mm78.cloudfront.net/769889/original_dc2e576016b82b35b2b52b605f571b5a.png)
+![Kremers' tweet](https://d2w9rnfcy7mm78.cloudfront.net/772086/original_1a5e4cd4ab968289fc3654b4389c944b.png)
 
-Structurally, Are.na consists of two units: **blocks** and **channels**. 
+Are.na consists of two units: **blocks** and **channels**. 
 
 **Blocks** are units of information (a piece of text, an image, a URL, a file, etc.) and **channels** are containers for **blocks**. **Channels** can contain any number of **blocks** and **blocks** can exist in any number of **channels**. 
 
@@ -34,7 +34,7 @@ We want a platform where we can swim in curiosity, where we can feel like our co
 
 Above all, we want to be able to _play_ with content. Play encourages exploration, and exploration leads to a greater understanding.
 
-My point is, we all need to think about what we want our version of the Internet to be. We have (most of) the worlds information at our fingertips, so what do we want to do with all that? How do we make that information our own? How can we start to break all these facts down and re-shape them into something new?
+The point is, we all need to think about what we want our version of the Internet to be. We have (most of) the worlds information at our fingertips, so what do we want to do with all that? How do we make that information our own? How can we start to break all these facts down and re-shape them into something new?
 
 Are.na is by no means perfect, and we (seriously) have a long way to go and lots to work on. We've continued to work on it (spending our own money to keep the platform alive), precisely because we want this tool in our own lives. And it's infinitely better to build that tool alongside a growing community than to keep it to ourselves. 
 
