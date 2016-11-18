@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Learning Gardens, One Thousand Aesthetics Blooming"
+title:  "Learning Gardens – One Thousand Aesthetics Blooming"
 category: "Case Study"
 tags: "featured"
 image: "https://d2w9rnfcy7mm78.cloudfront.net/770989/original_f4194a178c9f5e2a8bbd09c085e13a27.jpg"
 ---
 ![Learning Gardens][body]
 
-**Édouard**
+**Édouard:**
 
 In the Summer of 2013, a few close friends and work colleagues in Austin got together one weekend and decided to start a tiny art school called Sunday School.
 
@@ -17,7 +17,7 @@ Though we planned and discussed how we might create an ongoing space, our effort
 
 ![Learning Gardens - Nirvana][nirvana]
 
-**Lukas**
+**Lukas:**
 
 I can’t recall when exactly Édouard and I started talking directly. We’d been following each other on Are.na and Twitter for a bit, and through some mutual block-adding, we found a strong intersection of interests, especially in experimental pedagogy.
 
@@ -27,7 +27,7 @@ At some critical moment, Ed invited me to a Slack group that, at the time, was j
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/293256143&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-**Together**
+**Together:**
 
 Learning Gardens basically emerged  out of Are.na. The platform’s take on decentralized, association-driven, and collaborative approach to structuring information is directly in-line with how we think about effective education models for the 21st century.
 
