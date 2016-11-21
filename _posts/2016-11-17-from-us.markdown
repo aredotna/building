@@ -6,15 +6,15 @@ tags: "featured"
 image: "https://d2w9rnfcy7mm78.cloudfront.net/771203/original_6655b53130c865c4fa7a9120bc4b5e92.jpg"
 ---
 
-We need tools to help us understand the information we consume. 
+In the 60’s and 70’s, many people had utopian ideas about what personal networked computers could do for culture and education. Ted Nelson, a lead technologist and philosopher of the era wrote, “Knowledge, understanding and freedom can all be advanced by the promotion and deployment of computer display consoles (with the right programs behind them)”. Regarding the “right programs”, Nelson wrote “Our goal should be nothing less than REPRESENTING THE TRUE CONTENT AND STRUCTURE OF HUMAN THOUGHT. But it should be thought of as something more: enabling the mind to weigh, pursue, synthesize and evaluate ideas for a better tomorrow.”
 
-What mainstream tools do we have for unpacking our own perspectives? Is sharing enough? What happens to the things you shared last year? Can you understand how your thinking has changed over time?
-
-In the 70's, many people had utopian ideas about what personal networked computers could do for culture and education. Ted Nelson writes, "Knowledge, understanding and freedom can all be advanced by the promotion and deployment of computer display consoles (with the right programs behind them)". 
-
-This isn't quite how it worked out. Not from any big conspiracy or anything, this didn't come from the top down. Humans made the Internet this way. 
+This isn’t quite how it worked out. What we envisioned as a ‘civilization of the mind’, instead turned out (for most people) to be a self-reinforcing feedback loop turned individual filter bubble, powered by personalized recommendations. This isn’t because of any big conspiracy or anything—this didn’t come from the top down. Humans made the Internet this way. We like being comfortable in our beliefs.
 
 ![Kremers' tweet](https://d2w9rnfcy7mm78.cloudfront.net/772086/original_1a5e4cd4ab968289fc3654b4389c944b.png)
+
+We need tools to help us understand the information we consume. We need to think about what mainstream tools we have for unpacking our own perspectives. Is sharing enough? What happens to the things you shared last year? And can the tools we build today help you understand how your thinking has changed over time?
+
+The intention behind Are.na is that a user is not just passively consuming information, but continually recontextualizing information into new ideas.
 
 Are.na consists of two units: **blocks** and **channels**. 
 
@@ -26,7 +26,7 @@ An example:
 
 ![An image](https://d2w9rnfcy7mm78.cloudfront.net/690775/large_8774c584416c3abb8e411acb2fae7238.jpg)
 
-This image appears in two channels, [Sublime][Sublime] and [Feeling Futuristic][Feeling Futuristic]. You can probably start to guess what these two channels are getting at, but it takes visiting both of them to understand the subtlety of what the two channel authors are getting at. While [Feeling Futuristic][Feeling Futuristic] often feels like some combination of wonderment, apocolyptic visions, and speculation on what our world's future looks like, [Sublime][Sublime] is more about feeling comfortable and amazed in an extrordinary moment. It's worth noting that my understanding of the intent behind the channels is all speculation, but this is exactly the kind of activity we want to encourage: exercising the ability to recognize contextual patterns, and empathy towards alternate perspectives.
+This image appears in two channels, [Sublime][Sublime] and [Feeling Futuristic][Feeling Futuristic]. You can probably start to guess what these two channels are getting at, but it takes visiting both of them to understand the nuances of their content. While [Feeling Futuristic][Feeling Futuristic] often feels like some combination of wonderment, apocolyptic visions, and speculation on what our world's future looks like, [Sublime][Sublime] is more about feeling comfortable and amazed in an extrordinary moment. It's worth noting that my understanding of the intent behind the channels is all speculation, but this is exactly the kind of activity we want to encourage: exercising the ability to recognize contextual patterns, and empathy towards alternate perspectives.
 
 The intention behind Are.na is that a user is not just passively consuming information, but continually recontextualizing information into new ideas.
 
@@ -34,7 +34,7 @@ We want a platform where we can swim in curiosity, where we can feel like our co
 
 Above all, we want to be able to _play_ with content. Play encourages exploration, and exploration leads to a greater understanding.
 
-The point is, we all need to think about what we want our version of the Internet to be. We have (most of) the worlds information at our fingertips, so what do we want to do with all that? How do we make that information our own? How can we start to break all these facts down and re-shape them into something new?
+The point is, we should think about what we want our version of the Internet to be. We have (most of) the world’s information at our fingertips, so what do we want to do with all that? How do we make that information our own? How can we start to break all these facts down and re-shape them into something new?
 
 Are.na is by no means perfect, and we (seriously) have a long way to go and lots to work on. We've continued to work on it (spending our own money to keep the platform alive), precisely because we want this tool in our own lives. And it's infinitely better to build that tool alongside a growing community than to keep it to ourselves. 
 
