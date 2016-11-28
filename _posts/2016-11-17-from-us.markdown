@@ -30,7 +30,7 @@ This image appears in two channels, [Sublime][Sublime] and [Feeling Futuristic][
 
 The intention behind Are.na is that a user is not just passively consuming information, but continually recontextualizing information into new ideas.
 
-We want a platform where we can swim in curiosity, where we can feel like our contributions amount to more and more over time, where we are encouraged to seek out the most arcane pieces on information and to juxtapose those pieces of information with current events in order to re-orient ourselves.
+We want a platform where we can swim in curiosity, where we can feel like our contributions amount to more and more over time, where we are encouraged to seek out the most arcane pieces of information and to juxtapose those pieces of information with current events in order to re-orient ourselves.
 
 Above all, we want to be able to _play_ with content. Play encourages exploration, and exploration leads to a greater understanding.
 
