@@ -28,8 +28,6 @@ An example:
 
 This image appears in two channels, [Sublime][Sublime] and [Feeling Futuristic][Feeling Futuristic]. You can probably start to guess what these two channels are getting at, but it takes visiting both of them to understand the nuances of their content. While [Feeling Futuristic][Feeling Futuristic] often feels like some combination of wonderment, apocolyptic visions, and speculation on what our world's future looks like, [Sublime][Sublime] is more about feeling comfortable and amazed in an extrordinary moment. It's worth noting that my understanding of the intent behind the channels is all speculation, but this is exactly the kind of activity we want to encourage: exercising the ability to recognize contextual patterns, and empathy towards alternate perspectives.
 
-The intention behind Are.na is that a user is not just passively consuming information, but continually recontextualizing information into new ideas.
-
 We want a platform where we can swim in curiosity, where we can feel like our contributions amount to more and more over time, where we are encouraged to seek out the most arcane pieces of information and to juxtapose those pieces of information with current events in order to re-orient ourselves.
 
 Above all, we want to be able to _play_ with content. Play encourages exploration, and exploration leads to a greater understanding.
