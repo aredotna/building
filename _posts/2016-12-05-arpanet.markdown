@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Arpanet - The Analyst"
-category: "Arena Influences"
+category: "Are.na Influences"
 tags: "featured"
 image: "https://d2w9rnfcy7mm78.cloudfront.net/792750/original_e6c513413db3cccf4efbffa948c0e684.jpg"
 ---
