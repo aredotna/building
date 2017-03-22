@@ -1,10 +1,14 @@
 ---
+title: Learning Gardens – One Thousand Aesthetics Blooming
+date: 2016-11-16 00:00:00 Z
+categories:
+- Case Study
+tags:
+- featured
 layout: post
-title:  "Learning Gardens – One Thousand Aesthetics Blooming"
-category: "Case Study"
-tags: "featured"
-image: "https://d2w9rnfcy7mm78.cloudfront.net/770989/original_f4194a178c9f5e2a8bbd09c085e13a27.jpg"
+image: https://d2w9rnfcy7mm78.cloudfront.net/770989/original_f4194a178c9f5e2a8bbd09c085e13a27.jpg
 ---
+
 ![Learning Gardens][body]
 
 **Édouard:**

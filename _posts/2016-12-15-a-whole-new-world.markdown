@@ -1,9 +1,12 @@
 ---
+title: A Whole New World
+date: 2016-12-15 00:00:00 Z
+categories:
+- A Collection of Channels
+tags:
+- featured
 layout: post
-title:  "A Whole New World"
-category: "A Collection of Channels"
-tags: "featured"
-image: "https://d2w9rnfcy7mm78.cloudfront.net/778835/original_35956496d20d2fbfacc487392a9bed2f.jpg"
+image: https://d2w9rnfcy7mm78.cloudfront.net/778835/original_35956496d20d2fbfacc487392a9bed2f.jpg
 ---
 
 _This post is the first in a series highlighting channels we’re paying attention to on Are.na. A Whole New World focuses on channels related to geography, spatial studies and mapping._

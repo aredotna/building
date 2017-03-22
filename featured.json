@@ -1,6 +1,7 @@
 ---
-layout: null
+layout: 
 ---
+
 [
 {% for post in site.posts limit:3 %}
     {% if post.tags contains "featured" %}

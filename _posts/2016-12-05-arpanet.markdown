@@ -1,9 +1,12 @@
 ---
+title: Arpanet - The Analyst
+date: 2016-12-05 00:00:00 Z
+categories:
+- Are.na Influences
+tags:
+- featured
 layout: post
-title:  "Arpanet - The Analyst"
-category: "Are.na Influences"
-tags: "featured"
-image: "https://d2w9rnfcy7mm78.cloudfront.net/792750/original_e6c513413db3cccf4efbffa948c0e684.jpg"
+image: https://d2w9rnfcy7mm78.cloudfront.net/792750/original_e6c513413db3cccf4efbffa948c0e684.jpg
 ---
 
 This post is the first in a series of extrapolations on what inspires and influences us at Are.na. Check out our [Are.na Influences channel](https://www.are.na/charles-broskoski/arena-influences).
