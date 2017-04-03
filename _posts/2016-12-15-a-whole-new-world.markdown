@@ -30,8 +30,6 @@ _This post is the first in a series highlighting channels we’re paying attenti
 
 
 
-## abstract worlds
-[![](https://67.media.tumblr.com/df94cf3bf501e2c272469b76ba78da10/tumblr_nzd8x48OfN1qzse0lo1_1280.jpg)](https://www.are.na/drew-garvey/abstract-worlds) *[View the channel on Are.na](https://www.are.na/drew-garvey/abstract-worlds)*
 
 ## Intentional Environments
 [![](https://4.bp.blogspot.com/_EWY1PJsPzBA/TQwrQLCtwyI/AAAAAAAADoI/-DQ5CwGjLnE/s1600/arakawa%2526gins03.jpg)](https://www.are.na/morgan-sutherland/intentional-environments) *[View this channel on Are.na](https://www.are.na/morgan-sutherland/intentional-environments)*
