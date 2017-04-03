@@ -1,17 +1,11 @@
----
+# Site settings
 title: Are.na / Blog
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
 email: everyone@are.na
-description: 'Building are.na
+description: > # this means to ignore newlines until "baseurl:"
+  Building are.na
+url: "http://posts.are.na" # the base hostname & protocol for your site
 
-'
-url: http://posts.are.na
+# Build settings
 markdown: kramdown
-gems: 
+
+gems:
