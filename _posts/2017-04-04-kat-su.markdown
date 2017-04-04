@@ -1,12 +1,12 @@
 ---
-title: Kat Su, Designer at Calvin Klein 
-date: 2017-4-4 12:00:00 Z
+title: Kat Su, Designer at Calvin Klein
+date: 2017-04-04 12:00:00 Z
 categories:
 - Focus
 tags:
 - featured
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/698555/original_87832f9922278e8ffec22c5f0e3a20d1.jpg
+image: https://d2w9rnfcy7mm78.cloudfront.net/902847/original_6d1acd783df7799f66f49f18a6792c4f.jpg
 author: "Meg Miller"
 ---
 
