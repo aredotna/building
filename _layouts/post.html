@@ -5,6 +5,11 @@ layout: default
 <div class="post">
 
   <header class="post-header">
+    {% if page.image %}
+      <div style="display: none">
+        <img src="{{ page.image }}">
+      </div>
+    {% endif %}
     <div class="post-category-title">
       <h1>{{ page.categories }}:</h1>
       <h1>{{ page.title }}</h1>
