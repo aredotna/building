@@ -10,9 +10,9 @@ image: https://d2w9rnfcy7mm78.cloudfront.net/833777/original_f39e39b4a3975b6bc6c
 author: "Francis Tseng"
 ---
 
-Parallel to the 2016 United States election ran a conflict that mainstream media largely overlooked, until it surfaced in the [form of criticism of the Pepe meme](https://www.hillaryclinton.com/feed/donald-trump-pepe-the-frog-and-white-supremacists-an-explainer/) and its association with the increasingly brazen and visible "alt-right". However, this was only a glimpse into the "Great Meme War"—organized on Reddit and 4Chan but waged on Twitter and Facebook—which linked an ideological conflict expressed through memes to an exceptionally contentious U.S. presidential election. After Trump's victory, many participants in the "war" celebrated their success at "electing a meme".
+Parallel to the 2016 United States election ran a conflict that mainstream media largely overlooked, until it surfaced in the [form of criticism of the Pepe meme](https://www.hillaryclinton.com/feed/donald-trump-pepe-the-frog-and-white-supremacists-an-explainer/) and its association with the increasingly brazen and visible "alt-right." However, this was only a glimpse into the "Great Meme War"—organized on Reddit and 4Chan but waged on Twitter and Facebook—which linked an ideological conflict expressed through memes to an exceptionally contentious U.S. presidential election. After Trump's victory, many participants in the "war" celebrated their success at "electing a meme."
 
-Memes are credited with an increasingly important role as a potent form of political propaganda, both solidifying in-group ideological identity and disseminating ideas in forms that are often disarming in their unexpectedness or humor. The alt-right is especially effective at using memes—exploiting liberal impulses of "virtue signaling", and piggybacking onto the currents of social media outrage culture—though there is also a burgeoning scene of communist and other anti-capitalist/leftist memes in communities such as [r/FULLCOMMUNISM](https://www.reddit.com/r/FULLCOMMUNISM/).
+Memes are credited with an increasingly important role as a potent form of political propaganda, both solidifying in-group ideological identity and disseminating ideas in forms that are often disarming in their unexpectedness or humor. The alt-right is especially effective at using memes—exploiting liberal impulses of "virtue signaling," and piggybacking onto the currents of social media outrage culture—though there is also a burgeoning scene of communist and other anti-capitalist/leftist memes in communities such as [r/FULLCOMMUNISM](https://www.reddit.com/r/FULLCOMMUNISM/).
 
 ![](https://d2w9rnfcy7mm78.cloudfront.net/833777/large_f39e39b4a3975b6bc6c7cecf583f0a7a.png)
 
@@ -32,7 +32,7 @@ This form started out from [The Political Compass](https://www.politicalcompass.
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/francis-tseng/ancap-memes/embed"></iframe>
 
-Anarcho-capitalist memes ("ancap" memes) are dystopian microfictions that depict  anarcho-capitalist "utopia", where unregulated markets completely replace the state. Property reigns supreme, force is privatized, corporations are warlords, and a relationship is only as good as the contract you signed.  
+Anarcho-capitalist memes ("ancap" memes) are dystopian microfictions that depict  anarcho-capitalist "utopia," where unregulated markets completely replace the state. Property reigns supreme, force is privatized, corporations are warlords, and a relationship is only as good as the contract you signed.  
 
 There are other forms of these "life in libertarian paradise" memes. For example, some exist as 4chan greentexts:
 
@@ -58,13 +58,15 @@ There are other forms of these "life in libertarian paradise" memes. For example
 
 ---
 
-So did the “Great Meme War” actually have an effect on the presidential election? I suspect memes did have some indirect impact on Trump’s victory. That impact may have been simply to mobilize subcultures distant from, and overlooked by, mainstream politics: For example, the 4chan community, which possess not only a great deal of coveted technological expertise, but also a moral ambiguity in how it is applied. 
+So did the “Great Meme War” actually have an effect on the presidential election? I suspect memes did have some indirect impact on Trump’s victory. That impact may have been simply to mobilize subcultures distant from, and overlooked by, mainstream politics: For example, the 4chan community, which possesses not only a great deal of coveted technological expertise, but also a moral ambiguity in how it is applied. 
 
 Memes provide a visual culture and communicate values around which effective political organizing can spring. These memes may never make it out of these subcultures, and maybe they don't need to. They only needed to provide the glue to bring together people for more direct action. In the case of 4chan, that action was brigading, harassing, spreading rumors, and intimidating "cuckservatives" into more radical positions. 
 
-This is just speculation on the short-term effects on memes; it's even more difficult to comment on how this will play out in the long-term. Can communication rooted in absurdity and [recursive layers of irony](http://thephilosophersmeme.com/glossary/#MetaIronicMemes) produce a real shift in the intellectual landscape? One helpful way of framing it is to view memes as a metapolitical strategy, one that would “gradually transform the political and intellectual culture as a precursor to transforming institutions and systems,” as [Matthew Lyons’s puts it](http://www.politicalresearch.org/2017/01/20/ctrl-alt-delete-report-on-the-alternative-right/#sthash.GljLIbbj.dpbs) in his book, Insurgent Supremacists. This plan was advocated by the European New Right and subsequently carried on by its intellectual successors, the alt-right. 
+This is just speculation on the short-term effects of memes; it's even more difficult to comment on how this will play out in the long-term. Can communication rooted in absurdity and [recursive layers of irony](http://thephilosophersmeme.com/glossary/#MetaIronicMemes) produce a real shift in the intellectual landscape? One helpful way of framing it is to view memes as a metapolitical strategy, one that would “gradually transform the political and intellectual culture as a precursor to transforming institutions and systems,” as [Matthew Lyons puts it](http://www.politicalresearch.org/2017/01/20/ctrl-alt-delete-report-on-the-alternative-right/#sthash.GljLIbbj.dpbs) in his book, _Insurgent Supremacists_. This plan was advocated by the European New Right and subsequently carried on by its intellectual successors, the alt-right. 
 
 While I haven't found any convincing evidence to prove the effect of memes at a societal scale, there are some meta-memes reflecting on the role of memes in individual political development:
+
+![](https://d2w9rnfcy7mm78.cloudfront.net/852461/large_2c6bc509cd8d0405810ef879df18c507.png)
 
 It's unclear how common this narrative is, but glimpses can be caught in the comments of some shitposting communities. In one such community I've witnessed several genuine political discussions, with receptive and open-minded participants, take place around memes about anxiety and depression (which perhaps imply a dissatisfaction rooted in politics but are not themselves explicitly political).
 
