@@ -6,7 +6,7 @@ categories:
 tags:
 - draft
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/902847/original_6d1acd783df7799f66f49f18a6792c4f.jpg
+image: https://d2w9rnfcy7mm78.cloudfront.net/833777/original_f39e39b4a3975b6bc6c7cecf583f0a7a.png
 author: "Francis Tseng"
 ---
 
