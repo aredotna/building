@@ -1,6 +1,6 @@
 ---
 title: Propaganda Of The Meme
-date: 2017-04-04 12:00:00 Z
+date: 2017-04-10 12:00:00 Z
 categories:
 - Case Study
 tags:
@@ -27,6 +27,8 @@ To gain some insight into these questions I've been collecting political memes o
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/francis-tseng/political-compasses-other-matrices/embed"></iframe>
 
 This form started out from [The Political Compass](https://www.politicalcompass.org/), a website where you could take a quiz and see where you lie on a matrix with an economic axis (left vs right) and a social axis (authoritarian vs libertarian). The reductiveness of this representation is ripe for ridicule and has generated many variations that are surprisingly way more expressive than the original. Some of these desperately try to create a rigorous and elaborate spatial representation of ideology; others play with the form for criticism and humor. Many of these renderings riff on the perceptions of one quadrant towards the others, mocking all positions and placing the creator outside of the matrix. Others clearly identify with one quadrant more than others.
+
+---
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/francis-tseng/ancap-memes/embed"></iframe>
 
