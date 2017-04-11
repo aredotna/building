@@ -1,10 +1,10 @@
 ---
 title: Propaganda Of The Meme
-date: 2017-04-10 12:00:00 Z
+date: 2017-04-11 12:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/833777/original_f39e39b4a3975b6bc6c7cecf583f0a7a.png
 author: "Francis Tseng"
