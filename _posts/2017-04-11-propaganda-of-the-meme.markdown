@@ -1,5 +1,5 @@
 ---
-title: Propaganda Of The Meme
+title: Propaganda of the Meme
 date: 2017-04-11 12:00:00 Z
 categories:
 - Case Study
