@@ -18,7 +18,7 @@ author: "Meg Miller"
 
 **Meg Miller: The [description on your site](https://trauminc.com/work/fear-and-love-the-design-museum/) gets to the core of the _Fear and Love_ exhibition better than any review of it I’ve read. It states simply that the designers in the show are “each exploring an issue that inspires both anxiety and optimism.” What gives you the most anxiety and optimism about technology and design, and where things are headed?**
 
-Thomas Traum: Well I think we are at a tipping point—that’s the thing with fear and love, right? We don’t know where it’s going to go. We think at this point technology is going to be terrible. 
+Thomas Traum: Well I think we are at a tipping point—that’s the thing with fear and love, right? We don’t know where it’s going to go. A lot of people think at this point technology is going to be terrible. 
 
 I’m also thinking about something that a lot of the guys at Are.na share: an interest in the first wave of the web. We like how amazing the web can be and how connected it makes us and how we can grow knowledge. But now you have that flip side where it helps weird subcultures to feed themselves or get high on their own supply. It’s extreme subcultures like the extreme right wing crews that feed on themselves, and it kind of becomes the opposite of [the original idea]. 
 
@@ -48,15 +48,15 @@ I’ve been thinking about this myself a lot lately. I really find that images a
 
 **Can you talk a bit about how you started working on the images for the _Fear and Love_ exhibition?**
 
-[I was asked by] these two guys—[OK-RM](http://www.ok-rm.co.uk/) is what they’re called. They run a small design studio here in London. They are print designers so they do exhibition design and communication. They worked on the whole show, so they did the whole campaign in terms of the look. 
+[I was asked by] these two [OK-RM](http://www.ok-rm.co.uk/) a great design studio here in London. They do a lot of exhibition design and communication. They worked on the whole show, so they did the whole campaign in terms of the look. 
 
-The creator, Justin McGuirk, involved them, and he’s the one who came up with the fear and love concept and curated the show. So the idea of both a fear and love reaction to a complex world is his baby in way. The Design Museum in London was reopening, so they wanted to put on a really strong show and make it really relevant. 
+The creator, Justin McGuirk, involved them, and he’s the one who came up with the fear and love concept and curated the show. So the idea of both a fear and love reaction to a complex world is their baby. The Design Museum in London was reopening, so they wanted to put on a really strong show and make it really relevant. 
 
 OK-RM approached me to create the images for it because they thought my work kind of has that feeling to it already, and that it would work really well to use CG or New Aesthetic for this project. That’s how the project came about, basically. We had these themes and we went into the research phase and then we made the images.
 
-**So the themes are the channels that you sent to me, like periphery, planet, body, machine and network?**
+**So the themes are the channels that you sent to me, like [periphery](https://www.are.na/thomas-traum/fear-and-love-periphery), [planet](https://www.are.na/thomas-traum/fear-and-love-planet), [body](https://www.are.na/thomas-traum/fear-and-love-body), [machine](https://www.are.na/thomas-traum/fear-and-love-machine) and [network](https://www.are.na/thomas-traum/fear-and-love-network)?**
 
-Yeah, those were heavily influenced by Justin’s thinking about this exhibition and how it was going to play out—what are the major areas where we are going to have a lot of disruption and changes to everyday life? 
+Yeah, those were heavily influenced by Justin’s and OK-RM's thinking about this exhibition and how it was going to play out—what are the major areas where we are going to have a lot of disruption and changes to everyday life? 
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/thomas-traum/fear-and-love-machine/embed"></iframe>
 
@@ -100,7 +100,7 @@ Yeah, that’s a good point. The worldmaking stuff is really extreme in programm
 
 I think I’ve been lucky that some of them are my friends because we started doing these things at the same time. These guys from a studio called [More and More](https://moreandmoreltd.com/) are really good friends of mine, and I really respect them for what they do. 
 
-And then I really like this guy [Vadik Marmeladov](http://www.vadikmarmeladov.com/). He used to own a product company called Lapka that just got acquired by Airbnb. He’s just an amazing designer. He’s very broadly skilled as well. 
+And then I really like this guy [Vadik Marmeladov](http://www.vadikmarmeladov.com/). He used to own a product company called Lapka that eventually got acquired by Airbnb. He’s just an amazing designer. He’s very broadly skilled as well. 
 
 These are friends, contemporaries of mine, that do a lot of good work.
 
