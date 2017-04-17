@@ -14,6 +14,8 @@ author: "Meg Miller"
 
 ---
 
+<iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/thomas-traum/fear-and-love-reactions-to-a-complex-world/embed"></iframe>
+
 **Meg Miller: The [description on your site](https://trauminc.com/work/fear-and-love-the-design-museum/) gets to the core of the _Fear and Love_ exhibition better than any review of it I’ve read. It states simply that the designers in the show are “each exploring an issue that inspires both anxiety and optimism.” What gives you the most anxiety and optimism about technology and design, and where things are headed?**
 
 Thomas Traum: Well I think we are at a tipping point—that’s the thing with fear and love, right? We don’t know where it’s going to go. We think at this point technology is going to be terrible. 
