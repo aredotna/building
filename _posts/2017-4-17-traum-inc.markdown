@@ -10,11 +10,11 @@ image: https://d2w9rnfcy7mm78.cloudfront.net/902847/original_6d1acd783df7799f66f
 author: "Meg Miller"
 ---
 
-[Thomas Traum](https://www.are.na/thomas-traum) is a visual artist and designer who works primarily in motion graphics and 3D illustration at his studio [Traum Inc](https://trauminc.com/). Thomas grew up in Germany before studying New Media at Ecole cantonale d'art de Lausanne (ECAL) in Switzerland. After school, he moved to London, where he still lives. He and a team of five at Traum Inc. make work across various mediums, from animations for fashion houses like Kenzo and Issey Miyake to music videos, interactive exhibitions and print illustrations. In November 2016, Thomas created images to advertise [Fear and Love: Reactions To A Complex World](https://designmuseum.org/exhibitions/fear-and-love), the first exhibition at the renovated and reopened Design Museum in London. The show and the ideas explored therein felt like a good framework for delving into Thomas’s work and process. In a Skype conversation last month, we started there.
+[Thomas Traum](https://www.are.na/thomas-traum) is a visual artist and designer who works primarily in motion graphics and 3D illustration at his studio [Traum Inc](https://trauminc.com/). Thomas grew up in Germany before studying New Media at Ecole cantonale d'art de Lausanne (ECAL) in Switzerland. After school, he moved to London, where he still lives. He and a team of five at Traum Inc. make work across various mediums, from animations for fashion houses like Kenzo and Issey Miyake to music videos, interactive exhibitions and print illustrations. In November 2016, Thomas created images to advertise _[Fear and Love: Reactions To A Complex World](https://designmuseum.org/exhibitions/fear-and-love)_, the first exhibition at the renovated and reopened Design Museum in London. The show and the ideas explored therein felt like a good framework for delving into Thomas’s work and process. In a Skype conversation last month, we started there.
 
 ---
 
-**Meg Miller: The [description on your site](https://trauminc.com/work/fear-and-love-the-design-museum/) gets to the core of the Fear and Love exhibition better than any review of it I’ve read. It states simply that the designers in the show are “each exploring an issue that inspires both anxiety and optimism.” What gives you the most anxiety and optimism about technology and design, and where things are headed?**
+**Meg Miller: The [description on your site](https://trauminc.com/work/fear-and-love-the-design-museum/) gets to the core of the _Fear and Love_ exhibition better than any review of it I’ve read. It states simply that the designers in the show are “each exploring an issue that inspires both anxiety and optimism.” What gives you the most anxiety and optimism about technology and design, and where things are headed?**
 
 Thomas Traum: Well I think we are at a tipping point—that’s the thing with fear and love, right? We don’t know where it’s going to go. We think at this point technology is going to be terrible. 
 
@@ -24,7 +24,7 @@ I’m also thinking about something that a lot of the guys at Are.na share: an i
 
 There’s also body modification, which is kind of scary. Are you still the same person or are you a different person? There’s just so much going on and it can go both ways [anxiety and optimism/love and fear]. I think our images kind of show that this is one way it could go, or maybe not. 
 
-**Right, so anxiety and optimism are sort of inhabiting the same space**
+**Right, so anxiety and optimism are sort of inhabiting the same space.**
 
 Personally I’m quite optimistic still. But I think if I didn’t work in this area—I mean, even though I’m a designer, I think of myself as a technologist almost. So it gives you the confidence that you can navigate that space, and it gives you a prediction. But there’s so much that is out of your control. It does give me anxiety at some point. 
 
@@ -44,9 +44,9 @@ I’ve been thinking about this myself a lot lately. I really find that images a
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/thomas-traum/nnnooowww/embed"></iframe>
 
-**Can you talk a bit about how you started working on the images for the Fear and Love exhibition?**
+**Can you talk a bit about how you started working on the images for the _Fear and Love_ exhibition?**
 
-[I was asked by] these two guys—OK-RM is what they’re called. They run a small design studio here in London. They are print designers so they do exhibition design and communication. They worked on the whole show, so they did the whole campaign in terms of the look. 
+[I was asked by] these two guys—[OK-RM](http://www.ok-rm.co.uk/) is what they’re called. They run a small design studio here in London. They are print designers so they do exhibition design and communication. They worked on the whole show, so they did the whole campaign in terms of the look. 
 
 The creator, Justin McGuirk, involved them, and he’s the one who came up with the fear and love concept and curated the show. So the idea of both a fear and love reaction to a complex world is his baby in way. The Design Museum in London was reopening, so they wanted to put on a really strong show and make it really relevant. 
 
@@ -76,7 +76,7 @@ I think the main thing is our slogan: New images for a new world, using new tool
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/thomas-traum/fear-and-love-network/embed"></iframe>
 
-Also, with everything we do, we create a world. That's the main thing. You can see that in the Fear and Love images—they all look like they belong to the same world. When we do stuff for [the French clothing brand] Kenzo for a collection, we always extrapolate from the collection and then generate a whole world. I think that’s true for whatever we’ve done—we’ve created a little framework, or a little world. 
+Also, with everything we do, we create a world. That's the main thing. You can see that in the _Fear and Love_ images—they all look like they belong to the same world. When we do stuff for [the French clothing brand] Kenzo for a collection, we always extrapolate from the collection and then generate a whole world. I think that’s true for whatever we’ve done—we’ve created a little framework, or a little world. 
 
 I think it's because I come from a Swiss design school and they think in systems. It’s kind of a nice way to make things. Because a world is always a system, so you can answer a lot of questions once you’ve made the world, in a really abstract way. If you have a specific concept, like Japan for a Kenzo collection, you can set up this world and use that as a subject and then find all these angles on the same theme and work in a really fast way. 
 
@@ -96,9 +96,9 @@ Yeah, that’s a good point. The worldmaking stuff is really extreme in programm
 
 **Are there any artists or designers that you feel tied to, or like you owe a debt to in some way?**
 
-I think I’ve been lucky that some of them are my friends because we started doing these things at the same time. These guys from a studio called More and More are really good friends of mine, and I really respect them for what they do. 
+I think I’ve been lucky that some of them are my friends because we started doing these things at the same time. These guys from a studio called [More and More](https://moreandmoreltd.com/) are really good friends of mine, and I really respect them for what they do. 
 
-And then I really like this guy Vadik Marmeladov. He used to own a product company called Lapka that just got acquired by Airbnb. He’s just an amazing designer. He’s very broadly skilled as well. 
+And then I really like this guy [Vadik Marmeladov](http://www.vadikmarmeladov.com/). He used to own a product company called Lapka that just got acquired by Airbnb. He’s just an amazing designer. He’s very broadly skilled as well. 
 
 These are friends, contemporaries of mine, that do a lot of good work.
 
@@ -106,7 +106,7 @@ These are friends, contemporaries of mine, that do a lot of good work.
 
 **Can I ask you about the name Thomas Traum?**
 
-It’s an artist name. I started out with a sort of Internet identity, and Thomas Traum is a really beautiful name in German. Traum means dream, but alptraum is also nightmare. So nightmare and dream have a similar word root in German, and also it's less—dream has a cheesier connotation in English, but traum in German is way more open to different meanings. 
+It’s an artist name. I started out with a sort of Internet identity, and Thomas Traum is a really beautiful name in German. _Traum_ means dream, but _alptraum_ is also nightmare. So nightmare and dream have a similar word root in German, and also it's less—dream has a cheesier connotation in English, but _traum_ in German is way more open to different meanings. 
 
 I became a little bit known under that name on the Internet, and when I went freelance I kept that name because it gave me some leverage in terms of finding clients. Since we have more people now I thought it would be cool to get rid of the Thomas and stick with Traum Inc.
 
