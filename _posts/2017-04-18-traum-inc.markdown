@@ -1,12 +1,12 @@
 ---
 title: Thomas Traum, designer at Traum Inc.
-date: 2017-04-17 12:00:00 Z
+date: 2017-04-18 12:00:00 Z
 categories:
 - Focus
 tags:
-- draft
+- featured
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/902847/original_6d1acd783df7799f66f49f18a6792c4f.jpg
+image: https://d2w9rnfcy7mm78.cloudfront.net/978858/original_56ac434c53204d330943b9f0bfe9ae2a.jpg
 author: "Meg Miller"
 ---
 
