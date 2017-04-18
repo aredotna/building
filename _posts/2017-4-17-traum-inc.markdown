@@ -48,7 +48,7 @@ I’ve been thinking about this myself a lot lately. I really find that images a
 
 **Can you talk a bit about how you started working on the images for the _Fear and Love_ exhibition?**
 
-[I was asked by] these two [OK-RM](http://www.ok-rm.co.uk/) a great design studio here in London. They do a lot of exhibition design and communication. They worked on the whole show, so they did the whole campaign in terms of the look. 
+[I was asked by] [OK-RM](http://www.ok-rm.co.uk/) a great design studio here in London. They do a lot of exhibition design and communication. They worked on the whole show, so they did the whole campaign in terms of the look. 
 
 The creator, Justin McGuirk, involved them, and he’s the one who came up with the fear and love concept and curated the show. So the idea of both a fear and love reaction to a complex world is their baby. The Design Museum in London was reopening, so they wanted to put on a really strong show and make it really relevant. 
 
