@@ -4,7 +4,7 @@ date: 2017-04-20 12:00:00 Z
 categories:
 - Are.na Influences
 tags:
-- featured
+- draft
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/978858/original_56ac434c53204d330943b9f0bfe9ae2a.jpg
 author: "Charles Broskoski"
