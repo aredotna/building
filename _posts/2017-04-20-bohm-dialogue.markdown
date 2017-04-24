@@ -10,7 +10,7 @@ image: https://d2w9rnfcy7mm78.cloudfront.net/978858/original_56ac434c53204d33094
 author: "Charles Broskoski"
 ---
 
-_Are.na Influences is a series in which we discuss some of the ideas that continue to provide inspiration to us in building Are.na. In this post I'm going to introduce David Bohm's philosophy of dialogue, a methodology for examining and refining thought in a group setting._
+_Are.na Influences is a series in which we discuss some of the ideas that continue to provide inspiration to us while building this platform together. In this post I'm going to introduce David Bohm's philosophy of dialogue, a methodology for examining and refining thought in a group setting._
 
 ---
 
