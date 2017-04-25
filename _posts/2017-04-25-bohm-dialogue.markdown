@@ -1,12 +1,12 @@
 ---
 title: Bohm Dialogue
-date: 2017-04-20 12:00:00 Z
+date: 2017-04-25 12:00:00 Z
 categories:
 - Are.na Influences
 tags:
-- draft
+- featured
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/978858/original_56ac434c53204d330943b9f0bfe9ae2a.jpg
+image: https://d2w9rnfcy7mm78.cloudfront.net/992153/original_2504f655e5912097f5165c6e41568c51.png
 author: "Charles Broskoski"
 ---
 
@@ -14,23 +14,23 @@ _Are.na Influences is a series in which we discuss some of the ideas that contin
 
 ---
 
-> In a dialogue, each person does not attempt to make common certain ideas or items of information that are already known to him. Rather, it may be said that the two people are making something in common, i.e., creating something new together." – David Bohm
+> In a dialogue, each person does not attempt to make common certain ideas or items of information that are already known to him. Rather, it may be said that the two people are making something in common, i.e., creating something new together. – David Bohm
 
-David Bohm is considered one of the most important theoretical physicists of the 20th century. While in graduate school at Berkeley in 1943, where he studied under Robert Oppenheimer, Bohm’s PhD dissertation was classified before he had a chance to defend it: It was deemed vital to the Manhattan project, but due to his involvement in Communist organizations, he couldn’t get a security clearance. In his early career, he developed the theory of the fourth state of matter (plasma), which led to theories of metals, then elementary particles and, most significantly, breakthrough theories in quantum mechanics. Einstein once called him his “intellectual successor”.
+David Bohm is considered one of the most important theoretical physicists of the 20th century. While he was a PhD candidate at Berkeley in 1943, studying under Robert Oppenheimer, the U.S. Government classified Bohm's dissertation before he had a chance to defend it: It was deemed vital to the Manhattan project, but due to his involvement in Communist organizations, he couldn’t get a security clearance. In his early career, he developed the theory of the fourth state of matter (plasma), which led to theories of metals, then elementary particles and, most significantly, breakthrough theories in quantum mechanics. Einstein once called him his “intellectual successor”.
 
 ![](https://d2w9rnfcy7mm78.cloudfront.net/989833/original_3e023943c8334418f961394c2e24bd4a.jpg)
 
 Roughly speaking, Bohm's career started out highly academic and technical, and gradually moved towards softer, philosophical subjects. His interest in quantum mechanics led him to consider the role of consciousness in shaping reality, which led him to the philosophy of the mind, which in turn led him to the concept of a dialogue.
 
-In examining Bohm's life outside of his own work, a few relationships can be recognized as precursors to his focus on the concept of a dialogue. One was the friendship between Niels Bohr and Albert Einstein, which Bohm witnessed. 
+In examining Bohm's life outside of his own work, we can recognize a few relationships as precursors to his focus on the concept of a dialogue. One was the friendship between Niels Bohr and Albert Einstein, which Bohm witnessed. 
 
-The way [Bohm describes it](http://www.mindstructures.com/david-bohm-about-einstein-and-bohr/), Bohr and Einstein started out as great friends but slowly drifted apart due to a philosophical disagreement on the nature of truth in the context of science. Bohr argued that the observer played a role in the definition of truth, while Einstein called this a "tranquilizer philosophy" and thought that the observer played no role in the evaluation of scientific truth. Bohm's view was that both Einstein and Bohr were partially correct, but because each of them would individually dig in and hold their positions, there would never be a way to move past their differences. On this point, Bohm says "They were not discussing the point which was the unconscious assumption, or even conscious. But they did not discuss their assumptions. They argued by saying, 'This is my assumption. This is my result.' They did not get together and say, 'Here are our two assumptions. Let me look at your assumption as favorably as I can, and you look at mine.'"
+The way [Bohm describes it](http://www.mindstructures.com/david-bohm-about-einstein-and-bohr/), Bohr and Einstein started out as great friends but slowly drifted apart due to a philosophical disagreement on the nature of truth in the context of science. Bohr argued that the observer played a role in the definition of truth, while Einstein called this a "tranquilizer philosophy" and thought that the observer played no role in the evaluation of scientific truth. Bohm's view was that both Einstein and Bohr were partially correct, but because each of them would individually dig in and hold their positions, there would never be a way to move past their differences. On this point, Bohm says, "They were not discussing the point which was the unconscious assumption, or even conscious. But they did not discuss their assumptions. They argued by saying, 'This is my assumption. This is my result.' They did not get together and say, 'Here are our two assumptions. Let me look at your assumption as favorably as I can, and you look at mine.'"
 
-The other relationship that significantly influenced his conception of dialogue was with J.Krishnamurti, whose work he came into contact with in the early 60's. Krishnamurti was groomed from the age of 14 to be the "[World Teacher](https://en.wikipedia.org/wiki/Maitreya_(Theosophy)#The_World_Teacher_Project)" in a Theosophy sect called The Order of the Star in the East, and had since become something of an anti-guru. Krishnamurti's statement upon leaving the The Order:
+The other relationship that significantly influenced his conception of dialogue was with J.Krishnamurti, whose work he came into contact with in the early 1960's. Krishnamurti was groomed from the age of 14 to be the "[World Teacher](https://en.wikipedia.org/wiki/Maitreya_(Theosophy)#The_World_Teacher_Project)" in a Theosophy sect called The Order of the Star in the East founded in 1911, and had since become something of an anti-guru. Krishnamurti's statement upon leaving the The Order:
 
 > I maintain that truth is a pathless land, and you cannot approach it by any path whatsoever, by any religion, by any sect. That is my point of view, and I adhere to that absolutely and unconditionally. Truth, being limitless, unconditioned, unapproachable by any path whatsoever, cannot be organized; nor should any organization be formed to lead or coerce people along a particular path. ... This is no magnificent deed, because I do not want followers, and I mean this. The moment you follow someone you cease to follow Truth. I am not concerned whether you pay attention to what I say or not. I want to do a certain thing in the world and I am going to do it with unwavering concentration. I am concerning myself with only one essential thing: to set man free. I desire to free him from all cages, from all fears, and not to found religions, new sects, nor to establish new theories and new philosophies.
 
-Bohm and Krishnamurti developed a friendship, and over the course of 25 years had a series of conversations (many of which were [documented](http://www.jkrishnamurti.org/krishnamurti-teachings/view-text.php?tid=1373&chid=1072)), exploring the general nature of reality, time and thought. It was important to note that there was no leader and no pre-defined subject to these conversations, a practice that would inform Bohm’s philosophy around dialogue. The idea was to explore together and to build and refine each others thoughts. A [short example from 1980](http://www.jkrishnamurti.org/krishnamurti-teachings/view-text.php?tid=31&chid=56829&w=Bohm):
+Bohm and Krishnamurti developed a friendship, and over the course of 25 years had a series of conversations (many of which were [documented](http://www.jkrishnamurti.org/krishnamurti-teachings/view-text.php?tid=1373&chid=1072)), exploring the general nature of reality, time and thought. It is important to note that there was no leader and no pre-defined subject to these conversations, a practice that would inform Bohm’s philosophy around dialogue. The idea was to explore together and to build and refine each others thoughts. A [short example from 1980](http://www.jkrishnamurti.org/krishnamurti-teachings/view-text.php?tid=31&chid=56829&w=Bohm):
 
 ![](http://bohmkrishnamurti.com/wp-content/uploads/2012/03/krishnamurti_bohm.jpg)
 
@@ -73,9 +73,9 @@ problem — by the way we go on with our thought." His concept of dialogue is me
 
 ---
 
-There are a lot of ways that Bohm's concept of a dialogue influences how I think about building Are.na. The idea of building a shared meaning, of being able to build ideas with other people over time and the way one can refine their own thinking by bouncing ideas off of other people. 
+There are a lot of ways that Bohm's concept of a dialogue influences how I think about building Are.na: the idea of building a shared meaning, of being able to build ideas with other people over time and the way one can refine their own thinking by bouncing ideas off of other people. 
 
-Perhaps the most admirable part of Bohm’s theory of dialogue—and one that influences how we think of Are.na as being used—is that he conceived of a very simple structure that allowed for emergent possibilities to develop. It's so easy to treat technology as though it can prescribe a solution to a particular problem (now more than ever). Software developers build complex workflows, new methods for faster communication and tune information delivery to an individual level but what humans really need is much more simple: time and space to think and process. 
+Perhaps the most admirable part of Bohm’s theory of dialogue—and one that influences how we think of Are.na as being used—is that he conceived of a very simple structure that allowed for emergent possibilities to develop. It's so easy to treat technology as though it can prescribe a solution to a particular problem (now more than ever). Software developers build complex workflows, create new methods for faster communication and tune information delivery to an individual level, but what humans really need is much more simple: time and space to think and process. 
 
 We are often reluctant (or maybe just careful) about adding new features to Are.na because we don't want to interfere too much into that space. Humans on the internet have so much information readily available at any given point, what's most needed is the ability to hold that information at arms length for further investigation.
 
