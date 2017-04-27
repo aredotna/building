@@ -6,7 +6,7 @@ categories:
 tags:
 - featured
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/992170/large_f6520d9de0e83fbf4ccc4dcc277cee19.jpg
+image: https://d2w9rnfcy7mm78.cloudfront.net/996305/original_9d97c7b878021c7e378309f98d885bf3.png
 author: "Charles Broskoski"
 ---
 
