@@ -1,6 +1,6 @@
 ---
 title: Web surfing as Comedy
-date: 2017-04-11 12:00:00 Z
+date: 2017-05-01 12:00:00 Z
 categories:
 - Case Study
 tags:
@@ -44,11 +44,11 @@ Sometimes you might see specimen that come as a duo, similar to the way that com
 
 The pair of channels, [Startup/App Names that are Made Up Words](https://www.are.na/bryce-wilner/startup-app-names-that-are-made-up-words) and [Made Up Words That Could be Startup/App Names](https://www.are.na/zach-rose/made-up-words-that-could-be-startup-app-names), is like watching a joke give another a joke a hug. Each channel is funny on its own, by virtue of a vertical kind of humor: the humor works on one scale, with a play on words, as well on a broader scale concerning startup tech culture. When the channels come together, the build-up between the two channels heightens the humor horizontally. Looking at the pair of jokes is like watching a joke looking at itself in the mirror, flipped around:
  
-![](https://d2w9rnfcy7mm78.cloudfront.net/1001892/original_394eaaf7e6372cd04c2e68cdb8ea96e4.png)
+![](https://d2w9rnfcy7mm78.cloudfront.net/1001920/original_fae43af2bbccf33d348c79256830b10e.png)
 _[https://www.are.na/bryce-wilner/startup-app-names-that-are-made-up-words](https://www.are.na/bryce-wilner/startup-app-names-that-are-made-up-words)_
 
-![](https://d2w9rnfcy7mm78.cloudfront.net/1001894/original_3bee2ffc0d0b72adf744e7e69c1486a7.png)
-_[](https://www.are.na/zach-rose/made-up-words-that-could-be-startup-app-names)_
+![](https://d2w9rnfcy7mm78.cloudfront.net/1001919/original_2d50bca62ca634203286db1667569515.png)
+_[https://www.are.na/zach-rose/made-up-words-that-could-be-startup-app-names](https://www.are.na/zach-rose/made-up-words-that-could-be-startup-app-names)_
 
 The channel Freak Hacks is another example of two entities playing off of each other. Only, instead of complementing each other, the two sides of this joke are wrestling. This channel reminds me of The Eric Andre Show in that they’re both satirical (“freak hacks” is a satire on life hacks), and they both relish physical extremes by using stunts as comedy. It’s visceral, grimy and absurd: 
 
