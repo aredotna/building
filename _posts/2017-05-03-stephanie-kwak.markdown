@@ -26,7 +26,7 @@ So let’s take out both our microscopes and our telescopes, and see what we mig
 
 Sometimes, a joke can look like a mere link.
 
-A link can funny because it’s surprising to viewer. In some cases, the surprise could be a prank, which relies on having a victim. Such is the case of the [rickroll](https://en.wikipedia.org/wiki/Rickrolling).
+A link can be funny because it’s surprising to the viewer. In some cases, the surprise could be a prank, which relies on having a victim. Such is the case of the [rickroll](https://en.wikipedia.org/wiki/Rickrolling).
 
 In other instances, someone might be trolling someone else, which is often known for being mean-spirited, but it isn’t always. Sometimes it can even look quite nice:
 
