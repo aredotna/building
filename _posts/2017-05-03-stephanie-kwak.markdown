@@ -1,10 +1,10 @@
 ---
 title: Web surfing as Comedy
-date: 2017-05-01 12:00:00 Z
+date: 2017-05-03 12:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/816753/original_0322ac50ff57653c53e5cd091dd314f3.jpg
 author: "Stephanie Kwak"
