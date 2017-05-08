@@ -30,7 +30,7 @@ This is how the group started. Are.na has been really helpful for our group sinc
 
 **I was excited to see you using Are.na in this way because I think it’s a good tool for organizing.**
 
-Yes and much research was already complied on are.na. There was gentrification channel that I already followed and I loved that I could link it to AAD. It’s nice to have these multiple conversations since much of the world happens in overlaps, especially when it comes to politics. Are.na “connections” mimic the ways I already oragnzied relevant subject matter in my head. Like, connecting  [District 1 City Councilperson] Margaret Chin to affordable housing to Bill De Blasio, or Margaret Chin to Sheldon Silver. In making these visual connections on are.na, it takes a lot of the work out of having to write your own notes.
+Yes and much research was already complied on Are.na. There was gentrification channel that I already followed and I loved that I could link it to AAD. It’s nice to have these multiple conversations since much of the world happens in overlaps, especially when it comes to politics. Are.na “connections” mimic the ways I already oragnzied relevant subject matter in my head. Like, connecting  [District 1 City Councilperson] Margaret Chin to affordable housing to Bill De Blasio, or Margaret Chin to Sheldon Silver. In making these visual connections on are.na, it takes a lot of the work out of having to write your own notes.
 
 **Right, and I think in terms of activism you are always working off of others who have already been working for years. Who are your allies in Chinatown specifically? Who are the people working toward a similar goal as you—and what is your relationship to those groups?**
 
@@ -76,13 +76,11 @@ One of the things that we’ve been talking about is working with public schools
 
 Some of the local groups are very happy to see us show up to protests with signs and be present. Some became curious about us … ‘Who are you guys? You keep showing up to these meetings, why do you care?’ 
 
-<iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/aad-chinatown-les/margaret-chin/embed"></iframe> 
-
 The recent proposal to develop the Two Bridges waterfront has become a real point of contention and a big issue for the neighborhood— developers have the right to build these giant high rises in front of and on top of NYHCA housing but that doesn’t make it “right”. The developers have been hosting pre-EIS meetings and many from our group have attended to hear what our neighbors concerns and fears.
 
 **Right, they have to ask the community, in certain development projects at least, for feedback. But they don’t have to actually take it into consideration.**
 
-EExactly. It’s not about demands and having demands met, it’s about due diligence. This is where politics comes into play. Margaret Chin could have passed the Chinatown Working Group’s Rezoning Plan to protect Chinatown, the LES and the Two Bridges waterfont, which would limit building heights but she refuses to do so. 
+Exactly. It’s not about demands and having demands met, it’s about due diligence. This is where politics comes into play. Margaret Chin could have passed the Chinatown Working Group’s Rezoning Plan to protect Chinatown, the LES and the Two Bridges waterfont, which would limit building heights but she refuses to do so. 
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/aad-chinatown-les/chinatown-working-group-rezoning-plan/embed"></iframe> 
 
