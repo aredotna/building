@@ -6,7 +6,7 @@ categories:
 tags:
 - featured
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/838199/original_fc8e9c78e189b1b7da16c82074cfa699.jpg
+image: https://d2w9rnfcy7mm78.cloudfront.net/843274/original_1b96204f7d72be0addbbb9856d3f2972.jpg
 author: "Meg Miller"
 ---
 
