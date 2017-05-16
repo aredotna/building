@@ -10,11 +10,11 @@ image: https://d2w9rnfcy7mm78.cloudfront.net/833244/original_63c2d55f6e5d6db1ad4
 author: "Meg Miller"
 ---
 
-The first time I talked to [HAWRAF](http://www.hawraf.com/) was in an interview in the days right after the election when things were a blur. Like all conversations during that time, ours started with some variation of “Everything feels doomed,” but we didn’t dwell on it much beyond that. Carly Ayres, Andrew Herzog and Nicky Tesla, who run the studio, had already spent a good deal of time thinking about the failures of existing structural systems and a lack of empathy and perception that had in many ways led up to that cultural moment. It was a time when a lot of my friends felt compelled to consider a career change, but the “calls to action” reverberating online were pretty in line with HAWRAF’s intentions already. 
+The first time I talked to [HAWRAF](http://www.hawraf.com/) was in an interview in the days right after the election when things were a blur. Like all conversations during that time, ours started with some variation of “Everything feels doomed,” but we didn’t dwell on it much beyond that. Carly Ayres, Andrew Herzog and Nicky Tesla, who run the studio, had already spent a good deal of time thinking about the failures of existing structural systems and a lack of empathy and perception that had in many ways led up to that cultural moment. It was a time when a lot of my friends felt compelled to consider a career change, but the ‘calls to action’ reverberating online were pretty in line with HAWRAF’s intentions already. 
 
 <iframe class="arena-iframe" width="100%" height="2090" src=" https://www.are.na/carly-ayres/hawraf/embed"></iframe>
 
-HAWRAF is run out of [NEW INC](http://www.newinc.org/), the incubator program at the New Museum. It’s still only months old. The three—four, including Pedro Sanches, who has been traveling—founded the studio with the intention of integrating what they term “Creative Accessibility” into their practice, making their operations as transparent as possible so others can learn from them. The first project under that initiative demonstrated the idea at its most condensed and intensive: [A-Z](http://az.hawraf.com/) was 26 straight hours of live-streamed creating, with one project completed every hour. 
+HAWRAF is run out of [NEW INC](http://www.newinc.org/), the incubator program at the New Museum in New York. It’s still only months old. The three—four, including Pedro Sanches, who has been traveling—founded the studio with the intention of integrating what they term “Creative Accessibility” into their practice, making their operations as transparent as possible so others can learn from them. The first project under that initiative demonstrated the idea at its most condensed and intensive: [A-Z](http://az.hawraf.com/) was 26 straight hours of live-streamed creating, with one project completed every hour. 
 
 It’s been almost six months since then, and I asked the team to interview each other about their ideas on transparency and inclusion, keeping a few questions of mine in mind but generally letting the conversation go wherever.
 
@@ -78,7 +78,7 @@ As we speak, Nicky is coding an A-Z toolkit, so that others can recreate that pr
 
 **CA:** We talk about our highs and lows, client conversations, meetings gone awry, but really try to give an honest glimpse into what this is. Spoiler alert: some days are really boring. 
 
-**AH:** Most days. But we’re always looking to open our practice more so people can peek in. —Not that what we’re doing will always be interesting or valuable, but there are times where there’s something there.
+**AH:** Most days. But we’re always looking to open our practice more so people can peek in. Not that what we’re doing will always be interesting or valuable, but there are times where there’s something there.
 
 **CA:** We found that a lot of our most valuable experiences came from overheard conversations or just being able to observe how others did things. While at CreativeMornings, I learned so much working out of Studiomates and listening to people in the space talk about clients and pricing. Sponging up that knowledge was huge for me, and made a difference on those first few months at HAWRAF. So if we can figure out more ways to let others listen in on those conversations, maybe they can soak up some of that knowledge for free.
 
