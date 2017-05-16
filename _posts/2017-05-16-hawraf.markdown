@@ -1,12 +1,12 @@
 ---
 title: Carly Ayres, Andrew Herzog and Nicky Tesla, Partners of HAWRAF 
-date: 2017-05-15 12:00:00 Z
+date: 2017-05-16 12:00:00 Z
 categories:
 - Focus
 tags:
 - featured
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/833244/original_63c2d55f6e5d6db1ad4c3c29ff4fd782
+image: https://d2w9rnfcy7mm78.cloudfront.net/1022725/original_7b7340a0cd484fb22d50ba4956476c80.png
 author: "Meg Miller"
 ---
 
