@@ -29,7 +29,7 @@ _A Collection of Channels is a series highlighting channels we’re paying atten
 ## Input Devices
 [![](https://d2w9rnfcy7mm78.cloudfront.net/194647/original_5018755689dd8fcd2bb947f3138485bd.gif)](https://www.are.na/morgan-sutherland/input-devices) *[View this channel on Are.na](https://www.are.na/morgan-sutherland/input-devices)*
 
-## Interfaces with Black Backgrounds (only)
+## Interface with Black Backgrounds (only)
 [![](https://d2w9rnfcy7mm78.cloudfront.net/150296/large_adb2e1d92dfb983fe656e747ef5962e8.png)](https://www.are.na/sun-an/interface-with-black-backgrounds-only) *[View this channel on Are.na](https://www.are.na/sun-an/interface-with-black-backgrounds-only)*
 
 ## Experimental Interface
