@@ -12,7 +12,7 @@ image: https://d2w9rnfcy7mm78.cloudfront.net/430119/original_7070a069c33eab7bfdc
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na. Interface focuses on channels related to the place at which independent and often unrelated systems meet and act on or communicate with each other._
 
 ## Ascetic User Interfaces
-[![](hhttps://d2w9rnfcy7mm78.cloudfront.net/142326/original_36c961148478ebf2311e792ed56838e7.jpg)](https://www.are.na/james-hicks/ascetic-user-interfaces) *[View this channel on Are.na](https://www.are.na/james-hicks/ascetic-user-interfaces)*
+[![](https://d2w9rnfcy7mm78.cloudfront.net/142326/original_36c961148478ebf2311e792ed56838e7.jpg)](https://www.are.na/james-hicks/ascetic-user-interfaces) *[View this channel on Are.na](https://www.are.na/james-hicks/ascetic-user-interfaces)*
 
 ## Situational Awareness
 [![](https://d2w9rnfcy7mm78.cloudfront.net/428185/large_e0ab12e5aefda8e12d8fffe475ea2dcc.jpg)](https://www.are.na/architecture-effects/situational-awareness) *[View this channel on Are.na](https://www.are.na/architecture-effects/situational-awareness)*
