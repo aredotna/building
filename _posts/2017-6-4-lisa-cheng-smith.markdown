@@ -1,6 +1,6 @@
 ---
 title: Lisa Cheng Smith, chief design officer at Areaware
-date: 2017-05-23 12:00:00 Z
+date: 2017-06-04 12:00:00 Z
 categories:
 - Focus
 tags:
