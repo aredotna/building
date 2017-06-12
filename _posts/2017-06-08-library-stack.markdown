@@ -88,3 +88,42 @@ But a digital product functionally infinite, it can last for thousands of years�
  
 I’m not 100 percent sure blockchain is going to be the right solution or if it’s just a libertarian pipe dream. Maybe it is going in the wrong direction. But it is offering up these alternative ideas about ownership and property. For example, people are thinking through different ways of incentivizing non-piracy. The problem with any digital thing for a publisher that is worried about its sales is pirating. They want copy protection or DRM to protect the book from being pirated, which never works. So there’s been some discussion about using blockchain, and the pirate becomes the distributor. Maybe you embrace this position of piracy, and cut them in on the profits as well. So the pirate is compensated, the artist is compensated—everyone is compensated and the ledger keeps track on interaction. 
 
+BT: Blockchain opens up really compelling possibilities, but it is also very technically heavy and complicated and expensive. The answer to the question of piracy, control, lendability or infinite reproduction might be simpler than that, too.
+ 
+When we talk to these libraries that we’re trying to work with—after really long discussions of trying to work it out, we usually end up back at ‘What if we just treat this e-book like an actual book?’ If the libraries want one copy, they’ll buy one. If they want two copies so that two people can read it at the same time, they just buy another one. The argument that Library Stack is making is that these objects should be thought of as things that you can own, not services that you rent. It may not be more complicated than treating it like a thing. 
+
+![](https://d2w9rnfcy7mm78.cloudfront.net/892886/large_f3ff6cff98a1f34b267daa8b61d3f5fd)
+
+**Those are really interesting points. I want to volley Erik’s question back to you—how do you price or value digital objects with that long of a lifespan? How have you guys been thinking about this while talking to libraries about acquisitions?**
+
+BT: When hosting other publishers’ books for library circulation, we’re treating them as if they are physical books and allowing the publishers to price them accordingly. We’ve found a solution between libraries and publishers that works with the small arts and architecture presses that we are involved with. Since these are relatively straightforward commercial e-books that usually don’t have edition limits or complicated technical features, the infinite lifespan problem is balanced by low production costs to recoup and a single-license ownership model for the libraries. 
+ 
+With our own publications that are currently in the works, we are able to make specialty digital materials available that otherwise aren’t at all, and we’re able to publish them alongside new artworks and new writing. We have some ability to control edition size based on a few technical features, and we’re in pretty deep dialog with the artists and writers who are working with us about what they need, how they see the value of their projects, and how they see these publications extending into the future. So the idea of value is a lot more open and fluid.
+ 
+EW: There's actually two aspects to the infinite nature of digital media that make value attribution a problem. The first, as you pointed out, is the infinite lifespan. But the second equally important feature is infinite reproducibility. 
+ 
+In response to the lifespan issue, instead of the material finitude of the book, we are trying to think of other limiting features of the content itself. Currently, we've landed on an approach that I would call  'cultural finitude' as means of valuation—so in some basic way trying to consider the lifespan of a digital object's cultural valence. In very simple terms, we're attributing an average 100 year cultural relevance to contemporary works. Of course many works won't be relevant in 5 years, but a small few may be very important in 200 or more years and those are the works that are very important to preserve now. 
+
+For the second part of the issue, the infinite reproducibility has a been a big problem for digital publishers. A single print book can only be read by one person at a time—this is obviously not the case with digital books. To try to resolve this impasse we've gathered some inspiration from both traditional book lending models and emerging blockchain technologies. One of the conceptual innovations of the blockchain is to separate the hard data from the information it carries. With blockchains, the data is infinitely reproduced as needed, but the information it holds is guaranteed to be immutable. Each record is intrinsically unique within the chain. 
+ 
+We're taking a similar approach to book lending. When a library brings a Library Stack e-book into its collection, it's not just a file duplicated on the fly. Rather, every single edition is independently archived as a unique document. The result is actually something very similar to traditional book lending: In the end what you have is a very simple one-book/one-reader lending model. Each singular edition is a only available to one reader at a time. It's a simple resolution, but the fallout is that it actually opens of number of new possibilities for digital works like inter-library lending, reselling of ebooks and non-centralized distribution platforms. 
+
+**Since you get sort of a bird’s eye view of non-traditional/digital publishing while gathering and archiving these resources, do you see any big through lines in publishing that is happening outside of big commercial houses?**
+
+BT: A lot of times we’ll see one museum or one book publisher that is actually acting like a dozen different species of publication agent. 
+ 
+One example is [Urbanomic](https://www.urbanomic.com/), which is this British philosophy press. They make print books, but they also do podcasts and a document series that is published as PDFs. It’s a simple, reflexive and swift way for them to publish material that’s not book length but is related to their output. 
+ 
+Similarly, there’s the Barcelona Museum of Contemporary Art, [MACBA](http://www.macba.cat/en/publications), and they have a pretty broad publishing empire. They publish podcasts and a journal series. There are a lot of ways for people to put out material in all different formats, and they are seizing them. 
+ 
+Erik: We’re definitely seeing a polymorphous willingness to crush boundaries. The people who run [Inhabitants TV](http://www.inhabitants-tv.org/) are documentary filmmakers but they operate under the label of artists. They create and curate and commision videos. 
+
+**Are there any other examples of independent publishers and publications that people should be aware of?**
+
+BT: We would point first to [Badlands Unlimited](https://badlandsunlimited.com/), a publisher in New York that’s doing interesting things with ebooks and digital files. 
+ 
+The Bulletins of the Serving Library is the journal of [Serving Library](http://www.servinglibrary.org/), a publishing library that publishes articles, first in PDF form, and then every few months those PDFs are printed and bound in journal form. The Serving Library does a lot of interesting thinking about how to synthesize print and digital at the same time, and how a network of sponsorship should produce magazine and writing within a design context. 
+ 
+[Unfold](https://www.librarystack.org/unfold/) is based in Beirut in Lebanon. It’s a serial publication, and each publication is a .zip file that’s maybe 2GB, and when you open it it’s audio files, video files, etc. all bundled in the folio. So it’s exhibition in the form of a magazine. 
+
+
