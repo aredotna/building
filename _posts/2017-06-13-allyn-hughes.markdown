@@ -1,10 +1,10 @@
 ---
 title: Social Activism As Brand Strategy
-date: 2017-06-12 12:00:00 Z
+date: 2017-06-13 12:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1070926/original_2c4ee1425dcc4ced7901659e37dfe713.png
 author: "Allyn Hughes"
@@ -40,7 +40,7 @@ Using Obama as a model of success, Hillary Clinton’s 2016 campaign took a simi
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/allyn-hughes/post-obama-logos/embed"></iframe>
 
-Since the 2008 election, numerous brands have been designed or redesigned with logos that build upon the Obama campaign’s typography: Bud Light, Facebook, Glossier, Google, Grubhub, Mastercard, Mcdonald’s, Spotify, Zocdoc, and lastly, Hillary for America. Hillary’s graphic design in 2016 did reflect the candidate’s values through its meticulous attention to detail. However, what this approach failed to recognize was that using corporate branding in her political campaign only intensified her association with the corporate–incidentally her most consistent critique throughout the election cycle (aside from the emails). What was once fresh and new, is now a brand strategy re-co-opted by the corporate world—the same world that was its genesis. The Obama campaign not only changed the visual approach to politics, it also changed how corporations use and value the millennial aesthetic. Obama borrowed a systematic approach to branding from the corporate world and in turn the corporate world borrowed the friendly, youthful-cool of his campaign from him. By the time Hillary’s second presidential campaign came around, it was played out. Millennials, the progenitors of ‘personal branding,’ were already wise to the scheme.
+Since the 2008 election, numerous brands have been designed or redesigned with logos that build upon the Obama campaign’s typography: Bud Light, Facebook, Glossier, Google, Grubhub, Mastercard, Mcdonald’s, Spotify, Zocdoc, and lastly, Hillary for America. Hillary’s graphic design in 2016 reflected the candidate’s values through its meticulous attention to detail. However, what this approach failed to recognize was that using corporate branding in her political campaign only intensified her association with the corporate–incidentally her most consistent critique throughout the election cycle (aside from the emails). What was once fresh and new, is now a brand strategy re-co-opted by the corporate world—the same world that was its genesis. The Obama campaign not only changed the visual approach to politics, it also changed how corporations use and value the millennial aesthetic. Obama borrowed a systematic approach to branding from the corporate world and in turn the corporate world borrowed the friendly, youthful-cool of his campaign from him. By the time Hillary’s second presidential campaign came around, it was played out. Millennials, the progenitors of ‘personal branding,’ were already wise to the scheme.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/E-Dg-z_SojE" frameborder="0" allowfullscreen></iframe>
 
