@@ -1,10 +1,10 @@
 ---
 title: Social Activism As Brand Strategy
-date: 2017-06-12 12:00:00 Z
+date: 2017-06-13 12:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1070926/original_2c4ee1425dcc4ced7901659e37dfe713.png
 author: "Allyn Hughes"
@@ -12,7 +12,7 @@ author: "Allyn Hughes"
 
 In January, around the time of the Women’s March on Washington, my pilates studio wrote an Audre Lorde quote on the chalkboard near the door: “Caring for myself is not self-indulgence, it is self-preservation, and that is an act of political warfare.” At first it made me feel a kinship with the studio, because I like the quote and I admire Audre Lorde. But throughout the class my eyes kept wandering over to it as I tried to parse what was making me feel uneasy. I decided the quote was a ploy, a convenient way for the studio to justify a $35 exercise class. Don't get me wrong—I believe in self care, but luxury fitness is not a radical act. 
  
-More and more, companies are capitalizing on post-election liberal guilt—using the current political climate as a means to increase monetary gains. With advertisements or socially-minded products, these companies address complex social issues in a superficial way. But more than being tone-deaf, this strategy is potentially harmful: Instead of encouraging genuine civic engagement, it capitalizes on liberal guilt—promising to  ‘raise awareness’ through monetary transactions. The narrative shifts from the importance of the cause to how great the company is for being socially conscious (woke). Ultimately, this strategy is damaging because it focuses on the feelings of the individual consumer rather than the collective whole. 
+More and more, companies are capitalizing on post-election liberal guilt—using the current political climate as a means to increase monetary gains. With advertisements or socially-minded products, these companies address complex social issues in a superficial way. But more than being tone-deaf, this strategy is potentially harmful: Instead of encouraging genuine civic engagement, it promises to ‘raise awareness’ through monetary transactions. The narrative shifts from the importance of the cause to how great the company is for being socially conscious (woke). Ultimately, this strategy is damaging because it focuses on the feelings of the individual consumer rather than the collective whole. 
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/nick-demarco/yuppie-dystopia/embed"></iframe>
 
@@ -30,7 +30,7 @@ However since the most recent presidential election, companies have moved away f
 
 ![](https://d2w9rnfcy7mm78.cloudfront.net/1070926/original_2c4ee1425dcc4ced7901659e37dfe713.png)
 
-It is no coincidence that the 2008 Obama campaign was the first to featured graphic design so prominently in its campaign strategy, effectively introducing branding to politics. The challenge of Obama’s campaign was to make him more presidential; up until that point, he had limited political exposure to the American public. Obama’s campaign co-opted corporate branding strategy by prominently featuring a slick logo, as well as consistent typography and brand language. The aesthetic was fresh, favoring a friendly, geometric sans serif font (Gotham) rather than the typical serif font that had been popular in political campaigns since the 1980s. This approach appealed to millennials, and prompted grassroot efforts like the Shepard Fairey “Hope” poster. 
+It is no coincidence that the 2008 Obama campaign was the first to feature graphic design so prominently in its campaign strategy, effectively introducing branding to politics. ​ The challenge of Obama’s campaign was to make him more presidential; up until that point, he had limited political exposure to the American public. Obama’s campaign co-opted corporate branding strategy by prominently featuring a slick logo, as well as consistent typography and brand language. The aesthetic was fresh, favoring a friendly, geometric sans serif font (Gotham) rather than the typical serif font that had been popular in political campaigns since the 1980s. This approach appealed to millennials, and prompted grassroot efforts like the Shepard Fairey “Hope” poster. 
  
 With the brand strategy, Obama was able to reach millennials and compel them to vote. Ultimately, those millennials were a deciding demographic of the 2008 campaign. Because of this, Obama became the ‘cool’ president, the candidate that knew how to reach the youth.
 
@@ -40,13 +40,13 @@ Using Obama as a model of success, Hillary Clinton’s 2016 campaign took a simi
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/allyn-hughes/post-obama-logos/embed"></iframe>
 
-Since the 2008 election, numerous brands have been designed or redesigned with logos that build upon the Obama campaign’s typography: Bud Light, Facebook, Glossier, Google, Grubhub, Mastercard, Mcdonald’s, Spotify, Zocdoc, and lastly, Hillary for America. Hillary’s graphic design in 2016 did reflect the candidate’s values through its meticulous attention to detail. However, what this approach failed to recognize was that using corporate branding in her political campaign only intensified her association with the corporate–incidentally her most consistent critique throughout the election cycle (aside from the emails). What was once fresh and new, is now a brand strategy re-co-opted by the corporate world—the same world that was its genesis. The Obama campaign not only changed the visual approach to politics, it also changed how corporations use and value the millennial aesthetic. Obama borrowed a systematic approach to branding from the corporate world and in turn the corporate world borrowed the friendly, youthful-cool of his campaign from him. By the time Hillary’s second presidential campaign came around, it was played out. Millennials, the progenitors of ‘personal branding,’ were already wise to the scheme.
+Since the 2008 election, numerous brands have been designed or redesigned with logos that build upon the Obama campaign’s typography: Bud Light, Facebook, Glossier, Google, Grubhub, Mastercard, Mcdonald’s, Spotify, Zocdoc, and lastly, Hillary for America. Hillary’s graphic design in 2016 reflected the candidate’s values through its meticulous attention to detail. However, what this approach failed to recognize was that using corporate branding in her political campaign only intensified her association with the corporate–incidentally her most consistent critique throughout the election cycle (aside from the emails). What was once fresh and new, is now a brand strategy re-co-opted by the corporate world—the same world that was its genesis. The Obama campaign not only changed the visual approach to politics, it also changed how corporations use and value the millennial aesthetic. Obama borrowed a systematic approach to branding from the corporate world and in turn the corporate world borrowed the friendly, youthful-cool of his campaign from him. By the time Hillary’s second presidential campaign came around, it was played out. Millennials, the progenitors of ‘personal branding,’ were already wise to the scheme.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E-Dg-z_SojE" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/E-Dg-z_SojE" frameborder="0" allowfullscreen></iframe>
 
 Hillary’s loss to Trump, and the subsequent absurdity of Trump’s term, has sent parts of the U.S. into a tailspin that brands have been all too eager to capitalize on. During the 2017 Super Bowl, Airbnb ran a 30 second commercial that featured a geometric sans serif font, on top of the faces of people from different minorities. The message was an implied critique of Trump’s travel ban, stating: “We believe no matter who you are, where you’re from, who you love or who you worship, we all belong.” 
 
-<iframe src="https://player.vimeo.com/video/153640576?color=ffffff&title=0&byline=0&portrait=0" width="640" height="272" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/153640576?color=ffffff&title=0&byline=0&portrait=0" width="100%" height="272" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 A year prior, the creative agency HUMAN produced the video “Together” in support of the Bernie Sanders campaign. The visual approach of Airbnb’s Super Bowl video is remarkably similar to the Bernie campaign video—in both, different combinations of people's faces made a diverse whole. Bernie called his campaign a political revolution, creating an urgency and an authenticity that could not be captured in a single logo. What a shame that the momentum of this revolution has now been flattened into a piece of marketing, paid for by a company valued at $30 billion. Is this the new radical?
 
