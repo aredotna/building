@@ -16,6 +16,8 @@ Interacting with Library Stack as a reader, it feels like a place of deep discov
  
 Over Skype last month, I asked Ben and Erik to break down what they are doing on a technical level, and to take me through how Library Stack is creating space for the kinds of publishers they want to see more of.
 
+![](https://d2w9rnfcy7mm78.cloudfront.net/1083923/original_12d2a41491508600cf031f065f9bdbd4.png)
+
 **Meg Miller: Why did you start Library Stack? How did the idea come about?**
 
 Erik Wysocan: It’s a spin off of my publishing imprint [Halmos](http://www.halmos.us.com/). I was doing a lot of digital publishing and was learning the advantages and the pitfalls of engaging with licensing models like Amazon and iTunes, which give you, potentially, a really wide audience, but are also very restrictive about how they allow you to operate.  
