@@ -1,6 +1,6 @@
 ---
 title: Google Search Aesthetics
-date: 2017-6-27 00:00:00 Z
+date: 2017-6-26 00:00:00 Z
 categories:
 - A Collection of Channels
 tags:
