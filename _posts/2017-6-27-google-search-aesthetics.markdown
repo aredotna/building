@@ -1,5 +1,5 @@
 ---
-title: Interface
+title: Google Search Aesthetics
 date: 2017-6-27 00:00:00 Z
 categories:
 - A Collection of Channels
