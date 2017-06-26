@@ -48,7 +48,7 @@ _Occasionally, however, the algorithms and humans driving this system will sudde
 
 ---
 
+_[Will Freudenheim](https://www.are.na/will-freudenheim) is a student in Wesleyan University's Science in Society Program where he studies the entanglements of new media, infrastructure, and geopolitics. He is also a composer and sound designer for film and digital media, and an intern at Are.na._
+
 For more interface channels check out:
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/will-freudenheim/google-search-aesthetics-superchannel/embed"></iframe>
-
-_[Will Freudenheim](https://www.are.na/will-freudenheim) is a student in Wesleyan University's Science in Society Program where he studies the entanglements of new media, infrastructure, and geopolitics. He is also a composer and sound designer for film and digital media, and an intern at Are.na._
