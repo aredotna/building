@@ -4,7 +4,7 @@ date: 2017-6-27 00:00:00 Z
 categories:
 - A Collection of Channels
 tags:
-- drafts
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/61119/original_14c8faebbf0dd1b346fbac14853e50e5.png
 ---
