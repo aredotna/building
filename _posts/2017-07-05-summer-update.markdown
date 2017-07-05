@@ -14,9 +14,9 @@ These days, it’s commonplace to hear complaints about what the Internet is doi
  
 With Are.na, we are betting on the opposite direction. We think that people will (and do) want something else in an everyday online experience. Something that is healthy, as opposed to the junk food we automatically digest on a daily basis. In our opinion, any technology that encourages people to be lazy or worse humans will (or should) never be fashionable.
  
-To grow Are.na without sacrificing that ethos, we needed to find someone who wanted to take that bet with us. A few months ago, I met up with [Chris Barley](https://www.are.na/christopher-barley). I had recently gone down to part-time at my job as a software engineer at Artsy in order to spend more time working on Are.na, and Daniel and I were at the beginning of exploring what getting investors would look like and what type of people would both share our philosophy and have the means and motivation to join us.
+To grow Are.na without sacrificing that ethos, we needed to find someone who wanted to take that bet with us. A few months ago, I met up with [Chris Barley](https://www.are.na/christopher-barley). I had recently gone down to part-time at my job as a software engineer at Artsy in order to spend more time working on Are.na, and Daniel Pianetti and I were at the beginning of exploring what getting investors would look like and what type of people would both share our philosophy and have the means and motivation to join us.
  
-My meeting with Chris was not about seeking investment. I knew Chris because he [Leo Shaw](https://www.are.na/leo-shaw), and [Christina Badal](https://www.are.na/christina-badal) (at [Consortia](http://consortia.net)) were already using Are.na in their own daily work, and we had developed a habit of meeting every month or so to catch up. 
+My meeting with Chris was not about seeking investment. I knew Chris because he [Leo Shaw](https://www.are.na/leo-shaw), and [Christina Badal](https://www.are.na/christina-badal) (who work with Chris at [Consortia](http://consortia.net)) were already using Are.na in their own daily work, and we had developed a habit of meeting every month or so to catch up. 
  
 Chris turned out to be the person willing to take the bet. Now we’re in a position for the first time in three years to be able to work on Are.na full-time, without having to do other work on the side in order to survive. We have a lot planned for the next 6 months. I want to share some of our immediate plans, but I'm going to talk about some of the new team members and changes to our (still small) structure first.
  
@@ -29,15 +29,14 @@ There are two other people working with us that we haven't announced in an offic
  
 We also have two student fellows joining us this summer, [Anastasia Davydova Lewis](https://www.are.na/anastasia-davydova-lewis) and [Will Freudenheim](https://www.are.na/will-freudenheim). Anastasia joins us from Los Angeles where she is pursuing a degree in Digital Media at UCLA, and Will joins us from Middletown, Connecticut where he is pursuing a degree at Wesleyan University.
  
-### Plans and Roadmap
-In addition to being more transparent about our company structure, we are also making an effort to be more transparent about product changes that we are planning. Most of the Are.na platform is already open-source, but those who want a more high-level overview of what we plan to work on in the near-term can check out our [product roadmap](https://github.com/aredotna/ervell/projects/1).
+### Plans + Roadmap
+In addition to being more transparent about our company structure, we are also making an effort to be more transparent about our upcoming product changes. Most of the Are.na platform is already open-source, but those who want a more high-level overview of what we plan to work on in the near-term can check out our [product roadmap](https://github.com/aredotna/ervell/projects/1).
  
 ### Mobile
-This leads me to highlight one of our major projects for the summer: a native mobile app. This is one of the most often requested additions to Are.na we get and also happens to be the thing we want the most as users of the platform ourselves. Our intention is not to create another app that you need to check compulsively, but to provide a tool to send information to Are.na at the moment you come across it in the world, as well as call up information that you previously saved.
+This leads me to highlight one of our major projects for the summer: a native mobile app. TThis has been the number one most requested feature (and one we are most excited about ourselves). Our intention is not to create another app that you need to check compulsively, but to provide a tool to send information to Are.na at the moment you come across it in the world, as well as call up information that you previously saved.
 
 ![](https://d2w9rnfcy7mm78.cloudfront.net/1111572/large_8eeb664372c5ae85c4320176992aa675.png)
  
-### TLDR;
-Thanks for sticking with me. In short, we now have the ability to make Are.na better in a shorter time-frame than we have previously. We have a more robust team and big plans for the summer, and we are excited to show you what we're working on.
+In short, we now have the ability to make Are.na better in a shorter time-frame than we have previously. We have a more robust team and big plans for the summer, and we are excited to show you what we're working on.
 
 – [Charles Broskoski](https://www.are.na/charles-broskoski)
