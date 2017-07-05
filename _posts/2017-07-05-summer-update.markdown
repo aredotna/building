@@ -14,7 +14,7 @@ These days, it’s commonplace to hear complaints about what the Internet is doi
  
 With Are.na, we are betting on the opposite direction. We think that people will (and do) want something else in an everyday online experience. Something that is healthy, as opposed to the junk food we automatically digest on a daily basis. In our opinion, any technology that encourages people to be lazy or worse humans will (or should) never be fashionable.
  
-To grow Are.na without sacrificing that ethos, we needed to find someone who wanted to take that bet with us. A few months ago, I met up with [Chris Barley](https://www.are.na/christopher-barley). I knew Chris because he [Leo Shaw](https://www.are.na/leo-shaw), and [Christina Badal](https://www.are.na/christina-badal) (who work with Chris at [Consortia](http://consortia.net)) were already using Are.na in their own daily work, and we had developed a habit of meeting every month or so to catch up. I had recently gone down to part-time at my job as a software engineer at Artsy in order to spend more time working on Are.na, and Daniel Pianetti and I were at the beginning of exploring what getting investors would look like and what type of people would both share our philosophy and have the means and motivation to join us.
+To grow Are.na without sacrificing that ethos, we needed to find someone who wanted to take that bet with us. A few months ago, I met up with [Chris Barley](https://www.are.na/christopher-barley). I knew Chris because he, [Leo Shaw](https://www.are.na/leo-shaw), and [Christina Badal](https://www.are.na/christina-badal) (who work with Chris at [Consortia](http://consortia.net)) were already using Are.na in their own daily work, and we had developed a habit of meeting every month or so to catch up. I had recently gone down to part-time at my job as a software engineer at Artsy in order to spend more time working on Are.na, and [Daniel Pianetti](https://www.are.na/daniel-pianetti) and I were at the beginning of exploring what getting investors would look like and what type of people would both share our philosophy and have the means and motivation to join us.
   
 Chris turned out to be the person willing to take the bet. Now we’re in a position for the first time in three years to be able to work on Are.na full-time, without having to do other work on the side in order to survive. We have a lot planned for the next 6 months. I want to share some of our immediate plans, but I'm going to talk about some of the new team members and changes to our (still small) structure first.
  
@@ -35,6 +35,6 @@ This leads me to highlight one of our major projects for the summer: a native mo
 
 ![](https://d2w9rnfcy7mm78.cloudfront.net/1111572/large_8eeb664372c5ae85c4320176992aa675.png)
  
-In short, we now have the ability to make Are.na better in a shorter time-frame than we have previously. We have a more robust team and big plans for the summer, and we are excited to show you what we're working on.
+In short, we now have the ability to make Are.na better in a shorter time frame than we have previously. We have a more robust team and big plans for the summer, and we are excited to show you what we're working on.
 
 – [Charles Broskoski](https://www.are.na/charles-broskoski)
