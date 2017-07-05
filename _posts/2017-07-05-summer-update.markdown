@@ -25,7 +25,7 @@ A lot of people who use Are.na remark on how impressive the content is, and how 
 
 There are two other people working with us that we haven't announced in an official way – [Damon Zucconi](https://www.are.na/damon-zucconi) (who is now leading engineering) and [Meg Miller](https://www.are.na/meg-miller) (who is the editor of the Are.na blog).
  
-We also have two student fellows joining us this summer, [Anastasia Davydova Lewis](https://www.are.na/anastasia-davydova-lewis) and [Will Freudenheim](https://www.are.na/will-freudenheim). Anastasia joins us from Los Angeles where she is pursuing a degree in Digital Media at UCLA, and Will joins us from Middletown, Connecticut where he is pursuing a degree at Wesleyan University.
+We also have two student fellows joining us this summer, [Anastasia Davydova Lewis](https://www.are.na/anastasia-davydova-lewis) and [Will Freudenheim](https://www.are.na/will-freudenheim). Anastasia joins us from Los Angeles where she is pursuing a degree in Digital Media at UCLA, and Will joins us from Middletown, Connecticut where he is pursuing a degree in the Science in Society program at Wesleyan University.
  
 ### Plans + Roadmap
 In addition to being more transparent about our company structure, we are also making an effort to be more transparent about our upcoming product changes. Most of the Are.na platform is already open-source, but those who want a more high-level overview of what we plan to work on in the near-term can check out our [product roadmap](https://github.com/aredotna/ervell/projects/1).
