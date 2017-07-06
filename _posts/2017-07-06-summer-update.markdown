@@ -6,11 +6,11 @@ categories:
 tags:
 - featured
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/534567/large_7368e79e167603cc561e5770800233df.jpg
+image: https://d2w9rnfcy7mm78.cloudfront.net/1113021/large_5d8b6044803db7f85d731e1301803433.jpg
 ---
 These days, it’s commonplace to hear complaints about what the Internet is doing to our brains. Without naming names, "I hate _insert social media platform here_" is a phrase that I hear on a regular basis. I'm sure you experience more or less the same thing. As to why we find ourselves in this situation, it isn’t complicated. If a social media platform's business model is built on advertising, it's in the company's best interest to make its platform as addictive as possible. The easiest way to make a content platform addictive is to encourage content that confirms people's pre-existing beliefs or plays on their insecurities and susceptibility to FOMO.
 
-![](https://d2w9rnfcy7mm78.cloudfront.net/46563/large_aa88200348d3a163d2b605e5904c0b94.jpg)
+![](https://d2w9rnfcy7mm78.cloudfront.net/1113006/original_120dfd401b54c8ee466b7a14aa264103.jpg)
  
 With Are.na, we are betting on the opposite direction. We think that people will (and do) want something else in an everyday online experience: something that is healthy, as opposed to the junk food we automatically digest on a daily basis. Any technology that plays on unhealthy human emotions will (or should) never be fashionable. Instead, we are making a space on the Internet where we can think clearly and collaborate openly with others on shared interests.
  
@@ -21,7 +21,7 @@ Chris turned out to be that person. Now we’re in a position for the first time
 ### Focus + Team
 A lot of people who use Are.na remark on how [impressive the content is](https://twitter.com/automaticyes/status/846307029757104128), and how [interesting the users are](https://www.are.na/block/824026)—and of course we agree. But in the same breath, people often ask about how Are.na will scale. How can we get bigger without diluting the character of the community? It's a good question, and something we are careful about. The real answer is, we don't have any desire to be exclusive, but we don't want to grow Are.na just for the sake of getting bigger. 
 
-![](https://d2w9rnfcy7mm78.cloudfront.net/47784/large_ea25cce6987287f03e7591c9eab37e95.jpg)
+![](https://d2w9rnfcy7mm78.cloudfront.net/1113003/original_2f68a73c1e2dd869b7d11a5ab20a37d7.jpg)
 
 Our aim is to offer an alternative model for the kind of daily activity that ordinary people do on the internet, and we want that alternative to be available to as many people as possible. Everyone goes down Wikipedia wormholes, everyone goes on tangents after seeing an article in a feed, but why not archive those tangents and make them useful? There is something creative and powerful about getting into the habit of filtering, saving and assembling the pieces of information that you find online and in the world. It helps you see every bit of information you come across as a potential building block for a larger idea. We’ve seen already within the Are.na community that the act of creative research promotes a culture of curiosity. [Chris](https://www.are.na/christopher-barley) and [Consortia](https://www.are.na/consortia-systems) are natural partners in helping us develop this culture further. 
 
