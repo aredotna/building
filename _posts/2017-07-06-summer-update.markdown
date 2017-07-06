@@ -21,7 +21,7 @@ Chris turned out to be that person. Now we’re in a position for the first time
 ### Focus + Team
 A lot of people who use Are.na remark on how [impressive the content is](https://twitter.com/automaticyes/status/846307029757104128), and how [interesting the users are](https://www.are.na/block/824026)—and of course we agree. But in the same breath, people often ask about how Are.na will scale. How can we get bigger without diluting the character of the community? It's a good question, and something we are careful about. The real answer is, we don't have any desire to be exclusive, but we don't want to grow Are.na just for the sake of getting bigger. 
 
-![](https://d2w9rnfcy7mm78.cloudfront.net/1113003/original_2f68a73c1e2dd869b7d11a5ab20a37d7.jpg)
+![](https://d2w9rnfcy7mm78.cloudfront.net/96482/large_913932b19c7c82f58df900828bc06d71.jpg)
 
 Our aim is to offer an alternative model for the kind of daily activity that ordinary people do on the internet, and we want that alternative to be available to as many people as possible. Everyone goes down Wikipedia wormholes, everyone goes on tangents after seeing an article in a feed, but why not archive those tangents and make them useful? There is something creative and powerful about getting into the habit of filtering, saving and assembling the pieces of information that you find online and in the world. It helps you see every bit of information you come across as a potential building block for a larger idea. We’ve seen already within the Are.na community that the act of creative research promotes a culture of curiosity. [Chris](https://www.are.na/christopher-barley) and [Consortia](https://www.are.na/consortia-systems) are natural partners in helping us develop this culture further. 
 
