@@ -4,7 +4,7 @@ date: 2017-07-11 12:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/920069/original_2259258056e273a08df0f4df034beb35.jpeg
 author: "Sarah Hamerman"
