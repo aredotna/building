@@ -1,6 +1,6 @@
 ---
 title: Gossip as Communication System
-date: 2017-06-13 12:00:00 Z
+date: 2017-07-11 12:00:00 Z
 categories:
 - Case Study
 tags:
