@@ -6,15 +6,15 @@ categories:
 tags:
 - draft
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/1134893/original_711c9dd6dd8af104fdbfcaa78347787d.png
+image: https://d2w9rnfcy7mm78.cloudfront.net/880188/original_a623babdfb840f560a1fd805ad762cda.jpg
 author: "Meg Miller"
 ---
 
-I only became acquainted with [Taeyoon Choi](https://www.are.na/taeyoon-choi-1490621974) a few months ago, but after I heard his name once I began seeing it everywhere. In 2013, Choi co-founded the [School for Poetic Computation (SFPC)](http://sfpc.io/) with a group of three other artists and teachers. At the time of its launch, SFPC got a [fair amount of attention](http://sfpc.io/press/) for its unusual model for teaching code, physical computing and theory outside of an institutional context—and with a focus on artistic practice and open-ended experimentation. (The school’s motto puts its ethos succinctly: ‘more poetry, less demo.’) In the four years since it opened, the school has earned a quiet yet well-regarded reputation as a place for learning about code from several different perspectives, alongside a community of like-minded individuals. Classes range from Poetics and Politics of Computing to Radical Computer Science, and past instructors include MoMA’s Paola Antonelli, artist and programmer Sam Lavigne and bot-poet Allison Parrish, among [many, many others](http://sfpc.io/people/). 
+I only became acquainted with [Taeyoon Choi](https://www.are.na/taeyoon-choi-1490621974) a few months ago, but after I heard his name once I began seeing it everywhere. In 2013, Choi co-founded the [School for Poetic Computation (SFPC)](http://sfpc.io/) with a group of three other artists and teachers. At the time of its launch, SFPC got a [fair amount of attention](http://sfpc.io/press/) for its unusual model for teaching code, physical computing and theory outside of an institutional context—and with a focus on artistic practice and open-ended experimentation. (The school’s motto puts its ethos succinctly: ‘more poetry, less demo.’) In the four years since it opened, the school has earned a quiet yet well-regarded reputation as a place for learning about code from several different perspectives, alongside a community of like-minded individuals. Classes range from Poetics and Politics of Computation to Radical Computer Science, and past instructors include MoMA’s Paola Antonelli, artist and programmer Sam Lavigne and bot-poet Allison Parrish, among [many, many others](http://sfpc.io/people/). 
 
 Beyond his work at SFPC, Choi is also an [artist](http://taeyoonchoi.com/) and a writer of comics and essays. Since we spoke in May, he has become a 2017 [Data & Society fellow](https://datasociety.net/initiatives/fellows-program/), published [a book](http://avant.org/project/hello-world/) and [spoke](https://twitter.com/tchoi8/status/880417473488728064) at Eyeo Festival. In June, SFPC co-organized a [summit](http://blog.sfpc.io/post/160345176196/computing-and-stories-summit) on Computing and Stories, the first of what Choi plans to make an annual event. A couple of weeks before the summit, we talked on the phone about the school, diversity in tech, and what it means for a practice to be poetic. 
 
-<iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/sfpc-arena/general-1480402272/embed"></iframe>
+<iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/sfpc-arena/tech-and-gender/embed"></iframe>
 
 **Can you start out by talking about how School for Poetic Computation came about? I’ve read that you and one of your co-founders, [Zachary Lieberman](http://thesystemis.com/), met through Eyebeam Art and Technology Center. What were the conversations you were having at the time?**
 
@@ -44,7 +44,7 @@ I'd like to elaborate, not all code is poetic. Poetic computation is not aesthet
 
 There are also more esoteric languages, with beautiful logic that has sublime quality of simplicity or obscurity. There’s a language called [brainfuck](https://www.are.na/block/782243) [created in 1993 by Urban Müller, a physics student at the time] that is all made out of symbols. At SFPC, our students have made a language made out of emojis. One student made up a Turing-complete language with the New York City subway line called Trainfuck [where riding trains in a certain way would execute the program.] These are impractical, eccentric programming languages, but they are really interesting as artwork. We can’t do much with the languages, but the language itself is a statement.
 
-<iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/sfpc-arena/radical-comp-sci/embed"></iframe>
+![](https://d2w9rnfcy7mm78.cloudfront.net/880188/original_a623babdfb840f560a1fd805ad762cda.jpg)
 
 **How has the school evolved in the four years it has existed? Has the underpinning philosophy changed at all, or has the scope broadened or narrowed?**
 
