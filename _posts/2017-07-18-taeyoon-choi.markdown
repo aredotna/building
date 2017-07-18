@@ -1,10 +1,10 @@
 ---
 title: Taeyoon Choi, co-founder of School for Poetic Computation
-date: 2017-07-17 12:00:00 Z
+date: 2017-07-18 12:00:00 Z
 categories:
 - Focus
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/880188/original_a623babdfb840f560a1fd805ad762cda.jpg
 author: "Meg Miller"
@@ -40,9 +40,9 @@ I do have a writing practice. I write essays and lectures and tutorials. I write
 
 There are languages that support that sort of exploration. Python, for example, is really powerful for exploring generative language aspects, where the poetry makes itself. Then there are codes that are very much about efficiency and division of labor, like the whole Object-oriented paradigm.
 
-I'd like to elaborate, not all code is poetic. Poetic computation is not aestheticization of software. To me, it's the exact opposite of the Silicon Valley catch phrase of "Code is beatiful."  I find it troubling how technology industry tries wholesale branding of code as pretty candy. Code is not neutral, it's used for massive exploitation and war machines. However, poetics is never without politics. Poetics, mechanics of words at play, can inspire and realize – restructure of power dynamic. When poetry meets logical thinking, words can bring accountability to automated society. Code can become a medium of self-expression, independence and a vehicle to decenter reliance of technology. 
+I'd like to elaborate, not all code is poetic. Poetic computation is not aestheticization of software. To me, it's the exact opposite of the Silicon Valley catch phrase of "Code is beatiful." I find it troubling how the technology industry tries to brand code as pretty candy. Code is not neutral, it's used for massive exploitation and war machines. However, poetics is never without politics. Poetics, mechanics of words at play, can inspire and realize – restructure of power dynamic. When poetry meets logical thinking, words can bring accountability to automated society. Code can become a medium of self-expression, independence and a vehicle to decenter reliance on technology. 
 
-There are also more esoteric languages, with beautiful logic that has sublime quality of simplicity or obscurity. There’s a language called [brainfuck](https://www.are.na/block/782243) [created in 1993 by Urban Müller, a physics student at the time] that is all made out of symbols. At SFPC, our students have made a language made out of emojis. One student made up a Turing-complete language with the New York City subway line called Trainfuck [where riding trains in a certain way would execute the program.] These are impractical, eccentric programming languages, but they are really interesting as artwork. We can’t do much with the languages, but the language itself is a statement.
+There are also more esoteric languages, with beautiful logic that have the sublime quality of simplicity or obscurity. There’s a language called [brainfuck](https://www.are.na/block/782243) [created in 1993 by Urban Müller, a physics student at the time] that is all made out of symbols. At SFPC, our students have made a language made out of emojis. One student made up a Turing-complete language with the New York City subway line called Trainfuck [where riding trains in a certain way would execute the program.] These are impractical, eccentric programming languages, but they are really interesting as artwork. We can’t do much with the languages, but the language itself is a statement.
 
 ![](https://d2w9rnfcy7mm78.cloudfront.net/880188/original_a623babdfb840f560a1fd805ad762cda.jpg)
 
@@ -86,4 +86,4 @@ Archiving is different than remembering, but they are often conflated. There’s
 
 **I saw that you are one of the [2017 Data & Society fellows](https://datasociety.net/blog/2017/05/03/introducing-the-2017-2018-class-of-data-society-fellows/). What are you going to do as a fellow—personal work or something with SFPC?**
 
-I think it’s going to be some combination of the two. I’m definitely excited about engaging the researchers at the Data & Society and learning more about Artificial Intelligence. I’m interested especially in the notion of ethics in A.I.—the ethics of delegating human agency and simulation. My plan is to soak all of that in and make comics and publish online.
+I think it’s going to be some combination of the two. I’m definitely excited about engaging the researchers at Data & Society and learning more about Artificial Intelligence. I’m interested especially in the notion of ethics in A.I.—the ethics of delegating human agency and simulation. My plan is to soak all of that in and make comics and publish online.
