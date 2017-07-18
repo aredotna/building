@@ -86,4 +86,4 @@ Archiving is different than remembering, but they are often conflated. There’s
 
 **I saw that you are one of the [2017 Data & Society fellows](https://datasociety.net/blog/2017/05/03/introducing-the-2017-2018-class-of-data-society-fellows/). What are you going to do as a fellow—personal work or something with SFPC?**
 
-I think it’s going to be some combination of the two. I’m definitely excited about engaging the researchers at the Data & Society and learning more about Artificial Intelligence. I’m interested especially in the notion of ethics in A.I.—the ethics of delegating human agency and simulation. My plan is to soak all of that in and make comics and publish online.
+I think it’s going to be some combination of the two. I’m definitely excited about engaging the researchers at Data & Society and learning more about Artificial Intelligence. I’m interested especially in the notion of ethics in A.I.—the ethics of delegating human agency and simulation. My plan is to soak all of that in and make comics and publish online.
