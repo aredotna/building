@@ -1,7 +1,6 @@
 ---
 layout: 
 ---
-
 [
 {% for post in site.posts %}
   {% if post.tags contains "featured" %}
@@ -10,7 +9,9 @@ layout:
           "url": "{{ post.url }}",
           "category": "{{ post.categories }}",
           "image": "{{ post.image }}",
-          "date": "{{ post.date | date: "%B %d, %Y" }}"
+          "date": "{{ post.date | date: "%B %d, %Y" }}",
+          "author": "{{ post.author }}",
+          "excerpt": "{{ post.excerpt | strip_html | smartify | normalize_whitespace }}"
         } {% if forloop.last %}{% else %},{% endif %}
     {% endif %}
 {% endfor %}
