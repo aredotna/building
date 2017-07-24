@@ -12,7 +12,7 @@ layout:
           "image": "{{ post.image }}",
           "date": "{{ post.date | date: "%B %d, %Y" }}"
           "author": "{{ post.author }}",
-          "excerpt": "{{ post.excerpt }}"
+          "excerpt": "{{ post.excerpt | strip_html }}"
         } {% if forloop.last %}{% else %},{% endif %}
     {% endif %}
 {% endfor %}
