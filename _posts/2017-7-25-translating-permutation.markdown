@@ -1,6 +1,6 @@
 ---
 title: Translating Permutation
-date: 2017-07-24 12:00:00 Z
+date: 2017-07-25 12:00:00 Z
 categories:
 - Case Study
 tags:
