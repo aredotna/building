@@ -6,7 +6,7 @@ categories:
 tags:
 - featured
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/1147310/original_65991f44379e54e2c655dac190303c8a.gif
+image: https://d2w9rnfcy7mm78.cloudfront.net/1149954/original_a5d4bd6dc0e464c50859974efe609b71.png
 author: "Bryce Wilner"
 ---
 
