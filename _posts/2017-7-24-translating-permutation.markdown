@@ -4,7 +4,7 @@ date: 2017-07-24 12:00:00 Z
 categories:
 - Case Study
 tags:
-- drafts
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1147310/original_65991f44379e54e2c655dac190303c8a.gif
 author: "Bryce Wilner"
