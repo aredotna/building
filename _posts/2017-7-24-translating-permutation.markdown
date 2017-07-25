@@ -4,7 +4,7 @@ date: 2017-07-24 12:00:00 Z
 categories:
 - Case Study
 tags:
-- drafts
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1147310/original_65991f44379e54e2c655dac190303c8a.gif
 author: "Bryce Wilner"
@@ -17,7 +17,7 @@ The website I describe is a poem that was originally published in 1978 on a deck
 ![](https://d2w9rnfcy7mm78.cloudfront.net/1147311/original_b49d0c77f78a0d2722dca8094662f84e.gif)
 Robert Grenier, Sentences [1978] (Cambridge: Whale Cloth Press, 2003).
 
-I learned about _Sentences_ in college; I would eventually find out that it’s a late-ish entry in an esoteric but influential literary canon known as “book in a box.” Grenier—along with artists and writers like B.S. Johnson, Alison Knowles, Eduardo Paolozzi, and Marc Saporta—anticipated in his work a sense of textual nonlinearity and randomness that the internet now makes abundantly available. For years I’ve cited _Sentences_’s self-reflexivity when talking about my own graphic design and publishing work, but only this summer came across the original print edition in the Beinecke Rare Book and Manuscript Library at Yale. Any other surviving copies likely live in similar research libraries or in the homes of collectors.
+I learned about _Sentences_ in college; I would eventually find out that it’s a late-ish entry in an esoteric but influential literary canon known as “book in a box.” Grenier—along with artists and writers like B.S. Johnson, Alison Knowles, Eduardo Paolozzi, and Marc Saporta—anticipated in his work a sense of textual nonlinearity and randomness that the Internet now makes abundantly available. For years I’ve cited _Sentences_’s self-reflexivity when talking about my own graphic design and publishing work, but only this summer came across the original print edition in the Beinecke Rare Book and Manuscript Library at Yale. Any other surviving copies likely live in similar research libraries or in the homes of collectors.
 
 The 2003 version of _Sentences_ is one example of an archiving and publishing tendency that I call “Screen Translations of Permutational Print Texts.” It’s a cumbersome designation to be sure, but it conveys three indispensable bits: 1) These (usually web-based) publications are translated to screen because they deal with permutation. 2) On most occasions, the original permutation occurred in physical space. 3) They are translations and are therefore imperfect. 
 
