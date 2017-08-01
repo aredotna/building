@@ -6,7 +6,7 @@ categories:
 tags:
 - featured
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/1161571/original_b7f8e985fac43915ef67f6e240b1a692.png
+image: https://d2w9rnfcy7mm78.cloudfront.net/882652/original_9e168dc82dbb580629c1cac77cacc89f.jpg
 author: "Will Freudenheim"
 ---
 
