@@ -70,7 +70,7 @@ While those earlier pieces examined the visible interface that allows humans and
 
 In April 2015, actors from the theater group Elevator Repair Service began performing a piece called [_A Sort of Joy (Thousands of Exhausted Things)_](https://www.are.na/block/1064290) within the halls of MoMA. After the museum released their collections database as a GitHub repository that same year, the Office of Creative Research transformed the data from over 120,000 artworks in the museum’s collection into a script for the actors to perform. Circling the gallery in plain clothes, intermingled with museum-goers, the actors read an endless stream of titles, dates, and critiques. Removed from the context of the artwork, the performance focuses on the data itself and reshapes how it can be consumed.
 
-<iframe src="http://player.vimeo.com/video/36132600?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0000" width="100%" height="290" frameborder="0" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe>
+<iframe src="https://player.vimeo.com/video/36132600?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0000" width="100%" height="290" frameborder="0" webkitallowfullscreen="1" mozallowfullscreen="1" allowfullscreen="1"></iframe>
 
 In 2011, Jörg Piringer created [_Unicode_](https://www.are.na/block/688920), a video that shows all 49,571 of displayable characters in the Unicode range at the time, depicting one character per frame. It is an example of what he calls ‘datapoetry,’ an umbrella term that includes coded poetry described as “encoded, decoded, programmed poetry or codes interpreted as abstract poetry.”
 
@@ -79,7 +79,7 @@ In 2011, Jörg Piringer created [_Unicode_](https://www.are.na/block/688920), a 
 
 Rather than reinterpreting data, some artists work directly with the form of interfaces. To separate the aesthetic of the tool from its proposed purpose, the pieces below reimagine the outward facing elements of our tools and browsers.
 
-<video controls="controls" width="100%" height="400" name="Video Name" src="http://s3.amazonaws.com/arena-attachments/1135990/5ca882e34dd9cea1da8e9fed0874e643.mov?1500411456"></video>
+<video controls="controls" width="100%" height="400" name="Video Name" src="https://s3.amazonaws.com/arena-attachments/1135990/5ca882e34dd9cea1da8e9fed0874e643.mov?1500411456"></video>
 
 In Emilio Gomariz’s 2012 _Macintosh Lab_ series, he animates compositions using the features, tools, and operating systems we use daily. In this piece, [_AI Pro_](https://www.are.na/block/1135990), he exposes and arranges every tool within the program and animates them with pre-existing shortcuts and gestures. In a [piece for Rhizome](http://rhizome.org/editorial/2012/aug/3/interface-aesthetics/), artist and writer Jason Huff writes, “Gomariz reframes our functional desktops as the expansive canvas…his choreographed hand reveals the performative nature of computerized commands and the formal beauty within our taken-for-granted digital tools.”
 
