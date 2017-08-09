@@ -1,6 +1,6 @@
 ---
 title: New Pricing
-date: 2017-08-06 00:00:00 Z
+date: 2017-08-09 00:00:00 Z
 categories:
 - Hello World
 tags:
@@ -11,11 +11,11 @@ image: https://d2w9rnfcy7mm78.cloudfront.net/27455/large_aed95d450fe9d6cb531bcb1
 
 After working on Are.na as a team for more than three years, we finally got the opportunity this summer to dedicate ourselves to Are.na full-time. In the coming months, we’ll be taking big steps towards improving Are.na while ensuring that it remains open to everyone. 
 
-## New Pricing
+**New Pricing**
 
 One of those steps is re-evaluating the way Premium membership works. We believe our pricing should reflect the value the Are.na community creates when it contributes and generates knowledge together. For that reason, we also believe selling your data or serving you ads is not the right way to support Are.na. That’s why we are shifting to a model where everyone has access to Are.na’s features and Premium members pay for privacy in order to use Are.na for professional or personal work. 
 
-## How are the plans changing?
+**How are the plans changing?**
 
 Starting on August 23, 2017, free accounts will have access to all tools and features, including those previously available only to Premium members. Everyone on Are.na will be able to create a custom bio, mute channels, search within channels, see channels in list view, and manage all channels in one place. However, free accounts will be limited to a total of 100 total private blocks of content. 
 
