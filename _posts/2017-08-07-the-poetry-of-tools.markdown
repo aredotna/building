@@ -4,7 +4,7 @@ date: 2017-08-07 12:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1065761/original_f526bdc37838fdc5656e9111d9c84510.png
 author: "Mindy Seu"
@@ -15,7 +15,7 @@ author: "Mindy Seu"
 
 I’m glad you’re on the other side of this glass screen. Using this laptop, the mouse is my avatar, clicking and scrolling for utilitarian means. Most use their devices in an automated way, without reflecting on their gestures. Let’s defamiliarize our tools and use them as a vehicle for contemplation.
 
-While living in San Francisco, I noticed a constant evangelism surrounding the newest technologies. Exhibitions tether visitors to goggles and isolate them in virtual worlds. Digital displays react to the movements of those in front of it—an animism that is met with excitement and no further questioning of its appeal beyond pure novelty. I’ve often felt this failed to make us question how we might interact with digital technology in a conscious, meaningful way. Afterall, technology is only a tool. Better yet, technology is a form of language. Perhaps we are so fascinated by the progress of digital technology because it brings us closer to understanding ourselves.
+While living in San Francisco, I noticed a constant evangelism surrounding the newest technologies. Exhibitions tether visitors to goggles and isolate them in virtual worlds. Digital displays react to the movements of those in front of it—an animism that is met with excitement but no further questioning of its appeal beyond pure novelty. I’ve often felt this failed to make us question how we might interact with digital technology in a conscious, meaningful way. Afterall, technology is only a tool. Better yet, technology is a form of language. Perhaps we are so fascinated by the progress of digital technology because it brings us closer to understanding ourselves.
 
 Tools shape the way we behave. We point, swipe, skim, type, click, send. How can we reconsider the actions we perform in our daily interfaces? Identifying the constraints of these tools can help us recognize their poetic potential. The limited capabilities of technology shaped the appearance of early computer art. Newer works identify these limitations and exploit them as critical, often humorous acts. Some also compile, reconfigure, and build from found content. 
 
@@ -64,15 +64,15 @@ In early examples of Human Computer Interaction, technological limitations shape
 
 <figure>
   <h5>Jeffrey Shaw, Legible City, 1989</h5>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/1178922/large_72152a37a84c05cffa136ed5fa86718d.jpg"/>
+  <iframe src="https://player.vimeo.com/video/138116261" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <figcaption>
-   Jeffrey Shaw’s 1989 <a href="http://www.jeffrey-shaw.net/html_main/show_work.php?record_id=83"><i>Legible City</i></a> is a pioneering interactive art installation. Using real city plans of Manhattan, Amsterdam, and Karlsruhe to construct his virtual cities, Shaw lined the streets with computer-generated, three-dimensional letters that form words and sentences. The visitor would sit on a stationary bicycle in front of the projection of this simulated city. Their movements and speed propelled them through the city streets and allowed them to read the messages that lined them. In this Manhattan version of the installation, the paths followed eight color-coded monologues by figures who shaped the architecture of New York City—notably Frank Lloyd Wright and Donald Trump.
+   Jeffrey Shaw’s 1989 <a href="https://www.are.na/block/1017619"><i>Legible City</i></a> is a pioneering interactive art installation. Using real city plans of Manhattan, Amsterdam, and Karlsruhe to construct his virtual cities, Shaw lined the streets with computer-generated, three-dimensional letters that form words and sentences. The visitor would sit on a stationary bicycle in front of the projection of this simulated city. Their movements and speed propelled them through the city streets and allowed them to read the messages that lined them. In this Manhattan version of the installation, the paths followed eight color-coded monologues by figures who shaped the architecture of New York City—notably Frank Lloyd Wright and Donald Trump.
   </figcaption>
 </figure>
 
 <figure>
   <h5>David Rokeby, The Giver of Names, 1990</h5>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/1178915/large_8ccc31aa103d5e5a215136b746e56a41.png"/>
+  <iframe src="https://player.vimeo.com/video/17187792" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <figcaption>
    In 1990, David Rokeby created the <a href="https://www.are.na/block/1064485"><i>The Giver of Names</i></a>. The installation consists of a pedestal surrounded by a pile of objects: rubber duck, yellow pin, toy car, watering can, rain boot. Visitors place random objects on the pedestal, prompting a computer to process them by shape, color, and their relationship to each other. The computer then constructs a sentence that is nonsensical but discernible. From a ‘still life’ of a lime green toy gun, yellow rubber duck, and yellow pin, for example, the robotic voice reads: “In that issues morrow across from this benefiting bath with which the Irishman had substituted a first robber, this dolly underneath each lime tree sagged.”
   </figcaption>
@@ -111,7 +111,7 @@ Rather than reinterpreting data, some artists work directly with the form of int
   <h5>Emilio Gomariz, AI Pro, 2012</h5>
   <video controls="controls" width="100%" height="400" src="https://s3.amazonaws.com/arena-attachments/1135990/5ca882e34dd9cea1da8e9fed0874e643.mov?1500411456"></video>
   <figcaption>
-   In Emilio Gomariz’s 2012 <i>Macintosh Lab</i> series, he animates compositions using the features, tools, and operating systems we use daily. In this piece, <a href="https://www.are.na/block/688920"><i>Unicode</i></a>, he exposes and arranges every tool within the program and animates them with pre-existing shortcuts and gestures. In a <a href="http://rhizome.org/editorial/2012/aug/3/interface-aesthetics/">piece for Rhizome</a>, artist and writer Jason Huff writes, “Gomariz reframes our functional desktops as the expansive canvas…his choreographed hand reveals the performative nature of computerized commands and the formal beauty within our taken-for-granted digital tools.”
+   In Emilio Gomariz’s 2012 <i>Macintosh Lab</i> series, he animates compositions using the features, tools, and operating systems we use daily. In this piece, <a href="http://s3.amazonaws.com/arena-attachments/1135990/5ca882e34dd9cea1da8e9fed0874e643.mov?1500411456"><i>AI Pro</i></a>, he exposes and arranges every tool within the program and animates them with pre-existing shortcuts and gestures. In a <a href="http://rhizome.org/editorial/2012/aug/3/interface-aesthetics/">piece for Rhizome</a>, artist and writer Jason Huff writes, “Gomariz reframes our functional desktops as the expansive canvas…his choreographed hand reveals the performative nature of computerized commands and the formal beauty within our taken-for-granted digital tools.”
   </figcaption>
 </figure>
 
@@ -119,7 +119,7 @@ Rather than reinterpreting data, some artists work directly with the form of int
   <h5>Phillipe Cao, Ritual for Empowerment, 2014</h5>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1181684/original_c434d016dc23a7dd1efc577d752ac349.gif"/>
   <figcaption>
-   In Phillipe Cao’s RISD thesis, he calls on users to create a ‘screen-self’ to meditate upon the rituals of micro-interactions like clicking, scrolling, swiping. He develops several microsites to focus on each of these actions. <a href="https://www.are.na/block/688938"><i>The Giver of Names</i></a>, above, displays a mass of buttons using the default styling for the HTML tag <code>button</code>. They compel the visitor to click with their calls to action, “Please! Give it a go! Please click here! Click me?” Pressing each button opens a pop-up window with a compliment or uplifting statement, “Genius! You’re having a field day! You’re special!”
+   In Phillipe Cao’s RISD thesis, he calls on users to create a ‘screen-self’ to meditate upon the rituals of micro-interactions like clicking, scrolling, swiping. He develops several microsites to focus on each of these actions. <a href="https://www.are.na/block/688938"><i>Ritual for Empowerment</i></a>, above, displays a mass of buttons using the default styling for the HTML tag <code>button</code>. They compel the visitor to click with their calls to action, “Please! Give it a go! Please click here! Click me?” Pressing each button opens a pop-up window with a compliment or uplifting statement, “Genius! You’re having a field day! You’re special!”
   </figcaption>
 </figure>
 
@@ -132,7 +132,7 @@ Rather than reinterpreting data, some artists work directly with the form of int
 </figure>
 
 <figure>
-  <h5>Sebasitan Ly Serena, 2015</h5>
+  <h5>Sebastian Ly Serena, 2015</h5>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1181685/original_dcb3edbac99852a6438b5de1e93ae2fe.gif"/>
   <figcaption>
   Similarly, designer <a href="https://www.are.na/block/688937">Sebastian Ly Serena</a>'s portfolio site is an animation of forms that take the viewer through a Rube Goldberg-esque sequence that eventually leads to his email address. Serena’s site is not interactive; rather, it begins playing upon page load, asking the visitor to pause and observe.
@@ -147,13 +147,13 @@ These works embrace these missteps, exploit them as commentary or art or humor, 
 
 <figure>
   <h5>Yasmeen Khaja, Jared Kitade, and Jimmy Don, Align Text, 2017</h5>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/1178914/large_b0ead150de548c1eb4963944313c9931.png"/>
+  <iframe src="https://drive.google.com/file/d/0Bzpo-fawJ_Uoa3VEU0pkYnc2STA/preview" width="640" height="480"></iframe>
   <figcaption>
-   During a Bots & Automation workshop with Chris Hamamoto, an instructor at California College of the Arts, team members Yasmeen Khaja, Jared Kitade, and Jimmy Don tested the limits of the Google Translate Images app. The app uses Augmented Reality to translate signs from one language into another in real time. In the test shown, the team sets the translation from English to Spanish, then trains the phone camera lens on a keyboard. As the app tries to find English words in the keyboard that it might be able to translate, it builds false connections and creates words that don’t exist.
+   During a Bots & Automation workshop co-led with Chris Hamamoto, an instructor at California College of the Arts, team members Yasmeen Khaja, Jared Kitade, and Jimmy Don tested the limits of the Google Translate Images app. The app uses Augmented Reality to translate text from one language into another in real time. In the test shown, the team sets the translation from English to Spanish, then trains the phone camera lens on a keyboard. As the app tries to find English words in the keyboard that it might be able to translate, it builds false connections and creates words that do not exist.
   </figcaption>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1178925/large_956f5a1849daf0f1dc1bc00817552374.png"/>
   <figcaption>
-   Khaja, Kitade, and Don began looking for other instances of Google Translate Images misinterpreting lines and textures as words, and screenshot these glitches on their Instagram @aligntext. In another example, the team asks the app to translate a piece of raw meat. By setting the translation from Japanese to English, Google Translate tries to read the white lines in the meat as Japanese characters that it can translate.
+   Khaja, Kitade, and Don began looking for other instances of Google Translate Images that misinterpreted lines and textures as words. They now screenshot these glitches, and share them on their Instagram <a href="https://www.instagram.com/aligntext/">@aligntext</a>. In another example, the team asks the app to translate a piece of raw meat. By setting the translation from Japanese to English, Google Translate tries to read the white lines in the meat as Japanese characters that it can translate.
   </figcaption>
 </figure>
 
@@ -161,7 +161,7 @@ These works embrace these missteps, exploit them as commentary or art or humor, 
   <h5>Damon Zucconi, Debt, 2017</h5>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1179146/original_819007c753d9e1eac3fdfb1ef5ff7651.gif"/>
   <figcaption>
-   Damon Zucconi’s <a href="https://www.are.na/block/1064369"><i>Debt</i></a> performs the errors you might get when typing by hand. By factoring in the probability of fat fingering the surrounding keys while texting, <i>Debt</i> pours the familiarity of conversational messaging into a rapid stream of courtesy and questions the disingenuity and automation of thanks.
+   Damon Zucconi’s <a href="https://www.are.na/block/1064369"><i>Debt</i></a> performs the errors you might get when typing by hand. By factoring in the probability of fat fingering the surrounding keys while texting, <i>Debt</i> pours the familiarity of conversational messaging into a rapid stream of courtesy that questions the disingenuity and automation of thanks.
   </figcaption>
 </figure>
 
@@ -188,9 +188,6 @@ Technology can give new life to old works by preserving it and making it accessi
 
 > “We’re often too quick to imagine that we’ve actually learned from the past. But new works often tend to recycle the same ideas over and over again into different media. To me this suggests that we might be more open to letting old works speak, that our task might not be so much to
 make new works but to build new platforms for old works to speak from.” <br>— Rick Prelinger
-
-##### First Screening
-![](https://d2w9rnfcy7mm78.cloudfront.net/1178908/original_3fbd900dc32a78e44f02bde553633e95.gif)
 
 <figure>
   <h5>First Screening</h5>
@@ -219,11 +216,11 @@ make new works but to build new platforms for old works to speak from.” <br>�
   <h5>Sweethearts</h5>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1178918/original_ddc38a894f136a6d4b1c4c2f0f0e786f.gif"/>
   <figcaption>
-    In 1968, Emmett Williams created the concrete poetry flipbook <i>Sweethearts</i>, a narrative love story and kinetic animation. An anagrammatic erotic encounter between a "he" and a "she," the entire poem is derived from an 11x11 grid comprised of the word "sweethearts” seen on <a href="http://www.sweetheartsweetheart.com/#84">page 139</a>.
+    In 1968, Emmett Williams created the concrete poetry flipbook <a href="https://www.are.na/block/281807"><i>Sweethearts</i></a>, a narrative love story and kinetic animation. An anagrammatic erotic encounter between a "he" and a "she," the entire poem is derived from an 11x11 grid comprised of the word "sweethearts” seen on <a href="http://www.sweetheartsweetheart.com/#139">page 139</a>.
     <br><br>
     After discovering very little documentation of the poem, I felt compelled to make it accessible online. The format of the book informs the structure of the site. A strip of hatch marks acts as a video scrub bar that mirrors flipping through the pages, typed by hand in Futura. Like the printed poem, the site moves from right to left. To give a nod to the cover art, I used Marcel Duchamp’s heart illustration for the favicon.
     <br><br>
-    Digitization as a tool can preserve text and introduce valuable works to a wider audience. With Sweethearts, I used technology as a form of language, asking viewers to reconsider how the poem could be read.
+    Digitization as a tool can preserve text and introduce valuable works to a wider audience. The addition of technology asks viewers to reconsider how the poem could be read. Together they reinforce the notion that poetry can be found in the written content as well as the interactions themselves.
   </figcaption>
 </figure>
 
