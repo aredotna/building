@@ -52,13 +52,13 @@ Is the web living? The question can be answered by the antecedent: it is living 
 
 ---
 ## Early Works
-In early examples of Human Computer Interaction, technological limitations shaped the work, and poetic forms emerged from those constraints. Beyond aesthetics, their constraints also influence how these works were and are consumed. The pace of these pieces, intentional or not, causes the visitor to sit, watch, and listen.
+In early examples of Human–computer interaction, technological limitations shaped the work, and poetic forms emerged from those constraints. Beyond aesthetics, their constraints also influence how these works were and are consumed. The pace of these pieces, intentional or not, causes the visitor to sit, watch, and listen.
 
 <figure>
   <h5>Myron Krueger, Videoplace, 1985</h5>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/YyIWzapmOLI" frameborder="0" allowfullscreen></iframe>
   <figcaption>
-    Computer artist Myron Krueger is considered to be a pioneer of virtual reality research. He focused on exploring the interactions between humans and computers. By 1985, Krueger had created <a href="https://www.are.na/block/1031803"><i>Videoplace</i></a> to explore early computer vision and interaction work within the University of Connecticut's Artificial Reality Lab. Users in the space were able to see their actions as crude silhouettes interacting with on-screen buttons and objects..
+    Computer artist Myron Krueger is considered to be a pioneer of virtual reality research. He focused on exploring the interactions between humans and computers. By 1985, Krueger had created <a href="https://www.are.na/block/1031803"><i>Videoplace</i></a> to explore early computer vision and interaction work within the University of Connecticut's Artificial Reality Lab. Users in the space were able to see their actions as crude silhouettes interacting with on-screen buttons and objects.
   </figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ In early examples of Human Computer Interaction, technological limitations shape
   <h5>Jeffrey Shaw, Legible City, 1989</h5>
   <a href="https://vimeo.com/138116261"><img src="https://d2w9rnfcy7mm78.cloudfront.net/1178922/large_72152a37a84c05cffa136ed5fa86718d.jpg"></a>
   <figcaption>
-   Jeffrey Shaw’s 1989 <a href="https://www.are.na/block/1017619"><i>Legible City</i></a> is a pioneering interactive art installation. Using real city plans of Manhattan, Amsterdam, and Karlsruhe to construct his virtual cities, Shaw lined the streets with computer-generated, three-dimensional letters that form words and sentences. The visitor would sit on a stationary bicycle in front of the projection of this simulated city. Their movements and speed propelled them through the city streets and allowed them to read the messages that lined them. In this Manhattan version of the installation, the paths followed eight color-coded monologues by figures who shaped the architecture of New York City—notably Frank Lloyd Wright and Donald Trump.
+   Jeffrey Shaw’s 1989 <a href="https://www.are.na/block/1017619"><i>Legible City</i></a> is a pioneering interactive art installation. Using real city plans of Manhattan, Amsterdam, and Karlsruhe to construct his virtual cities, Shaw lined the streets with computer-generated, three-dimensional letters that form words and sentences. The visitors would sit on a stationary bicycle in front of the projection of this simulated city. Their movements and speed propelled them through the city streets and allowed them to read the messages that lined them. In this Manhattan version of the installation, the paths followed eight color-coded monologues by figures who shaped the architecture of New York City—notably Frank Lloyd Wright and Donald Trump.
   </figcaption>
 </figure>
 
@@ -84,13 +84,13 @@ In early examples of Human Computer Interaction, technological limitations shape
 
 > “Data is good for more than computation and extrapolation. It is also meant to be built upon and reassembled. There is prose and poetry and performance to be made from these rows and columns.” <br> — Jer Thorp
 
-While those earlier pieces examined the visible interface that allows humans and computers to interact, these later works explore how to visualize data and make it understandable. While data typically has a pragmatic function, it can be sequenced to criticise the content or showcase the form. Digital poetry can be found in this information by reordering and performing this found material.
+While those earlier pieces examined the visible interface that allows humans and computers to interact, these later works explore how to visualize data and make it understandable. While data typically has a pragmatic function, it can be sequenced to criticize the content or showcase the form. Digital poetry can be found in this information by reordering and performing this found material.
 
 <figure>
   <h5>Office of Creative Research, A Sort of Joy (Thousands of Exhausted Things), 2015</h5>
   <iframe src="https://player.vimeo.com/video/133815147" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <figcaption>
-   In April 2015, actors from the theater group Elevator Repair Service began performing a piece called <a href="https://www.are.na/block/1064290"><i>A Sort of Joy (Thousands of Exhausted Things)</i></a> within the halls of MoMA. After the museum released their collections database as a GitHub repository that same year, the Office of Creative Research transformed the data from over 120,000 artworks in the museum’s collection into a script for the actors to perform. Circling the gallery in plain clothes, intermingled with museum-goers, the actors read an endless stream of titles, dates, and critiques. Removed from the context of the artwork, the performance focuses on the data itself and reshapes how it can be consumed.
+   In April 2015, actors from the theater group Elevator Repair Service began performing a piece called <a href="https://www.are.na/block/1064290"><i>A Sort of Joy (Thousands of Exhausted Things)</i></a> within the halls of MoMA. After the museum released their collections database as a GitHub repository that same year, the Office of Creative Research transformed the data from over 120,000 artworks in the museum’s collection into a script for the actors to perform. Circling the gallery in plain clothes, intermingled with museum-goers, the actors read an endless stream of titles, dates, and critiques. Removed from the context of the artwork, the performance focused on the data itself and reshaped how it can be consumed.
   </figcaption>
 </figure>
 
@@ -111,15 +111,15 @@ Rather than reinterpreting data, some artists work directly with the form of int
   <h5>Emilio Gomariz, AI Pro, 2012</h5>
   <video controls="controls" width="100%" height="400" src="https://s3.amazonaws.com/arena-attachments/1135990/5ca882e34dd9cea1da8e9fed0874e643.mov?1500411456"></video>
   <figcaption>
-   In Emilio Gomariz’s 2012 <i>Macintosh Lab</i> series, he animates compositions using the features, tools, and operating systems we use daily. In this piece, <a href="http://s3.amazonaws.com/arena-attachments/1135990/5ca882e34dd9cea1da8e9fed0874e643.mov?1500411456"><i>AI Pro</i></a>, he exposes and arranges every tool within the program and animates them with pre-existing shortcuts and gestures. In a <a href="http://rhizome.org/editorial/2012/aug/3/interface-aesthetics/">piece for Rhizome</a>, artist and writer Jason Huff writes, “Gomariz reframes our functional desktops as the expansive canvas…his choreographed hand reveals the performative nature of computerized commands and the formal beauty within our taken-for-granted digital tools.”
+   In Emilio Gomariz’s 2012 <i>Macintosh Lab</i> series, he animates compositions using the features, tools, and operating systems we use daily. In this piece, <a href="https://www.are.na/block/1135990"><i>AI Pro</i></a>, he exposes and arranges every tool within the program and animates them with pre-existing shortcuts and gestures. In a <a href="http://rhizome.org/editorial/2012/aug/3/interface-aesthetics/">piece for Rhizome</a>, artist and writer Jason Huff writes, “Gomariz reframes our functional desktops as the expansive canvas…his choreographed hand reveals the performative nature of computerized commands and the formal beauty within our taken-for-granted digital tools.”
   </figcaption>
 </figure>
 
 <figure>
-  <h5>Phillipe Cao, Ritual for Empowerment, 2014</h5>
+  <h5>Philippe Cao, Ritual for Empowerment, 2014</h5>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1181684/original_c434d016dc23a7dd1efc577d752ac349.gif"/>
   <figcaption>
-   In Phillipe Cao’s RISD thesis, he calls on users to create a ‘screen-self’ to meditate upon the rituals of micro-interactions like clicking, scrolling, swiping. He develops several microsites to focus on each of these actions. <a href="https://www.are.na/block/688938"><i>Ritual for Empowerment</i></a>, above, displays a mass of buttons using the default styling for the HTML tag <code>button</code>. They compel the visitor to click with their calls to action, “Please! Give it a go! Please click here! Click me?” Pressing each button opens a pop-up window with a compliment or uplifting statement, “Genius! You’re having a field day! You’re special!”
+   In Philippe Cao’s RISD thesis, he calls on users to create a ‘screen-self’ to meditate upon the rituals of micro-interactions like clicking, scrolling, swiping. He develops several microsites to focus on each of these actions. <a href="https://www.are.na/block/688938"><i>Ritual for Empowerment</i></a>, above, displays a mass of buttons using the default styling for the HTML tag <code>button</code>. They compel the visitor to click with their calls to action, “Please! Give it a go! Please click here! Click me?” Pressing each button opens a pop-up window with a compliment or uplifting statement, “Genius! You’re having a field day! You’re special!”
   </figcaption>
 </figure>
 
