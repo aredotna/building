@@ -1,6 +1,6 @@
 ---
 title: The Poetry of Tools
-date: 2017-08-07 12:00:00 Z
+date: 2017-08-10 12:00:00 Z
 categories:
 - Case Study
 tags:
