@@ -64,7 +64,7 @@ In early examples of Human–computer interaction, technological limitations sha
 
 <figure>
   <h5>Jeffrey Shaw, Legible City, 1989</h5>
-  <a href="https://vimeo.com/138116261"><img src="https://d2w9rnfcy7mm78.cloudfront.net/1187937/original_663a7ba8aa642e7c5bf85976f7147ea9.gif"></a>
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/1187937/original_663a7ba8aa642e7c5bf85976f7147ea9.gif">
   <figcaption>
    Jeffrey Shaw’s 1989 <a href="https://www.are.na/block/1017619"><i>Legible City</i></a> is a pioneering interactive art installation. Using real city plans of Manhattan, Amsterdam, and Karlsruhe to construct his virtual cities, Shaw lined the streets with computer-generated, three-dimensional letters that form words and sentences. The visitors would sit on a stationary bicycle in front of the projection of this simulated city. Their movements and speed propelled them through the city streets and allowed them to read the messages that lined them. In this Manhattan version of the installation, the paths followed eight color-coded monologues by figures who shaped the architecture of New York City—notably Frank Lloyd Wright and Donald Trump.
   </figcaption>
