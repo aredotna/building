@@ -6,7 +6,7 @@ categories:
 tags:
 - featured
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/1065761/original_f526bdc37838fdc5656e9111d9c84510.png
+image: https://d2w9rnfcy7mm78.cloudfront.net/1178922/large_72152a37a84c05cffa136ed5fa86718d.jpg
 author: "Mindy Seu"
 ---
 
@@ -15,7 +15,7 @@ author: "Mindy Seu"
 
 I’m glad you’re on the other side of this glass screen. Using this laptop, the mouse is my avatar, clicking and scrolling for utilitarian means. Most use their devices in an automated way, without reflecting on their gestures. Let’s defamiliarize our tools and use them as a vehicle for contemplation.
 
-While living in San Francisco, I noticed a constant evangelism surrounding the newest technologies. Exhibitions tether visitors to goggles and isolate them in virtual worlds. Digital displays react to the movements of those in front of it—an animism that is met with excitement but no further questioning of its appeal beyond pure novelty. I’ve often felt this failed to make us question how we might interact with digital technology in a conscious, meaningful way. Afterall, technology is only a tool. Better yet, technology is a form of language. Perhaps we are so fascinated by the progress of digital technology because it brings us closer to understanding ourselves.
+While living in San Francisco, I noticed a constant evangelism surrounding the newest technologies. Exhibitions tether visitors to goggles and isolate them in virtual worlds. Digital displays react to the movements of those in front of them—an animism that is met with excitement but no further questioning of its appeal beyond pure novelty. I’ve often felt this failed to make us question how we might interact with digital technology in a conscious, meaningful way. Afterall, technology is only a tool. Better yet, technology is a form of language. Perhaps we are so fascinated by the progress of digital technology because it brings us closer to understanding ourselves.
 
 Tools shape the way we behave. We point, swipe, skim, type, click, send. How can we reconsider the actions we perform in our daily interfaces? Identifying the constraints of these tools can help us recognize their poetic potential. The limited capabilities of technology shaped the appearance of early computer art. Newer works identify these limitations and exploit them as critical, often humorous acts. Some also compile, reconfigure, and build from found content. 
 
@@ -64,7 +64,7 @@ In early examples of Human Computer Interaction, technological limitations shape
 
 <figure>
   <h5>Jeffrey Shaw, Legible City, 1989</h5>
-  <iframe src="https://player.vimeo.com/video/138116261" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <a href="https://vimeo.com/138116261"><img src="https://d2w9rnfcy7mm78.cloudfront.net/1178922/large_72152a37a84c05cffa136ed5fa86718d.jpg"></a>
   <figcaption>
    Jeffrey Shaw’s 1989 <a href="https://www.are.na/block/1017619"><i>Legible City</i></a> is a pioneering interactive art installation. Using real city plans of Manhattan, Amsterdam, and Karlsruhe to construct his virtual cities, Shaw lined the streets with computer-generated, three-dimensional letters that form words and sentences. The visitor would sit on a stationary bicycle in front of the projection of this simulated city. Their movements and speed propelled them through the city streets and allowed them to read the messages that lined them. In this Manhattan version of the installation, the paths followed eight color-coded monologues by figures who shaped the architecture of New York City—notably Frank Lloyd Wright and Donald Trump.
   </figcaption>
