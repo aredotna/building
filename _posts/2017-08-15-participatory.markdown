@@ -6,11 +6,12 @@ categories:
 tags:
 - featured
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/1196716/original_102f94cf61dd4cb0c3d270c5140c3cda.png
+image: https://d2w9rnfcy7mm78.cloudfront.net/1196714/original_f071ddfd02eaaf3e52148ff767c32ee4.jpg
 ---
 
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na. Participatory channels are open for anyone to add to, creating an experimental environment that encourages play._
---
+
+---
 
 <figure>
   <h5>Wild Animals vs Manmade Materials</h5>
