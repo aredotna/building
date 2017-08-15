@@ -82,5 +82,5 @@ _A Collection of Channels is a series highlighting channels we’re paying atten
 
 For more participatory channels, check out the [Are.na games](https://www.are.na/anastasia-davydova-lewis/are-na-games) superchannel and add your own games for others to play :-)
 
-_Anastasia Davydova Lewis is a Design and Media Arts student at UCLA whose work analyzes trends in technoculture, networked intimacy, and agitprop mysticism. She has worked with DIS and Sex Magazine, and is currently a research fellow at Are.na._
+_[Anastasia Davydova Lewis](http://www.xnast.asia) is a Design and Media Arts student at UCLA whose work analyzes trends in technoculture, networked intimacy, and agitprop mysticism. She has worked with DIS and Sex Magazine, and is currently a [research fellow at Are.na](https://www.are.na/anastasia-davydova-lewis/index)._
 
