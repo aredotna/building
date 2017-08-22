@@ -58,7 +58,13 @@ For me too though the interest in the unreleasable is deeper than a greatest and
 
 **BW:** To your question about continuity between individual and historical fakeness, I think this continuity is still present per the simplest criterion we work with: the fact that we are unable to issue this music in modern musical formats. This idea winds up in the last paragraph of every release when we justify our decision not to reissue the work, but I don't think I understood the significance of it until we had our label and catalogue [removed from Discogs](https://www.discogs.com/forum/thread/705482) because we weren't dealing with, in their terms, "recorded music." That was when I realized that the job we've given ourselves here is to identify music that can't be captured through audio-based recording practices, and to then provide a record of it in the only means possible, which is writing. If we weren't recording it in this way, something like the OAPEC oil embargo would only come up in the fields of history or international relations. Now, for better or for worse, it's a musical event. 
 
-![](https://d2w9rnfcy7mm78.cloudfront.net/1209544/original_e653aeabe915a88efe28e671ded781e5.jpeg)
+<figure>
+  <h5>Deep Signs</h5>
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/1209544/original_e653aeabe915a88efe28e671ded781e5.jpeg">
+  <figcaption>
+    How to Listen to and Understand Fake Music by Willy Smart, designed by Bryce Wilner
+  </figcaption>
+</figure>
 
 **WS:** Are we still talking about fakeness? The category makes more sense to me when we are considering works of art than it does when considering historical events and history. Maybe our label's removal from Discogs is a good moment to think this through since it's us and our fake label against the real historic force of Discogs forum moderators. Could you relay a little more of that narrative?
 
@@ -68,7 +74,7 @@ That situation came about after maybe six months of updating the FMR releases on
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/brandon-wilner/record-side-distinctions/embed"></iframe>
 
-Anyway, one day I was out digging through records (real music) at a shop when I checked my phone and saw that a Discogs user had flagged all of our releases, in which I’d listed as PDFs. They gave the same reason (about “recorded music”) in each instance, and then started a thread in which they "discussed" the validity of the releases. It didn't actually wind up being much of a conversation: I responded to their criticisms and didn't hear back. Our label page was removed shortly after I submitted my response. 
+Anyway, one day I was out digging through records (real music) at a shop when I checked my phone and saw that a Discogs user had flagged all of our releases, which I’d listed as PDFs. They gave the same reason (about “recorded music”) in each instance, and then started a thread in which they "discussed" the validity of the releases. It didn't actually wind up being much of a conversation: I responded to their criticisms and didn't hear back. Our label page was removed shortly after I submitted my response. 
 
 I still get a bit miffed when I think for too long about this willful omission in their archive, but I guess I can also see how to the average music head, this project seems more like literary frivolity. I'll admit that it was also exciting at the time to have such a strong reaction to it. Do you have any feelings about the banishment?
 
