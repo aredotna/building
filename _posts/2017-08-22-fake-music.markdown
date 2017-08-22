@@ -59,7 +59,6 @@ For me too though the interest in the unreleasable is deeper than a greatest and
 **BW:** To your question about continuity between individual and historical fakeness, I think this continuity is still present per the simplest criterion we work with: the fact that we are unable to issue this music in modern musical formats. This idea winds up in the last paragraph of every release when we justify our decision not to reissue the work, but I don't think I understood the significance of it until we had our label and catalogue [removed from Discogs](https://www.discogs.com/forum/thread/705482) because we weren't dealing with, in their terms, "recorded music." That was when I realized that the job we've given ourselves here is to identify music that can't be captured through audio-based recording practices, and to then provide a record of it in the only means possible, which is writing. If we weren't recording it in this way, something like the OAPEC oil embargo would only come up in the fields of history or international relations. Now, for better or for worse, it's a musical event. 
 
 <figure>
-  <h5>Deep Signs</h5>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1209544/original_e653aeabe915a88efe28e671ded781e5.jpeg">
   <figcaption>
     How to Listen to and Understand Fake Music by Willy Smart, designed by Bryce Wilner
