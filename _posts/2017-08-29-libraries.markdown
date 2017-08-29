@@ -6,7 +6,7 @@ categories:
 tags:
 - draft
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/1196714/original_f071ddfd02eaaf3e52148ff767c32ee4.jpg
+image: https://d2w9rnfcy7mm78.cloudfront.net/736835/large_f0faf9f48139fd0c46afd76f14160fe0.jpg
 ---
 
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na. Are.na Libraries focus on channels that act as resources for self-education, collecting readings, public databases and researching techniques._
