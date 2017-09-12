@@ -46,8 +46,8 @@ Despite their popularity, however, no band that released hit albums in 2001 was 
 
 ---
 
-In the film’s climax, Josie and The Pussycats defeat Mega Records executives and destroy the machine that put subliminal messages in their songs. Standing on stage in front of a now silent stadium, Josie prefaces her “new song” with a message to her newly liberated audience of an ideology that has felt lost for the entirety of the film: “It's cool if you like it, and okay if you don't. Just decide for yourselves.”
+_In the film’s climax, Josie and The Pussycats defeat Mega Records executives and destroy the machine that put subliminal messages in their songs. Standing on stage in front of a now silent stadium, Josie prefaces her “new song” with a message to her newly liberated audience of an ideology that has felt lost for the entirety of the film: “It's cool if you like it, and okay if you don't. Just decide for yourselves.”_
 
-_[Asher Penn](http://asherpenn.com) is a creative director and producer based in Los Angeles._
+[Asher Penn](http://asherpenn.com) is a creative director and producer based in Los Angeles.
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/asher-penn/josie-the-pussycats/embed"></iframe>
