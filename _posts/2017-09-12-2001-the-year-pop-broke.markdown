@@ -9,7 +9,7 @@ layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1255014/original_26141620444945fbd5af04cbfb428012.png
 ---
 
-_The 2001 film “Josie and the Pussycats” starts with a plane crash. Boy band Du Jour, having found subliminal messages inserted into their recordings by their label, Mega Records, confront their manager who discards the group by crashing their private jet, parachuting to safety in the suburb of Riverdale. After brainwashing the town’s youth with Du Jour’s final remix, “Slave,” the manager  scouts new talent, finding it in Josie & The Pussycats, a pop-punk group with dreams of making it big. Signing the young women sound unseen, the manager flies them to New York where he elevates the group to stardom only to use them as a disposable tool for controlling the minds, tastes, and wallets of a mass teenage audience._
+_The 2001 film_ Josie and the Pussycats _starts with a plane crash. Boy band Du Jour, having found subliminal messages inserted into their recordings by their label, Mega Records, confront their manager who discards the group by crashing their private jet, parachuting to safety in the suburb of Riverdale. After brainwashing the town’s youth with Du Jour’s final remix, “Slave,” the manager scouts new talent, finding it in Josie & The Pussycats, a pop-punk group with dreams of making it big. Signing the young women sound unseen, the manager flies them to New York where he elevates the group to stardom only to use them as a disposable tool for controlling the minds, tastes, and wallets of a mass teenage audience._
 
 ---
 
@@ -20,7 +20,6 @@ Two nights after the September 11 attacks, Gavin Brown’s West 15th Street art-
 It was in response to this lingering atmosphere that house DJ Spencer Sweeney put on an unreleased track from Andrew W.K.’s forthcoming Debut LP: “I Love NYC,” a pop-metal track whose heavily layered guitars and vocals summoned the majesty of a symphonic choir. While some bar patrons screamed along to the lyrics “You can’t stop what you can’t end,” others were in tears. Not even released, it was clear that this song could serve as a much needed anthem for whatever lay ahead.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IUwfnFlr7sE" frameborder="0" allowfullscreen></iframe>
-
 
 Andrew W.K. was the first of many Post-9/11 Bands: groups born to this new cultural landscape bereft of baggage or backstory from the previous decade. The Strokes’ “Is This It,” was just entering the pop charts when the band (or their label) made the confusing gesture of reissuing the album and removing “New York City Cops” from the tracklist, “out of respect” for the death of police and firemen in the towers. Fischerspooner’s debut record was also received as uncannily timely, its opening song “Sweetness” commencing with the sound of a jet launch, drowned out by electroclash beats and the chilling lyrics “Violence paints the sky... Was a fearsome joy of shooting blazing bursting...” But what exactly was new or even different about these acts emerging from the dust of the twin towers? Why did they seems so alien? And what was it that made their sound suddenly feel so necessary?
 
@@ -47,8 +46,8 @@ Despite their popularity, however, no band that released hit albums in 2001 was 
 
 ---
 
-_In the film’s climax, Josie and The Pussycats defeat Mega Records executives and destroy the machine that put subliminal messages in their songs. Standing on stage in front of a now silent stadium, Josie prefaces her “new song” with a message to her newly liberated audience of an ideology that has felt lost for the entirety of the film: “It's cool if you like it, and okay if you don't. Just decide for yourselves.”_
+In the film’s climax, Josie and The Pussycats defeat Mega Records executives and destroy the machine that put subliminal messages in their songs. Standing on stage in front of a now silent stadium, Josie prefaces her “new song” with a message to her newly liberated audience of an ideology that has felt lost for the entirety of the film: “It's cool if you like it, and okay if you don't. Just decide for yourselves.”
 
-[Asher Penn](http://asherpenn.com) is a creative director and producer based in Los Angeles.
+_[Asher Penn](http://asherpenn.com) is a creative director and producer based in Los Angeles._
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/asher-penn/josie-the-pussycats/embed"></iframe>
