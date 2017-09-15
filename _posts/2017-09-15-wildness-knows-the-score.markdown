@@ -19,7 +19,7 @@ The distinction between wild animal and pet was important, but at the time I cou
 
 ---
 
-I began Wild Animals vs. Manmade Materials five years ago in 2012, making it quite ancient in Are.na years. It started with a fascination towards a single piece of media. At the time, I was returning to YouTube day after day to watch this mesmerizing video of leopards examining their reflections through mirrors installed in a jungle. “Leopards VS mirror,” the original subtitle of the video, made me curious: Were the leopards “against” the mirror? Were the leopards preparing to fight the mirror as they circled around it, hopped on top of it, and eventually made eye contact with the creatures inside of it? But the video is long, and gradually the leopards change. They seem more curious than opinionated, oscillating between mirror as prey, enemy, friend, inanimate object, or possibly even self. 
+I began Wild Animals vs. Manmade Materials five years ago in 2012, making it quite ancient in Are.na years. It started with a fascination towards a single piece of media. At the time, I was returning to YouTube day after day to watch this [mesmerizing video of leopards](https://www.are.na/block/78167) examining their reflections through mirrors installed in a jungle. “Leopards VS mirror,” the original subtitle of the video, made me curious: Were the leopards “against” the mirror? Were the leopards preparing to fight the mirror as they circled around it, hopped on top of it, and eventually made eye contact with the creatures inside of it? But the video is long, and gradually the leopards change. They seem more curious than opinionated, oscillating between mirror as prey, enemy, friend, inanimate object, or possibly even self. 
 
 
 <figure>
