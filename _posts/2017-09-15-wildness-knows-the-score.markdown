@@ -25,7 +25,7 @@ I began Wild Animals vs. Manmade Materials five years ago in 2012, making it qui
 <figure>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ANH-0dAO_kw" frameborder="0" allowfullscreen></iframe>
   <figcaption>
-    <h5>How self-aware is a leopard? While not a definite answer to this question, this video by French photographers Xavier and Anne-Marie Hubert-Brierre brings to mind the “mirror self-recognition test,” a procedure designed to test self-awareness. Of the animals, dolphins, orcas, magpies, elephants, and nonhuman apes such as chimpanzees have passed. Humans typically understand their reflection at 18–30 months old.</h5>
+    <small>How self-aware is a leopard? While not a definite answer to this question, this video by French photographers Xavier and Anne-Marie Hubert-Brierre brings to mind the “mirror self-recognition test,” a procedure designed to test self-awareness. Of the animals, dolphins, orcas, magpies, elephants, and nonhuman apes such as chimpanzees have passed. Humans typically understand their reflection at 18–30 months old.</small>
   </figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ After a week, I officially deleted all the pets. But there was one pet I recall 
 <figure>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2Tgwrkk-B3k" frameborder="0" allowfullscreen></iframe>
   <figcaption>
-    <h5>A cute Pomeranian puppy sits perplexed in its dog bed, listening attentively to the sound of wolves howling from a YouTube video on a nearby laptop. After listening to the wolves for a while, the puppy joins in, howling upwards.</h5>
+    <small>A cute Pomeranian puppy sits perplexed in its dog bed, listening attentively to the sound of wolves howling from a YouTube video on a nearby laptop. After listening to the wolves for a while, the puppy joins in, howling upwards.</small>
   </figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Edge cases like this made me realize that each contribution, pet or not, must be
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/665764/large_da9e92dd249576665195039aef726ce2.jpg" />
   <figcaption>
-    <h5>“Don't mind me, I'm just making some hot pockets.” Perhaps this snake starring in memes is <a href="https://www.youtube.com/user/deadlinenov24/videos">Julius</a>, the internet-famous pet albino python, but I can’t completely prove it.</h5>
+    <small>“Don't mind me, I'm just making some hot pockets.” Perhaps this snake starring in memes is <a href="https://www.youtube.com/user/deadlinenov24/videos">Julius</a>, the internet-famous pet albino python, but I can’t completely prove it.</small>
   </figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ Reviewing the contents of my channel, I recalled the synanthropes: those wild an
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/233707/large_538dcbb0cefadf31ae96941561546cca.jpg" />
   <figcaption>
-    <h5>In an interview, writer Margaret Atwood said, “An involvement with birds is a reliable hook into the state of the planet.”</h5>
+    <small>In an interview, writer Margaret Atwood said, “An involvement with birds is a reliable hook into the state of the planet.”</small>
   </figcaption>
 </figure>
 
@@ -115,14 +115,14 @@ In a speech given to physics teachers and later [reprinted](http://archives.chic
 <figure>
   <iframe src="https://player.vimeo.com/video/130849073?color=d8d5d4" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <figcaption>
-    <h5><i>Nightwatch</i> (2004) by Francis Alÿs</h5>
+    <small><i>Nightwatch</i> (2004) by Francis Alÿs</small>
   </figcaption>
 </figure>
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1263942/original_bcf28fac869262bd6cfbbec0deb1c31a.jpg" />
   <figcaption>
-    <h5><i>Untitled (Good Times, Bad Times)</i> (2007) by Anna Jermolaewa</h5>
+    <small><i>Untitled (Good Times, Bad Times)</i> (2007) by Anna Jermolaewa</small>
   </figcaption>
 </figure>
 
