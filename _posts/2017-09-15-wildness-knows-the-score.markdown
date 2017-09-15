@@ -1,6 +1,6 @@
 ---
 title: Wildness Knows the Score 
-date: 2017-09-12 00:00:00 Z
+date: 2017-09-15 00:00:00 Z
 categories:
 - Case Study
 tags:
@@ -19,19 +19,19 @@ The distinction between wild animal and pet was important, but at the time I cou
 
 ---
 
-I began Wild Animals vs. Manmade Materials five years ago in 2012, making it quite ancient in Are.na years. It started with a fascination towards a single piece of media. At the time, I was returning to YouTube day after day to watch this mesmerizing video of leopards examining their reflections through mirrors installed in a jungle. “Leopards VS mirror,” the original subtitle of the video, made me curious: Were the leopards “against” the mirror? Were the leopards preparing to fight the mirror as they circled around it, hopped on top of it, and eventually made eye contact with the creatures inside of it? But the video is long, and gradually the leopards change. They seem more curious than opinionated, oscillating between mirror as prey, enemy, friend, inanimate object, or possibly even self. 
+I began Wild Animals vs. Manmade Materials five years ago in 2012, making it quite ancient in Are.na years. It started with a fascination towards a single piece of media. At the time, I was returning to YouTube day after day to watch this mesmerizing [video](https://www.are.na/block/78167) of leopards examining their reflections through mirrors installed in a jungle. “Leopards VS mirror,” the original subtitle of the video, made me curious: Were the leopards “against” the mirror? Were the leopards preparing to fight the mirror as they circled around it, hopped on top of it, and eventually made eye contact with the creatures inside of it? But the video is long, and gradually the leopards change. They seem more curious than opinionated, oscillating between mirror as prey, enemy, friend, inanimate object, or possibly even self. 
 
 
 <figure>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ANH-0dAO_kw" frameborder="0" allowfullscreen></iframe>
   <figcaption>
-    How self-aware is a leopard? While not a definite answer to this question, this video by French photographers Xavier and Anne-Marie Hubert-Brierre brings to mind the “mirror self-recognition test,” a procedure designed to test self-awareness. Of the animals, dolphins, orcas, magpies, elephants, and nonhuman apes such as chimpanzees have passed. Humans typically understand their reflection at 18–30 months old.
+    <h5>How self-aware is a leopard? While not a definite answer to this question, this video by French photographers Xavier and Anne-Marie Hubert-Brierre brings to mind the “mirror self-recognition test,” a procedure designed to test self-awareness. Of the animals, dolphins, orcas, magpies, elephants, and nonhuman apes such as chimpanzees have passed. Humans typically understand their reflection at 18–30 months old.</h5>
   </figcaption>
 </figure>
 
 I wondered if there were other such Animal-Versus-Thing content on YouTube, even if not titled so helpfully. After some quick searches, I found a fox jumping on a trampoline and ducks in a mirrored room: three things, enough to merit a collection! 
 
-I titled my channel as specifically as I could, and waited. It wasn’t long until other Are.na users started adding to it. Early contributions include: a seagull walking on an escalator, an octopus sliding through a crack in a boat, a deer in a backyard pool, a wasp building a nest in the handle of a car, and a frog swimming in zero gravity. My channel was growing quickly; the material was not only funny, strange, and beautiful, it was also relatively easy to pinpoint and categorize due to the channel’s straightforward title. From then on, “wild animals vs. manmade materials” seemed easy to find online. In fact, I started seeing them everywhere. They lived at multiple stops along my web browsing path, existing within amateur YouTube videos; memes and viral images on Tumblr; and articles on mainstream news websites like the New York Times and the Guardian.
+I titled my channel as specifically as I could, and waited. It wasn’t long until other Are.na users started adding to it. Early contributions include: a seagull walking on an escalator, an octopus sliding through a crack in a boat, a deer in a backyard pool, a wasp building a nest in the handle of a car, and a frog swimming in zero gravity. My channel was growing quickly; the material was not only funny, strange, and beautiful, it was also relatively easy to pinpoint and categorize due to the channel’s straightforward title. From then on, “wild animals vs. manmade materials” seemed easy to find online. In fact, I started seeing them everywhere. They lived at multiple stops along my web browsing path, existing within amateur YouTube videos; memes and viral images on Tumblr; and articles on mainstream news websites like the _New York Times_ and the _Guardian_.
 
 ---
 
@@ -44,18 +44,18 @@ After a week, I officially deleted all the pets. But there was one pet I recall 
 <figure>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2Tgwrkk-B3k" frameborder="0" allowfullscreen></iframe>
   <figcaption>
-    A cute Pomeranian puppy sits perplexed in its dog bed, listening attentively to the sound of wolves howling from a YouTube video on a nearby laptop. After listening to the wolves for a while, the puppy joins in, howling upwards. 
+    <h5>A cute Pomeranian puppy sits perplexed in its dog bed, listening attentively to the sound of wolves howling from a YouTube video on a nearby laptop. After listening to the wolves for a while, the puppy joins in, howling upwards.</h5>
   </figcaption>
 </figure>
 
 Is this puppy’s howl a sign that it recalls a time thousands of years ago before being domesticated by man? In this rare instance, I believe the pet acts as the manmade material. The pet, the Pomeranian puppy, reacts to a representation of its wild animal counterpart, the wolf, contextually illuminating the species’ relationship. 
 
-Edge cases like this made me realize that each contribution, pet or not, must be addressed contextually on an individual basis. Metadata can be useful in judging, especially in the case of a stray image—one without title, description, or source link. Without such clues, I use Are.na’s “Find original” link to automatically do a reverse Google image search. For instance, recently I wondered about an image of a massive yellow snake in a domestic kitchen, raising itself towards the microwave as if retrieving a now-warm treat. Was the snake a pet? Or was it wild, breaking and entering to use the microwave? My search results revealed the image was viral, its source difficult to trace.
+Edge cases like this made me realize that each contribution, pet or not, must be addressed contextually on an individual basis. Metadata can be useful in judging, especially in the case of a stray image—one without title, description, or source link. Without such clues, I use Are.na’s “Find original” link to automatically do a reverse Google image search. For instance, recently I wondered about an [image](https://www.are.na/block/665764) of a massive yellow snake in a domestic kitchen, raising itself towards the microwave as if retrieving a now-warm treat. Was the snake a pet? Or was it wild, breaking and entering to use the microwave? My search results revealed the image was viral, its source difficult to trace.
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/665764/large_da9e92dd249576665195039aef726ce2.jpg" />
   <figcaption>
-    “Don't mind me, I'm just making some hot pockets.” Perhaps this snake starring in memes is <a href="https://www.youtube.com/user/deadlinenov24/videos">Julius</a>, the internet-famous pet albino python, but I can’t completely prove it.
+    <h5>“Don't mind me, I'm just making some hot pockets.” Perhaps this snake starring in memes is <a href="https://www.youtube.com/user/deadlinenov24/videos">Julius</a>, the internet-famous pet albino python, but I can’t completely prove it.</h5>
   </figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ Reviewing the contents of my channel, I recalled the synanthropes: those wild an
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/233707/large_538dcbb0cefadf31ae96941561546cca.jpg" />
   <figcaption>
-    In an interview, writer Margaret Atwood said, “An involvement with birds is a reliable hook into the state of the planet.”
+    <h5>In an interview, writer Margaret Atwood said, “An involvement with birds is a reliable hook into the state of the planet.”</h5>
   </figcaption>
 </figure>
 
@@ -115,14 +115,14 @@ In a speech given to physics teachers and later [reprinted](http://archives.chic
 <figure>
   <iframe src="https://player.vimeo.com/video/130849073?color=d8d5d4" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <figcaption>
-    <i>Nightwatch</i> (2004) by Francis Alÿs
+    <h5><i>Nightwatch</i> (2004) by Francis Alÿs</h5>
   </figcaption>
 </figure>
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1263942/original_bcf28fac869262bd6cfbbec0deb1c31a.jpg" />
   <figcaption>
-    <i>Untitled (Good Times, Bad Times)</i> (2007) by Anna Jermolaewa
+    <h5><i>Untitled (Good Times, Bad Times)</i> (2007) by Anna Jermolaewa</h5>
   </figcaption>
 </figure>
 
@@ -130,7 +130,7 @@ When artists use wild animals in their work, I like to think they are examining 
 
 ---
 
-In a sense, Wild Animals vs. Manmade Materials is a collection of sentinel species. You can understand it as a portrait of the planet using animal signals as material. It’s also inadvertently a collection of human technology through time, including surveillance systems (like in Nightwatch), drones (caught by falcons and tigers, and designed by DARPA to look like hummingbirds), the Internet (whose undersea cables have been attacked by sharks), powerful light beams (like those that confuse pigeons when beamed into the sky as a 9/11 memorial) and border walls (which prohibit endangered jaguars of the American Southwest and Mexico the large amounts of land needed to survive and reproduce), to name a few. 
+In a sense, Wild Animals vs. Manmade Materials is a collection of sentinel species. You can understand it as a portrait of the planet using animal signals as material. It’s also inadvertently a collection of human technology through time, including surveillance systems (like in _Nightwatch_), drones (caught by falcons and tigers, and designed by DARPA to look like hummingbirds), the Internet (whose undersea cables have been attacked by sharks), powerful light beams (like those that confuse pigeons when beamed into the sky as a 9/11 memorial) and border walls (which prohibit endangered jaguars of the American Southwest and Mexico the large amounts of land needed to survive and reproduce), to name a few. 
 
 Maybe we’re so fascinated by wild animals because they teach us about ourselves and our own behavior. Humans are domesticated animals just as pets are, but wild animals were here before us, will likely be here after us, and can exist independently of us. At first, policing my own channel seemed strange and aggressive. But I trusted my intuition and was fueled by my friend’s suggestion. While I did delete a lot of pets initially, the policing mindset has evolved into one of sustained maintenance. I check up on the channel regularly. Cultivating it has become an active part of my practice that allows me to think more deeply about the subject.
 
