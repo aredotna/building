@@ -1,10 +1,10 @@
 ---
 title: The Wildness Knows the Score 
-date: 2017-09-15 00:00:00 Z
+date: 2017-09-19 00:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1178051/large_054e5bd7b83ac7876b84e12040f881ca.jpg
 author: "Laurel Schwulst"
