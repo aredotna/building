@@ -6,7 +6,7 @@ categories:
 tags:
 - featured
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/1178051/large_054e5bd7b83ac7876b84e12040f881ca.jpg
+image: https://d2w9rnfcy7mm78.cloudfront.net/390896/original_97c3b454e7e5adf970efe120c965ed91.jpg
 author: "Laurel Schwulst"
 ---
 
