@@ -1,6 +1,6 @@
 ---
 title: Announcing Are.na Grants
-date: 2017-07-06 00:00:00 Z
+date: 2017-09-25 00:00:00 Z
 categories:
 - Hello World
 tags:
