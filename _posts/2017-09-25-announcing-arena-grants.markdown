@@ -19,7 +19,7 @@ We’re happy to announce **Are.na Grants**, a new initiative to support researc
 
 For the first set of grants, we are especially interested in projects that address issues around the shifting nature of “knowledge work,” algorithmic governance, and networked learning, though proposals of all kinds are welcome. Proposals may cover or combine a wide range of disciplines and enthusiasms.
 
-Recipients will be selected by jury members [John-Michael Boling](https://www.are.na/john-michael-boling/channels), [Laurel Schwulst](https://www.are.na/laurel-schwulst/channels), and [Dena Yago](https://www.are.na/dena-yago/channels), along with the Are.na team. The announcement of grant recipients along with features on grant projects will be published on the Are.na blog.
+Recipients will be selected by jury members [John Michael Boling](https://www.are.na/john-michael-boling/channels), [Laurel Schwulst](https://www.are.na/laurel-schwulst/channels), and [Dena Yago](https://www.are.na/dena-yago/channels), along with the Are.na team. The announcement of grant recipients along with features on grant projects will be published on the Are.na blog.
 
 The grant categories include:
 
