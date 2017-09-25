@@ -1,5 +1,5 @@
 ---
-title: Rache Rosenfelt, founder of The New Inquiry
+title: Rachel Rosenfelt, founder of The New Inquiry
 date: 2017-09-25 12:00:00 Z
 categories:
 - Focus
