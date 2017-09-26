@@ -4,7 +4,7 @@ date: 2017-09-25 00:00:00 Z
 categories:
 - Hello World
 tags:
-- draft
+- featured
 layout: post
 image: https://i.pinimg.com/originals/82/1e/f0/821ef00a4ab796c17346deadaf0da36f.jpg
 ---
