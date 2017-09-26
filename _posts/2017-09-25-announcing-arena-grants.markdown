@@ -27,13 +27,11 @@ The grant categories include:
   - **Team projects.** This grant will support new visual, written, or other multimedia output mounted by a team or organization using Are.na for collaborative research and thinking.
   - **Web projects using the Are.na API.** Some things that have already been built on the Are.na API include [print are.na](https://printarena.now.sh/?ch=arena-influences), a tool for turning any Are.na channel into a printable PDF booklet, and [Pilgrim](http://pilgrim.are.na), a bookmarklet that aims to provide a better experience for consuming long-form text and exploring related materials on the web. Grantees will receive initial training and regular technical support from the Are.na team.
 
-  Submissions should comprise a link to an Are.na channel containing your name, a 150-word statement, a single sketch or image, and a proposed timeline for completion. The deadline for applying is **October 13, 2017**, and recipients will be announced **October 23, 2017**. You can take a look at the full application instructions at the bottom of this post.
+Submissions should comprise a link to an Are.na channel containing your name, a 150-word statement, a single sketch or image, and a proposed timeline for completion. The deadline for applying is **October 13, 2017**, and recipients will be announced **October 23, 2017**. You can take a look at the full application instructions at the bottom of this post.
 
-  Our intention behind Are.na is to provide an alternative platform for people, whether alone or with others, to pursue their interests and organize their thinking—without the influence of advertisers or algorithms. Over the course of building Are.na, we’ve seen how digital tools can become addictive and invasive rather than empowering. We’ve also seen the emergence of “fake news,” filter bubbles, an attention economy, an increasingly contingent and precarious workforce, and growing concern over data security and personal privacy.
+Our intention behind Are.na is to provide a platform for people, whether alone or with others, to pursue their interests and organize their thinking. We want to create a different kind of online environment where curiosity is valued and transparency is a given. We believe one of the greatest promises of the internet is the ability to collaboratively create, organize, and share knowledge. Are.na Grants are a small way in which we hope to support critical dialogue around the creation of more ethical, equitable platforms that support the dignity and joy of thinking.
 
-  Our goal is to create a different kind of online environment where curiosity is valued and transparency is a given. We believe one of the greatest promises of the internet is the ability to collaboratively create, organize, and share knowledge. Are.na Grants are a small way in which we hope to support critical dialogue around the creation of more ethical, equitable platforms that support the dignity and joy of thinking.
-
-– [Charles Broskoski](https://www.are.na/charles-broskoski)
+– [everyone@are.na](https://www.are.na/about)
 
 ---
 
