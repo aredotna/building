@@ -6,7 +6,7 @@ categories:
 tags:
 - draft
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/86531/large_104086def2264ad01dc77ccb6f892c11.jpg
+image: https://i.pinimg.com/originals/82/1e/f0/821ef00a4ab796c17346deadaf0da36f.jpg
 ---
 
 Strictly speaking, Are.na is a framework for drawing connections between images, files, ideas, and people. Thanks to the people that use and support Are.na, it has become a richly layered and complex space for meaning-making, collaboration, and organizing thought. 
