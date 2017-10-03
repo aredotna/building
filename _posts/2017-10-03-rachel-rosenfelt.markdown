@@ -14,7 +14,7 @@ Rachel Rosenfelt is a co-publisher of [_The New Inquiry_](https://thenewinquiry.
 
 _The New Inquiry_ has always been based on the web, and Rachel and the magazine’s editorial board are continuously experimenting with what it means to be a digital publication. In April, the magazine published a machine-learning tool called the [White Collar Crime Risk Zones](https://thenewinquiry.com/white-collar-crime-risk-zones/), built by Sam Lavigne, Brian Clifton, and [_New Inquiry_ co-publisher Francis Tseng](https://www.are.na/blog/case%20study/2017/04/11/propaganda-of-the-meme.html), which seemed to me to indicate a new phase, and new level maturation, of that endeavor. I asked Rachel if she’d be game to talk about where _The New Inquiry_ is now and where it’s going. Over the phone late last week she was warm and intelligent, and equally animated when recounting the publication’s decentralized beginnings as she was articulating its constant evolution and way forward. 
 
-![](https://d2w9rnfcy7mm78.cloudfront.net/1288959/original_4bb65e2049bcdfacded6d73d23628453.png)
+![](https://d2w9rnfcy7mm78.cloudfront.net/1308682/original_51c5453a6cc26f432cd57246a4d9e4d2.png)
 
 **I didn’t realize until I was doing research for this interview that _The New Inquiry_ was a Tumblr blog when it started out in 2009. Were you still in school at that point, or just out?**
 
