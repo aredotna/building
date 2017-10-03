@@ -4,17 +4,17 @@ date: 2017-10-03 12:00:00 Z
 categories:
 - Focus
 tags:
-- draft
+- featured
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/1288959/original_4bb65e2049bcdfacded6d73d23628453.png
+image: https://d2w9rnfcy7mm78.cloudfront.net/1308671/large_41f65c0ef7b89309a5e3c22efccec3d2.png
 author: "Meg Miller"
 ---
 
-Rachel Rosenfelt is a co-publisher of [_The New Inquiry_](https://thenewinquiry.com), the creative director for Verso Books, and associate director of the department of Creative Publishing and Critical Journalism at The New School, and a 2017-2018 member of NEW INC. She founded _The New Inquiry_ in 2009, along with friends Mary Borkowski and Jennifer Bernstein, and grew it into the thoughtful, critical, often provocative publication it’s now known as. Many of the most interesting and influential writers working today have appeared on the magazine’s masthead early on in their careers. Rachel credits the economic recession for her own politicization, and many of the perennial themes and the oppositional attitude of the magazine seem to be tied inextricably to its formative years, pre- and post- Occupy Wall Street. In a year when topics like anti-fascism and anti-racism are headlining basically all major publications, _The New Inquiry_’s near decade of critical essays and reportage in that vein feel as important as ever.
+Rachel Rosenfelt is a co-publisher of [_The New Inquiry_](https://thenewinquiry.com), the creative director for Verso Books, associate director of the department of Creative Publishing and Critical Journalism at The New School, and a 2017-2018 member of NEW INC. She founded _The New Inquiry_ in 2009, along with friends Mary Borkowski and Jennifer Bernstein, and grew it into the thoughtful, critical, often provocative publication it’s now known as. Many of the most interesting and influential writers working today have appeared on the magazine’s masthead early on in their careers. Rachel credits the economic recession for her own politicization, and many of the perennial themes and the oppositional attitude of the magazine seem to be tied inextricably to its formative years, pre- and post- Occupy Wall Street. In a year when topics like anti-fascism and anti-racism are headlining basically all major publications, _The New Inquiry_’s near decade of critical essays and reportage in that vein feel as important as ever.
 
 _The New Inquiry_ has always been based on the web, and Rachel and the magazine’s editorial board are continuously experimenting with what it means to be a digital publication. In April, the magazine published a machine-learning tool called the [White Collar Crime Risk Zones](https://thenewinquiry.com/white-collar-crime-risk-zones/), built by Sam Lavigne, Brian Clifton, and [_New Inquiry_ co-publisher Francis Tseng](https://www.are.na/blog/case%20study/2017/04/11/propaganda-of-the-meme.html), which seemed to me to indicate a new phase, and new level maturation, of that endeavor. I asked Rachel if she’d be game to talk about where _The New Inquiry_ is now and where it’s going. Over the phone late last week she was warm and intelligent, and equally animated when recounting the publication’s decentralized beginnings as she was articulating its constant evolution and way forward. 
 
-![](https://d2w9rnfcy7mm78.cloudfront.net/1288959/original_4bb65e2049bcdfacded6d73d23628453.png)
+![](https://d2w9rnfcy7mm78.cloudfront.net/1308682/original_51c5453a6cc26f432cd57246a4d9e4d2.png)
 
 **I didn’t realize until I was doing research for this interview that _The New Inquiry_ was a Tumblr blog when it started out in 2009. Were you still in school at that point, or just out?**
 
