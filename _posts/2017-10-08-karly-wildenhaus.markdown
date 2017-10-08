@@ -6,7 +6,7 @@ categories:
 tags:
 - featured
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/390896/original_97c3b454e7e5adf970efe120c965ed91.jpg
+image: https://d2w9rnfcy7mm78.cloudfront.net/871761/large_a83fdb32aa051449c5a8c5fac7e0889f.jpg
 author: "Karly Wildenhaus"
 ---
 A few weeks ago, fellow Are.na user Sam Hart posed [the question](https://www.are.na/block/1229497) in the [Are.na Personals channel](https://www.are.na/greg-fong/are-na-personals), “What might ‘librarianship’ mean for a platform like Are.na?” Embedded within this question is the inverse—what might a platform like Are.na mean for librarianship?
