@@ -57,7 +57,7 @@ _[Karly Wildenhaus](http://karly.wildenha.us) is a researcher living in Los Ange
 
 <small>[<a name="2">2</a>] Martha Lampland and Susan Leigh Star, “Reckoning with Standards,” in _Standards and Their Stories: How Quantifying, Classifying and Formalizing Practices Shape Everyday Life_ (Ithaca, NY: Cornell University Press, 2009), 17.</small>
 
-<small>[<a name="3">3</a>] Rachel Clarke, “Cataloguing for Art and Design School Libraries,” in _Handbook of Art and Design Librarianship for Higher Education_, eds. Paul Glassman and Amanda Gluibizzi (London: Facet, 2010), 115.</small>
+<small>[<a name="3">3</a>] Rachel Clarke, “Cataloguing for Art and Design School Libraries,” in _Handbook of Art and Design Librarianship_, eds. Paul Glassman and Amanda Gluibizzi (London: Facet, 2010), 115.</small>
 
 <small>[<a name="4">4</a>] W. B. Rayward, “Visions of Xanadu: Paul Otlet (1868–1944) and Hypertext,” _Journal of the American Society for Information Science_ 45, no. 4 (May 1994), 236.</small>
 
