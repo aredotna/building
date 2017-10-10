@@ -4,7 +4,7 @@ date: 2017-10-10 00:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/789491/large_52f903eecc8e78e79d235b5a9b8b30cc
 author: "Karly Wildenhaus"
@@ -53,18 +53,18 @@ _[Karly Wildenhaus](http://karly.wildenha.us) is a researcher living in Los Ange
 
 ---
 
-<small>[<a name="1">1</a>] Robert S. Nelson, “The Map of Art History,” The Art Bulletin 79, no. 1 (March 1997): 31–32.</small>
+<small>[<a name="1">1</a>] Robert S. Nelson, “The Map of Art History,” _The Art Bulletin_ 79, no. 1 (March 1997): 31–32.</small>
 
-<small>[<a name="2">2</a>] Martha Lampland and Susan Leigh Star, “Reckoning with Standards,” in Standards and Their Stories: How Quantifying, Classifying and Formalizing Practices Shape Everyday Life (Ithaca, NY: Cornell University Press, 2009), 17.</small>
+<small>[<a name="2">2</a>] Martha Lampland and Susan Leigh Star, “Reckoning with Standards,” in _Standards and Their Stories: How Quantifying, Classifying and Formalizing Practices Shape Everyday Life_ (Ithaca, NY: Cornell University Press, 2009), 17.</small>
 
-<small>[<a name="3">3</a>] Rachel Clarke, “Cataloguing for Art and Design School Libraries,” in Handbook of Art and Design Librarianship for Higher Education, eds. Paul Glassman and Amanda Gluibizzi (London: Facet, 2010), 115.</small>
+<small>[<a name="3">3</a>] Rachel Clarke, “Cataloguing for Art and Design School Libraries,” in _Handbook of Art and Design Librarianship for Higher Education_, eds. Paul Glassman and Amanda Gluibizzi (London: Facet, 2010), 115.</small>
 
-<small>[<a name="4">4</a>] W. B. Rayward, “Visions of Xanadu: Paul Otlet (1868–1944) and Hypertext,” Journal of the American Society for Information Science 45, no. 4 (May 1994), 236.</small>
+<small>[<a name="4">4</a>] W. B. Rayward, “Visions of Xanadu: Paul Otlet (1868–1944) and Hypertext,” _Journal of the American Society for Information Science_ 45, no. 4 (May 1994), 236.</small>
 
-<small>[<a name="5">5</a>] Vannevar Bush, “As We May Think,” Atlantic Monthly (July 1945), 101–108, accessed at http://www.theatlantic.com/magazine/archive/1969/12/as-we-may-think/3881.</small>
+<small>[<a name="5">5</a>] Vannevar Bush, “As We May Think,” _Atlantic Monthly_ (July 1945), 101–108, accessed at http://www.theatlantic.com/magazine/archive/1969/12/as-we-may-think/3881.</small>
 
 <small>[<a name="6">6</a>] Bush.</small>
 
-<small>[<a name="7">7</a>] Paul Duguid and John Seely Brown, “Reading the Background,” Social Life of Information (Cambridge: Harvard Business School Press, 2000), 189.</small>
+<small>[<a name="7">7</a>] Paul Duguid and John Seely Brown, “Reading the Background,” _Social Life of Information_ (Cambridge: Harvard Business School Press, 2000), 189.</small>
  
 
