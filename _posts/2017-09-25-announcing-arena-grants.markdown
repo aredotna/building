@@ -9,11 +9,11 @@ layout: post
 image: https://i.pinimg.com/originals/82/1e/f0/821ef00a4ab796c17346deadaf0da36f.jpg
 ---
 
-Strictly speaking, Are.na is a framework for drawing connections between images, files, ideas, and people. Thanks to the people that use and support Are.na, it has become a richly layered and complex space for meaning-making, collaboration, and organizing thought. 
+Strictly speaking, Are.na is a framework for drawing connections between pieces of information. Thanks to the people that use and support us, it has become a richly layered and complex space for meaning-making, collaboration, and organizing thought. 
 
-As we continue to build the infrastructure and tools that make up Are.na, we’re looking for new ways to support the loose-knit communities that have grown around Are.na and the bodies of knowledge they are creating.
+As we continue to build the infrastructure and tools that make up Are.na, we’re looking for new ways to support the loose-knit communities that have grown around it, and the bodies of knowledge they are creating.
 
-The Are.na blog is one way we have been highlighting imaginative and unsolicited uses of Are.na. Today, we’re taking another step towards supporting people who are putting ideas together on Are.na and making them accessible to everyone.
+This blog is one way we have been highlighting imaginative and unsolicited uses of Are.na. Today, we’re taking another step towards supporting people who are putting ideas together and making them accessible to everyone.
 
 We’re happy to announce **Are.na Grants**, a new initiative to support research, writing, and other creative projects that are developed and built on Are.na. Grants of $500 each will be awarded in three categories, and may be used to expand on an existing line of research or start a new endeavor.
 
