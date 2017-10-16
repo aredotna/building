@@ -1,12 +1,12 @@
 ---
 title: Experimental Comics
-date: 2017-08-10 12:00:00 Z
+date: 2017-10-16 12:00:00 Z
 categories:
 - Case Study
 tags:
 - draft
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/1251076/original_3c49b0a8baedd3b186e0f74f04439995.jpg
+image: https://d2w9rnfcy7mm78.cloudfront.net/1251076/large_3c49b0a8baedd3b186e0f74f04439995.jpg
 author: "Shea Fitzpatrick"
 ---
 
@@ -161,14 +161,6 @@ Often what comics are hailed for over other visual mediums, and perhaps what mak
 The inspiration for this section—and the source of so many leads in my own research—is [Nick Sousanis](http://spinweaveandcut.com), who has devoted his career as an artist and academic to reshaping what comics, as both a body of work and a process, can be. I came across Nick’s dissertation, Unflattening, on Twitter, and I interviewed him in July about how he engages students who don’t necessarily identify as “artists” in comics-making. Our conversation ended up having less to do with “experimental comics,” as it were, than it did with experiments in comics, geared towards education. (Nick has, however, graciously answered every one of my follow-up emails—“Dear Nick, Help! What’s an experimental comic?”—as I was writing this post.) 
 
 So far this case study has focused on innovations by self-identified artists or comics as finished works, as opposed the act of making comics as its own way of interpreting and processing ideas. The following examples offer ways in which experiments in the comics-making process can be tools for thinking and learning, for artists and non-artists alike. 
-
-<figure>
-  <h5><a href="http://spinweaveandcut.com/grids-and-gestures/">Nick Sousanis, “Grids and Gestures: A Comics Making Exercise,” <i>SANE Journal</i> 2015</a></h5>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/1342421/original_74055468d71609f96354d98c8fa8893b.png">
-  <figcaption>
-    The <a href="http://spinweaveandcut.com/grids-gestures/">exercise is simple</a>. Imagine the shape of your day. On a blank sheet of paper, relay the events of the day by drawing them in a grid. Now imagine the emotions and thought processes during the corresponding moments, and fill the panels with appropriately emotionally-charged or devoid scribbles. What you will have in front of you is a completely nonrepresentational, yet dynamic and narrative composition for a comics page that doubles as a map of your day. Or, as Sousanis poetically <a href="https://www.are.na/block/1196687">puts it</a>, “Have a look at your ceiling tiles...imagine putting these features to music.”
-  </figcaption>
-</figure>
 
 <figure>
   <h5><a href="http://spinweaveandcut.com/grids-and-gestures/">Nick Sousanis, “Grids and Gestures: A Comics Making Exercise,” <i>SANE Journal</i> 2015</a></h5>
