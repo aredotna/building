@@ -4,7 +4,7 @@ date: 2017-10-17 12:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1251076/large_3c49b0a8baedd3b186e0f74f04439995.jpg
 author: "Shea Fitzpatrick"
