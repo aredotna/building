@@ -1,5 +1,5 @@
 ---
-title: Experimental Comics
+title: Breaking the Sequence
 date: 2017-10-17 12:00:00 Z
 categories:
 - Case Study
