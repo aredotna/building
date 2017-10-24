@@ -1,5 +1,5 @@
 ---
-title: Real Life Horrors
+title: Real-Life Horrors
 date: 2017-10-24 00:00:00 Z
 categories:
 - A Collection of Channels
@@ -50,6 +50,14 @@ _A Collection of Channels is a series highlighting channels we’re paying atten
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1144909/large_3a6332df85994f00c1664cbe38a7987d">
   <figcaption>
     <a href="https://www.are.na/ultimape/not-the-bees">View this channel on Are.na</a>
+  </figcaption>
+</figure>
+
+<figure>
+  <h5>Horrors</h5>
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/1108790/large_b9447f5cbde5fb14f002168a9c1c20da.jpg">
+  <figcaption>
+    <a href="https://www.are.na/greg-fong/horrors">View this channel on Are.na</a>
   </figcaption>
 </figure>
 
