@@ -6,7 +6,7 @@ categories:
 tags:
 - draft
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/1308671/large_41f65c0ef7b89309a5e3c22efccec3d2.png
+image: https://d2w9rnfcy7mm78.cloudfront.net/1403158/large_8743a6b13d344a5de58661e685fd2ce1.jpg
 author: "Meg Miller"
 ---
 
