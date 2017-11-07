@@ -4,19 +4,19 @@ date: 2017-11-07 12:00:00 Z
 categories:
 - Focus
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1403158/large_8743a6b13d344a5de58661e685fd2ce1.jpg
 author: "Meg Miller"
 ---
 
-[Sara Cwynar](http://saracwynar.com/) is a Canadian artist living in Brooklyn, New York. Before she switched to photography and art-making full time, she worked as a graphic designer for the _New York Times Magazine_, an experience she credits with informing her mode of working today. Her process involves near-constant culling and paring down—of found objects and images, video footage, snippets of readings, passages of theory. Her images are often assemblages of vintage imagery and painstakingly-arranged studio shots, dense with both visual layers and cultural references. When we spoke over Skype about a month ago, Sara was in London preparing for a show at Carl Kostyál gallery that features a series of images with a friend, graphic designer Tracy Ma. At the time she was in-between meetings, midway through a new film on the commercial production of color (an extension of her recent film [Rose Gold](http://www.foxyproduction.com/exhibitions/1674/pr)), and toggling between two books: Ben Lerner’s _10:04_ and _On the New_ by Boris Groys. 
+[Sara Cwynar](http://saracwynar.com/) is a Canadian artist living in Brooklyn, New York. Before she switched to photography and art-making full time, she worked as a graphic designer for _The New York Times Magazine_, an experience she credits with informing her mode of working today. Her process involves near-constant culling and paring down—of found objects and images, video footage, snippets of readings, passages of theory. Her images are often assemblages of vintage imagery and painstakingly-arranged studio shots, dense with both visual layers and cultural references. When we spoke over Skype about a month ago, Sara was in London preparing for a show at Carl Kostyál gallery that features a series of images with a friend, graphic designer Tracy Ma. At the time she was in-between meetings, midway through a new film on the commercial production of color (an extension of her recent film [Rose Gold](http://www.foxyproduction.com/exhibitions/1674/pr)), and toggling between two books: Ben Lerner’s _10:04_ and _On the New_ by Boris Groys. 
 
 **You worked in graphic design before pursuing an MFA in photography. Were you interested in photography before you started designing? At what point did both of these things converge into your current practice?**
 
 I started out as an English literature major. I’m still interested in writing and literature, and still use those things in terms of making books and writing for video. I dropped out of school a bunch of times after that. I always wanted to be an artist and a photographer but I went back to school for graphic design because I thought it was more practical. Which is the only time in my life I’ve ever made a practical decision like that.
  
-I really loved design and still do, but I fell into it without really knowing what it was, and what I actually wanted to be doing was photography. I started making photography in the mornings before I would go to work at _The New York Times_ and I did some shows while I was working there. Eventually, after three years there, I was able to quit and just concentrate on doing photo. The way that design works, and the modes of working in graphic design, still inform my photo works, in the sense that I’m organizing massive amounts of information into something someone else can understand. 
+I really loved design and still do, but I fell into it without really knowing what it was, and what I actually wanted to be doing was photography. I started making photography in the mornings before I would go to work at the _New York Times_ and I did some shows while I was working there. Eventually, after three years there, I was able to quit and just concentrate on doing photo. The way that design works, and the modes of working in graphic design, still inform my photo works, in the sense that I’m organizing massive amounts of information into something someone else can understand. 
 
 **What was your motive for going for your MFA?**
 
