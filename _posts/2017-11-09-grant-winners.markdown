@@ -4,7 +4,7 @@ date: 2017-11-09 00:00:00 Z
 categories:
 - Hello World
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1410371/large_28b64bab0b8cb742ece613f243ee45b5
 ---
