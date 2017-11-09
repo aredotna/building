@@ -17,18 +17,6 @@ The following projects were selected from among 86 submissions representing a cr
 
 ---
 
-### API Category: **Are.na Toolkit by Sam Hart**
-
-![](https://d2w9rnfcy7mm78.cloudfront.net/1410371/large_28b64bab0b8cb742ece613f243ee45b5)
-
-The Are.na Toolkit will be an open source browser extension will allow others to develop new tools for the Are.na web app. The extension will wrap a set of useful modules, including a graph query engine, UI library, and management console, which together operate as an extensible development environment for community projects that might map, search, and explore Are.na in new ways.
-
-Inspired by the Reddit Enhancement Suite, the Are.na toolkit aims to provide a focal point for community-driven tool design, opening the Are.na platform to new avenues of research and discovery.
-
-“This project has the most potential for new, useful tools for the community,” said jury member John Michael Boling. “The extensibility of Are.na to function more effectively for use cases not originally intended is one of its greatest potential strengths. This process being led – at least in part – by Are.na’s user base in a hands-on way is not only really cool, but is a perfect example of the agency that the platform allows its community to harness with their information.” 
-
-[Sam Hart](http://hxrts.com) is a scientist, publisher, and artist living in New York. As a bioinformatician at the Sloan Kettering Institute, Sam works across cancer genomics and cellular engineering. He is Founder and Editor-in-Chief of [Avant.org](http://avant.org), a distributed project space for research and practice, and curator of the online technical catalog, [Research Tactics](http://researchtactics.com).
-
 ### API Category: **Berkeley Residency Website Project by Lydia Glenn-Murray**
 
 ![](https://d2w9rnfcy7mm78.cloudfront.net/1410372/large_9e8195471cc4f69995085c04eccd9ddf)
@@ -40,6 +28,18 @@ The background of the website will be a streaming video of the space, and reside
 “I like how Lydia is conceiving the lifespan of her physical residency program through Are.na’s tools that evolve over time,” said jury member Laurel Schwulst. “Using Are.na as a CMS makes the making process transparent and inclusive, which will be further reflected physically through the site’s live webcam as background.”
 
 Lydia Glenn-Murray is an artist and the founder of [Chin’s Push](http://www.chinspush.com), an experimental arts space in Los Angeles.
+
+### API Category: **Are.na Toolkit by Sam Hart**
+
+![](https://d2w9rnfcy7mm78.cloudfront.net/1410371/large_28b64bab0b8cb742ece613f243ee45b5)
+
+The Are.na Toolkit will be an open source browser extension will allow others to develop new tools for the Are.na web app. The extension will wrap a set of useful modules, including a graph query engine, UI library, and management console, which together operate as an extensible development environment for community projects that might map, search, and explore Are.na in new ways.
+
+Inspired by the Reddit Enhancement Suite, the Are.na toolkit aims to provide a focal point for community-driven tool design, opening the Are.na platform to new avenues of research and discovery.
+
+“This project has the most potential for new, useful tools for the community,” said jury member John Michael Boling. “The extensibility of Are.na to function more effectively for use cases not originally intended is one of its greatest potential strengths. This process being led – at least in part – by Are.na’s user base in a hands-on way is not only really cool, but is a perfect example of the agency that the platform allows its community to harness with their information.” 
+
+[Sam Hart](http://hxrts.com) is a scientist, publisher, and artist living in New York. As a bioinformatician at the Sloan Kettering Institute, Sam works across cancer genomics and cellular engineering. He is Founder and Editor-in-Chief of [Avant.org](http://avant.org), a distributed project space for research and practice, and curator of the online technical catalog, [Research Tactics](http://researchtactics.com).
 
 ### Individual Category: **The Oroborus in the Cul-de-sac by Alex Turgeon**
 
