@@ -4,9 +4,9 @@ date: 2017-11-09 00:00:00 Z
 categories:
 - Hello World
 tags:
-- draft
+- featured
 layout: post
-image: https://i.pinimg.com/originals/82/1e/f0/821ef00a4ab796c17346deadaf0da36f.jpg
+image: https://d2w9rnfcy7mm78.cloudfront.net/1410371/large_28b64bab0b8cb742ece613f243ee45b5
 ---
 
 We are pleased to announce four recipients in the inaugural Are.na Grants program, a new initiative to support research, writing, and other creative projects being developed and built on Are.na. We selected one winner for the individual and group categories and selected two winners for the API category. Each winner will receive $500 towards the development of their proposal.
