@@ -50,7 +50,7 @@ _A Collection of Channels is a series highlighting channels we’re paying atten
   <h5>Spatial Body</h5>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1426078/large_b71f266101fb50ce4792236c36777745.jpg">
   <figcaption>
-    <a href="https://www.are.na/ultimape/not-the-bees">View this channel on Are.na</a>
+    <a href="https://www.are.na/austin-wade-smith/spatial-body">View this channel on Are.na</a>
   </figcaption>
 </figure>
 
