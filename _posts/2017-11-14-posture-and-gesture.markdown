@@ -4,9 +4,10 @@ date: 2017-11-14 00:00:00 Z
 categories:
 - A Collection of Channels
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1426082/large_6dd42ecb2452958570885991f7d207dc.jpg
+author: "Will Freudenheim"
 ---
 
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na. This entry focuses on movement, gesture, and the body—from experiments with motion to instances of artistic gesture in competitive sport._
