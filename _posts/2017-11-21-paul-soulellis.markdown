@@ -76,7 +76,7 @@ I was just at the Boston Art Book Fair, where I saw several zine-makers and smal
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/paul-soulellis/experimental-publishing-1471894596/embed"></iframe>
 
-**What is your experience of experimental publishing, and is it an evolving one?**
+**What is your definition of experimental publishing, and is it an evolving one?**
 
 It’s one that continues to evolve with the course. But I think the idea of publishing as an artistic practice is also changing all the time. There are some basics about experimental publishing; the definition that I love is from Annette Gilbert’s [_Publishing as Artistic Practice_](http://www.sternberg-press.com/?pageId=1640). It’s about curation and amplification—making a selection and choosing to amplify it, as the foundational concept of publishing. Making something public. Maybe this is true for all of publishing, but in experimental publishing I like to think about stretching what it means to distribute something, what it means to make something public.
 
