@@ -50,7 +50,7 @@ I started thinking that way when I was working in NEW INC, but it was really whe
  
 When I was applying for my position at RISD, that’s exactly how I described it. I had four things on a screen and I said this is Counterpractice: it is my own writing and research, my independent projects, it’s client work, and it’s teaching. I would say that the client-based part has dropped away or decreased in importance. I was a little nervous about that when I realized that it was happening, but—going back to the idea of open space—I feel like I now have time to devote to the other three areas. For 20 years my priorities were really different. They weren’t about inventing who I am as an artist or a designer, they were about getting more clients, doing more, making more, tallying up the marks to being successful.
 
-<iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/paul-soulellis/syllabi-1471896481 /embed"></iframe>
+<iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/paul-soulellis/syllabi-1471896481/embed"></iframe>
 
 **I liked reading that the idea for _Printed Web_ was influenced by the Xerox Book. Can you talk about the origins of that project?**
 
