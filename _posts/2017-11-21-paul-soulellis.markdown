@@ -1,16 +1,16 @@
 ---
-title: Paul Soulellis
+title: Paul Soulellis of Library of the Printed Web
 date: 2017-11-21 12:00:00 Z
 categories:
 - Focus
 tags:
-- draft
+- feature
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/684721/original_329d1cba91b3c34592daa697c032830a.png
 author: "Meg Miller"
 ---
 
-[Paul Soulellis](http://soulellis.com) is probably best known for his [Library of the Printed Web](http://printedweb.org), an expanding archive of web-to-print artists’ publications. The first _Printed Web_ publication came together in the summer of 2013 while Soulellis was at an artists’ residency in Iceland. At the time he had decided to take a break from his self-run branding and design firm to make more time for independent projects, and founded his current studio [Counterpractice](http://www.counterpractice.com), shortly thereafter. Counterpractice encompasses Library of the Printed Web, as well as Soulellis’ writing and research, and his experimental publishing studio at RISD, where he is a professor of graphic design. We spoke over Skype a couple of weeks ago, right before he caught a train from Providence to New York, about distribution and access, the various forms and containers for content, and MoMA Library’s recent acquisition of Library of the Printed Web.
+[Paul Soulellis](http://soulellis.com) is a designer, artist, and educator who is probably best known for his [Library of the Printed Web](http://printedweb.org), an expanding archive of web-to-print artists’ publications. The first _Printed Web_ publication came together in the summer of 2013 while Soulellis was at an artists’ residency in Iceland. At the time he had decided to take a break from his self-run branding and design firm to make more time for independent projects, and founded his current studio [Counterpractice](http://www.counterpractice.com), shortly thereafter. Counterpractice encompasses Library of the Printed Web, as well as Soulellis’ writing and research, and his experimental publishing studio at RISD, where he is a professor of graphic design. We spoke over Skype a couple of weeks ago, right before he caught a train from Providence to New York, about distribution and access, the various forms and containers for content, and MoMA Library’s recent acquisition of Library of the Printed Web.
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/paul-soulellis/printed-web/embed"></iframe>
 
@@ -76,7 +76,7 @@ I was just at the Boston Art Book Fair, where I saw several zine-makers and smal
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/paul-soulellis/experimental-publishing-1471894596/embed"></iframe>
 
-**What is your experience of experimental publishing, and is it an evolving one?**
+**What is your definition of experimental publishing, and is it an evolving one?**
 
 It’s one that continues to evolve with the course. But I think the idea of publishing as an artistic practice is also changing all the time. There are some basics about experimental publishing; the definition that I love is from Annette Gilbert’s [_Publishing as Artistic Practice_](http://www.sternberg-press.com/?pageId=1640). It’s about curation and amplification—making a selection and choosing to amplify it, as the foundational concept of publishing. Making something public. Maybe this is true for all of publishing, but in experimental publishing I like to think about stretching what it means to distribute something, what it means to make something public.
 
