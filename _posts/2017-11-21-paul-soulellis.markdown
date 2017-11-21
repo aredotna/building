@@ -1,5 +1,5 @@
 ---
-title: Paul Soulellis, Artist 
+title: Paul Soulellis
 date: 2017-11-21 12:00:00 Z
 categories:
 - Focus
@@ -74,7 +74,7 @@ The fourth and fifth issues were more simple, but it’s always on my mind: who 
 
 I was just at the Boston Art Book Fair, where I saw several zine-makers and small presses with a sliding scale. That’s the first time that I had seen that. I thought that was a really good idea. Feels right.
 
-<iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/paul-soulellis/experimental-publishing-1471894596 /embed"></iframe>
+<iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/paul-soulellis/experimental-publishing-1471894596/embed"></iframe>
 
 **What is your experience of experimental publishing, and is it an evolving one?**
 
