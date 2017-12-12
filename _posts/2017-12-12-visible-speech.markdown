@@ -1,10 +1,10 @@
 ---
 title: Visible Speech
-date: 2017-12-11 12:00:00 Z
+date: 2017-12-12 12:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/362477/original_9a2eb867ebd42ed7fdc6d5599477d899.jpg
 author: "Meg Miller"
