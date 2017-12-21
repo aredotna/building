@@ -4,12 +4,12 @@ date: 2017-12-21 00:00:00 Z
 categories:
 - Hello World
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/184688/large_8cf2a5696dbf593b1ce49895e77cb558.jpg
 ---
 
-![](https://d2w9rnfcy7mm78.cloudfront.net/184688/large_8cf2a5696dbf593b1ce49895e77cb558.jpg)
+[![](https://d2w9rnfcy7mm78.cloudfront.net/184688/large_8cf2a5696dbf593b1ce49895e77cb558.jpg)](https://www.are.na/block/184688)
 
 **In 2018, let’s build the Internet we all want.**
 
@@ -17,23 +17,23 @@ We are living in precarious times. We heard it over and over this year, there’
 
 And just as the new political reality has focused attention on so many other issues, it has also started a wider conversation on the state of digital technology and the social web. We now understand how dangerous it is that we live in a public sphere underwritten by digital advertising, and we can see that digital platforms are using our own behavior to isolate us, addict us, and misinform us in disturbing ways. 
 
-The stakes for the future of the web are high. Algorithmic filter bubbles have eroded the value of facts and crippled our ability to share a national conversation. Without net neutrality, we no longer have guaranteed access to a free and open internet. The value of media is now so low that a healthy, independent press is disappearing entirely in several places.
+The stakes for the future of the web are high. Algorithmic filter bubbles have eroded the value of facts and crippled our ability to share a national conversation. Without net neutrality, we no longer have guaranteed access to a free and open internet.
 
-But this doesn’t have to be the world we all live in. These problems are the downsides of a bargain we have all implicitly struck so that we can continue to share photos, store our files, invite friends to events, get restaurant recommendations, and so on.  We may be “building a dystopia just to get people to click on ads,” as sociologist and New York Times columnist Zeynep Tufekci [puts it](https://www.youtube.com/watch?v=iFTWM7HV2UI), but we also have the power to build something entirely different.
+But this doesn’t have to be the world we all inhabit. These problems are the downsides of a bargain we've had to accept in order to keep sharing photos, storing our files, inviting friends to events, getting restaurant recommendations, and so on. We may be “building a dystopia just to get people to click on ads,” as sociologist and New York Times columnist Zeynep Tufekci [puts it](https://www.youtube.com/watch?v=iFTWM7HV2UI), but we also have the power to build something entirely different.
 
-Despite of the situation we all find ourselves in, we at Are.na still feel optimistic about the future.
+Despite the situation we all find ourselves in, we at Are.na still feel optimistic about the future.
 
 We’re hopeful because we see all kinds of people gaining a sense of their own agency to change the status quo. Instead of taking information and community for granted, more and more people are choosing to support the publications and platforms they want to be a part of. We already have all the tools and information we need to build a more participatory internet — now more and more of us are are chipping in to do so. 
 
-Are.na is proud to be just one small part of this shift. We’re lucky to have a dedicated group of about 25,000 members, many of whom are students and educators, who are creating a modest utopia of shared knowledge and interconnected ideas. But we’re also inspired by many other platforms and groups working on different pieces of the bigger puzzle: projects like [NYC Mesh](https://nycmesh.net/) and other community networks, The New Inquiry’s “[rhetorical software](https://brown.columbia.edu/dark-inquiry-launches-bail-bloc-project/),” the self-directed groups of [Learning Gardens](http://learning-gardens.co/), the [Dat Project](https://datproject.org/) and [many](https://urbit.org/), [many](http://newcomputers.group/) more.
+Are.na is proud to be just one small part of this shift. We’re lucky to have a dedicated group of about 25,000 members, many of whom are students and educators, who are creating a modest utopia of shared knowledge and interconnected ideas. But we’re also inspired by many other platforms and groups working on different pieces of the bigger puzzle: projects like [NYC Mesh](https://nycmesh.net/) and other community networks, The New Inquiry’s “[rhetorical software](https://brown.columbia.edu/dark-inquiry-launches-bail-bloc-project/),” the self-directed groups of [Learning Gardens](http://learning-gardens.co/), the [Dat Project](https://datproject.org/) and [many](http://newcomputers.group/), [many](http://sfpc.io) more.
 
-![](https://d2w9rnfcy7mm78.cloudfront.net/1220075/large_aaf021b18ddd5b7c9f4b71374229a232.png)
+[![](https://d2w9rnfcy7mm78.cloudfront.net/1220075/large_aaf021b18ddd5b7c9f4b71374229a232.png)](https://www.are.na/block/1220075)
 
-The broader point is that culture is moving in a direction where we are all collectively deciding that we want a more positive, human experience out of the Internet and out of life. Within the limits of our time and attention, we have access to an incomprehensible amount of knowledge. Our digital tools and communities should help us navigate that diversity of thought in ways that foster our curiosity and allow us to learn from one another over the course of our lives. This isn’t just about the individual effects that one feels by enacting a more inquisitive and proactive practice of information gathering online. It’s about the long-term cumulative effects of shifting culture into a space where learning is paramount.
+The broader point is that culture is moving in a direction where we are all collectively deciding that we want a more positive, human experience out of the Internet and out of life. Within the limits of our time and attention, we have access to an incomprehensible amount of knowledge. Our digital tools and communities should help us navigate that diversity of thought in ways that foster our curiosity and allow us to learn from one another over the course of our lives. This isn’t just about the individual effects that one feels by enacting a more inquisitive and proactive practice of information gathering online. It’s about the long-term, cumulative effects of shifting culture into a space where learning is paramount.
 
-So let’s agree make a different kind of internet. At Are.na, that means creating a social space where we don’t rely on ads, our members are never the product, and transparency is a given. But we’re also rooting for any other project that delivers on the original promise of the web by sharing knowledge freely.
+So let’s agree to make a different kind of internet. At Are.na, that means creating a social space where we don’t rely on ads, our members are never the product, and transparency is a given. But we’re also rooting for any other project that delivers on the original promise of the web by sharing knowledge freely.
 
-Here's to 2018. Let's all take advantage of the agency we’ve had all along to make things better.
+Here's to 2018. Let's use the agency we have to build the Internet that better serves us all.
 
 – everyone@are.na
 
