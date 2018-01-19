@@ -28,7 +28,7 @@ The Cybernetics Library is intended to function as a central node in a cyberneti
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1617082/large_1e0c1b363346915312583a120a9ec1b3">
   <figcaption>
-    The Cybernetics Library during the conference (Photo by Chris Chavez)
+    <em>The Cybernetics Library during the conference (Photo by Chris Chavez)</em>
   </figcaption>
 </figure>
 
@@ -106,6 +106,6 @@ Throughout the curation and production process several texts recurred as key poi
 
 ---
 
-_Recordings from the conference can be found on the [Cybernetics Conference website](http://cybernetics.social/stream/). And the Library catalog at is available at: (http://www.librarything.com/catalog/CyberneticsCon)[http://www.librarything.com/catalog/CyberneticsCon]_
+_Recordings from the conference can be found on the [Cybernetics Conference website](http://cybernetics.social/stream/). And the Library catalog at is available at: [http://www.librarything.com/catalog/CyberneticsCon](http://www.librarything.com/catalog/CyberneticsCon)_
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/sam-hart/cybernetics-superchannel/embed"></iframe>
