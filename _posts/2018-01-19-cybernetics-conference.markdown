@@ -4,7 +4,7 @@ date: 2018-01-19 12:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1617078/original_749f4fa4f89b86be7f3b3c1e1745e0b2
 ---
@@ -19,7 +19,7 @@ The majority of the collection was provided by David Isaac Hecht, along with con
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/sam-hart/cybernetics-conference-documentation/embed"></iframe>
 
-The library remains installed at Prime Produce, and available to visitors by appointment. Using QR codes, library visitors can ‘check in’ books to a digital simulation built by [Francis Tseng](https://www.are.na/francis-tseng) and [Dan Taeyoung](https://www.are.na/dan-taeyoung). _CyberSym_ connects the Cybernetics Library to a virtual world represented by interacting planetary bodies. When a participant checks-in a library book, a selection of topics  contained within that text are registered in the simulation, propagating through three “celestial” planes. The thematic features extracted from each library text allow CyberSym to build a semantic model of each participant's check-in history, a world of ideas contained within their own collection. Similar planets would then attract, producing the collective behavior of the CyberSym galaxy’s particle simulation.
+The library remains installed at Prime Produce, and available to visitors by appointment. Using QR codes, library visitors can ‘check in’ books to a digital simulation built by [Francis Tseng](https://www.are.na/francis-tseng) and [Dan Taeyoung](https://www.are.na/dan-taeyoung). _CyberSym_ connects the Cybernetics Library to a virtual world represented by interacting planetary bodies. When a participant checks-in a library book, a selection of topics  contained within that text are registered in the simulation, propagating through three “celestial” planes. The thematic features extracted from each library text allow _CyberSym_ to build a semantic model of each participant's check-in history, a world of ideas contained within their own collection. Similar planets would then attract, producing the collective behavior of the _CyberSym_ galaxy’s particle simulation.
 
 ![](https://d2w9rnfcy7mm78.cloudfront.net/1617185/original_134cf82104e23616b98f276e0c7ac33a.png)
 
@@ -42,7 +42,7 @@ Initially conceived as a zoned space addressing varying levels of care required 
 
 In an even more performative capacity, the librarians were also responsible for the flow of books out from the library and into the space of the conference itself, with books placed on shelves behind speakers, and a rotating cast of curated selections being distributed between a pair of tables behind the audience. These books became a mobile branch of the main library, and encouraged more engagement (and check-ins) with works connected to each talk. Some of the works were selected by the speakers themselves, producing another potential feedback loop as those books were checked in to the simulation, reconfiguring the conference-goers and potentially the speakers as well.
 
-Throughout the curation and production process several texts recurred as key points of reference, shaping how the conference came together. Members of the cybernetics conference team were asked to share their thoughts on some of these titles.
+Throughout the curation and production process several texts recurred as key points of reference, shaping how the conference came together. Members of the Cybernetics Conference team were asked to share their thoughts on some of these titles.
 
 —[Sarah Hamerman](https://www.are.na/sarah-hamerman) and [David Isaac Hecht](https://www.are.na/david-hecht/channels), Cybernetics Librarians
 
@@ -68,7 +68,7 @@ Throughout the curation and production process several texts recurred as key poi
   <h5><a href="https://tenderbooks.co.uk/products/the-artist-as-instigator-stephen-willats">The Artist as an Instigator of Changes in Social Cognition and Behaviour</a></h5>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1617224/large_3c90552f10da34f163b2ad0047a9b830.jpg">
   <figcaption>
-    <a href="https://tenderbooks.co.uk/products/the-artist-as-instigator-stephen-willats"><em>The Artist as Instigator</em></a> is a reissue of a 1973 text by British artist Stephen Willats, whose work uses cybernetics as a modeling tool to refigure the relationship between art, audiences, and the broader social environment. The book highlights several of Willats’ key projects and writings from the era, including statements on art and cybernetics from his magazine, Control, and the West London Social Resource Project, which invited Londoners from four distinct communities to respond to their social environment through a series of surveys, booklets, and resource boards displaying their responses. Willats’ thinking around networks and self-organizing systems is both rigorous and generous, and feels as relevant to today’s problems as it does to its original context. —Sarah Hamerman
+    <a href="https://tenderbooks.co.uk/products/the-artist-as-instigator-stephen-willats"><em>The Artist as Instigator</em></a> is a reissue of a 1973 text by British artist Stephen Willats, whose work uses cybernetics as a modeling tool to refigure the relationship between art, audiences, and the broader social environment. The book highlights several of Willats’ key projects and writings from the era, including statements on art and cybernetics from his magazine, _Control_, and the West London Social Resource Project, which invited Londoners from four distinct communities to respond to their social environment through a series of surveys, booklets, and resource boards displaying their responses. Willats’ thinking around networks and self-organizing systems is both rigorous and generous, and feels as relevant to today’s problems as it does to its original context. —Sarah Hamerman
   </figcaption>
 </figure>
 
