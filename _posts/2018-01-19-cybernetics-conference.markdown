@@ -4,7 +4,7 @@ date: 2018-01-19 12:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1617078/original_749f4fa4f89b86be7f3b3c1e1745e0b2
 ---
