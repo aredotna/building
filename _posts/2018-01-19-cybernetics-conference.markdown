@@ -11,7 +11,7 @@ image: https://d2w9rnfcy7mm78.cloudfront.net/1617078/original_749f4fa4f89b86be7f
 
 ![](https://d2w9rnfcy7mm78.cloudfront.net/1617078/large_749f4fa4f89b86be7f3b3c1e1745e0b2)
 
-The [Cybernetics Conference](https://cybernetics.social), held November 15th-18th at [Prime Produce](http://primeproduce.coop) in NYC, brought together scholars, artists, and activists to examine the way information systems shape social organization and agency. It included a browsing library of over 600 titles in conjunction with the conference program, including donations from [Reanimation Library](http://www.reanimationlibrary.org), [Wendy’s Subway](http://wendyssubway.com), [Monoskop](https://monoskop.org/Monoskop), and [Res](http://beingres.org).
+The [Cybernetics Conference](https://cybernetics.social), held November 15th-18th at [Prime Produce](http://primeproduce.coop) in NYC, brought together scholars, artists, and activists to examine the way information systems shape social organization and agency. It featured a browsing library of over 600 titles in conjunction with the conference program, including donations from [Reanimation Library](http://www.reanimationlibrary.org), [Wendy’s Subway](http://wendyssubway.com), [Monoskop](https://monoskop.org/Monoskop), and [Res](http://beingres.org).
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/monoskop-org/cybernetics-conference-2017-library/embed"></iframe>
 
