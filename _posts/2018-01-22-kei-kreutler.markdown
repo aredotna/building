@@ -1,5 +1,5 @@
 ---
-title: Kei Kreutler, Co-Creator of Patternist
+title: Kei Kreutler, designer and developer
 date: 2018-01-22 12:00:00 Z
 categories:
 - Case Study
