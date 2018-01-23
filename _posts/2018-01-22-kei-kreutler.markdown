@@ -4,7 +4,7 @@ date: 2018-01-22 12:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/870307/original_2a0bce5bed31624a54e0e1b1993d26c5
 author: "Will Freudenheim"
