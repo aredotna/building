@@ -63,7 +63,7 @@ Channels dedicated to the bleeding edge of the here and now are inescapable on A
 
 <figure>
   <h5>After Earth</h5>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/1299071/large_d5eb5b73f6d661d94b827cb96d284851.png ">
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/1299071/large_d5eb5b73f6d661d94b827cb96d284851.png">
   <figcaption>
     <p>In ”<a href="https://www.are.na/edouard-u/after-earth">After Earth</a>,” Édouard U. explores the utopian aspirations of today: efforts at deep space exploration, extraplanetary colonization, and moon mining among them. </p>
     <a href="https://www.are.na/edouard-u/after-earth">View this channel on Are.na</a>
