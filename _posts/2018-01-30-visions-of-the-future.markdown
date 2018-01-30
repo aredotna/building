@@ -80,5 +80,8 @@ Channels dedicated to the bleeding edge of the here and now are inescapable on A
 </figure>
  
 ---
+_Have suggestions? Connect your own channels to the Visions of the Future megachannel._
 
-<iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/graham-johnson/visions-of-the-future-megachannel/embed"></iframe>
+<iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/consortia-systems/visions-of-the-future-megachannel-1517329475/embed"></iframe>
+
+
