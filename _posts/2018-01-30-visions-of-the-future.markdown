@@ -29,7 +29,7 @@ Channels dedicated to the bleeding edge of the here and now are inescapable on A
   <h5>Future Interface</h5>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/309157/large_d6abd73ae832c3d92f549a766f609530.jpg">
   <figcaption>
-    <p>In “<a href="https://www.are.na/gemma-copeland/future-interface">Future Interface</a>,” Gemma Copeland documents the ways that film directors, set designers, game makers, and photographers have imagined the interface of tomorrow—Minority Report's gloved screen manipulations; the hibernation beds of Prometheus —pairing them alongside real concept videos from the present day.</p>
+    <p>In “<a href="https://www.are.na/gemma-copeland/future-interface">Future Interface</a>,” Gemma Copeland documents the ways that film directors, set designers, game makers, and photographers have imagined the interface of tomorrow—<i>Minority Report</i>'s gloved screen manipulations; the hibernation beds of <i>Prometheus</i> —pairing them alongside real concept videos from the present day.</p>
     <a href="https://www.are.na/gemma-copeland/future-interface">View this channel on Are.na</a>
   </figcaption>
 </figure>
