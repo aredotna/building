@@ -4,7 +4,7 @@ date: 2018-01-30 00:00:00 Z
 categories:
 - A Collection of Channels
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1557256/large_ddb7208a9161cae402ac87d9e772c46d
 author: "Graham Johnson"
