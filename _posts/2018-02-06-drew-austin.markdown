@@ -6,7 +6,7 @@ categories:
 tags:
 - draft
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/1557256/large_ddb7208a9161cae402ac87d9e772c46d
+image: https://d2w9rnfcy7mm78.cloudfront.net/1635647/large_0a0c130981e8f58dbd014b644bae00a2.jpg
 author: "Graham Johnson"
 ---
 
@@ -66,5 +66,5 @@ As I alluded to before, the nature of online information (not just ads) is that 
 
 I’ll recommend two of my favorite essays from the past year, which both relate to the discussion above in different ways. First, I loved [this Ian Bogost](https://www.theatlantic.com/technology/archive/2017/09/you-are-already-living-inside-a-computer/539193/) piece about the Internet of Things and how we connect stuff to computers and the Internet, not because it makes them work better, but because we simply like computers and want them more involved in everything. The downside to this is pretty obvious, as Bogost suggests. Second, [this James Bridle](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2) post about algorithmic videos for children on YouTube, while possibly a bit overwrought, seemed like a pivotal moment in the ongoing discussion of what the advertising-dominated platform web might become. There’s a darker undercurrent to some of these developments that we’re all probably aware of but can ignore because everything’s worked pretty well so far. The interest in documenting evidence of that dark side was a productive outcome of 2017 and this essay exemplified that trend.
 
-<iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/graham-johnson/state-of-the-internet-drew-austin/embed"></iframe>
+<iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/consortia-systems/state-of-the-internet-drew-austin-1517935028/embed"></iframe>
 
