@@ -4,7 +4,7 @@ date: 2018-02-06 00:00:00 Z
 categories:
 - State of the Internet
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1635647/large_0a0c130981e8f58dbd014b644bae00a2.jpg
 author: "Graham Johnson"
@@ -14,7 +14,7 @@ _In “[To 2018](https://www.are.na/blog/hello%20world/2017/12/21/to-2018.html),
 
 This week, we spoke over email with Drew Austin, on sabbatical after a long tenure as an engineer at Uber. Drew runs [_Kneeling Bus_](https://kneelingbus.net), a blog about the intersection of urban planning, architecture, and online infrastructures, and completed a [writing residency](https://www.ribbonfarm.com/blogging-residencies/completed-residencies/) at _Ribbonfarm_ in 2013. Our conversation touched on everything from social engineering and High Modernism to archival practices and the failed dream of a free and cosmopolitan Internet.
 
-**In the discourse surrounding filter bubbles, there’s a tension where, on one hand, as you note in your piece “[Scaling Bias](https://kneelingbus.net/2016/05/12/scaling-bias/),” platforms like Facebook are merely showing users what they want to see. That might be what members of opposing filter bubbles call “fake news,” but no one is exempt; everyone self-selects platforms which confirm their existing suspicions. What do you do with this tension? To what extent are tech companies to blame, and to what extent are we our own villains?**
+**In the discourse surrounding filter bubbles, there’s a tension where, on one hand, as you note in your piece “[Scaling Bias](https://kneelingbus.net/2016/05/12/scaling-bias/),” platforms like Facebook are merely showing users what they want to see. People in opposing filter bubbles may call that content fake news, but no one is exempt; everyone self-selects platforms that confirm their existing suspicions. What do you do with this tension? To what extent are tech companies to blame, and to what extent are we our own villains?**
 
 It’s tempting to interpret the present technological moment as a complete break from the past, but what we’re calling “filter bubbles” and “fake news” are just newer versions of phenomena that have always existed. The 2016 election and the postmortem that followed sparked a fascinating discussion about this. The surprise, I think, is not that people have found information sources that confirm their biases—again, nothing new—but that the Internet, this supposedly cosmopolitan space that was supposed to free us from the ignorance that older media like print and television reinforced, might be equally vulnerable to those distortions, and is actually more so due to the efficiency with which audiences can be targeted with specific messages.
 
