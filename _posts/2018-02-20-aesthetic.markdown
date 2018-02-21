@@ -6,7 +6,7 @@ categories:
 tags:
 - featured
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/719447/large_27db19bd60117329f7d2a71e62b608fc.jpg
+image: https://d2w9rnfcy7mm78.cloudfront.net/1682697/large_2251cf0dcc95384d54e2cf4ecd47e3c5
 author: "Graham Johnson"
 ---
 
