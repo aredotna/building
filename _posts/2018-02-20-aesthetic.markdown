@@ -14,7 +14,7 @@ author: "Graham Johnson"
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na._
 
 
-The identification and assemblage of different aesthetics underpins a wide array of contemporary cultural practices, from moodboarding to starter packs, from art practices to gallery curation, from wardrobe choices to playlist-making. To the theorist Peli Grietzer, the development of an aesthetic or "vibe" is foundational to the process of artmaking in its entirety. Elements of the real world which share some loose, hard-to-define kinship are identified, pulled together in a work, so that in their condensation they take on an alien alterity.
+The identification and assemblage of different aesthetics underpins a wide array of contemporary cultural practices, from moodboarding to starter packs, from visual art to gallery curation, from wardrobe choices to playlist-making. To the theorist Peli Grietzer, the development of an aesthetic or "vibe" is foundational to the process of artmaking in its entirety. Elements of the real world which share some loose, hard-to-define kinship are identified, pulled together in a work, so that in their condensation they take on an alien alterity.
 
 
 The following channels are ones that seem to have set out with the primary intent of building, identifying, or communicating an aesthetic. 
