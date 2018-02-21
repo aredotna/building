@@ -47,7 +47,7 @@ The following channels are ones that seem to have set out with the primary inten
   <h5>Neon Plants and Lava Lamps</h5>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1682697/large_2251cf0dcc95384d54e2cf4ecd47e3c5">
   <figcaption>
-    <p>From <a href="https://twitter.com/arena_dispatch">Are.na Dispatch</a>”I yearn for a nonexistent place where lava lamps hide among lush plant life, all lit by the soft glow of neon signs. The thought of someday being there puts my mind at ease. This chan is a gesture towards that place.” The rules for the aesthetic are clear—neon lighting, palm fronds—and yet they evoke so much more through their visual associations.</p>
+    <p>From <a href="https://twitter.com/arena_dispatch">Are.na Dispatch</a>: ”I yearn for a nonexistent place where lava lamps hide among lush plant life, all lit by the soft glow of neon signs. The thought of someday being there puts my mind at ease. This chan is a gesture towards that place.” The rules for the aesthetic are clear—neon lighting, palm fronds—and yet they evoke so much more through their visual associations.</p>
     <a href="https://www.are.na/steve-k/neon-plants-and-lava-lamps">View this channel on Are.na</a>
   </figcaption>
 </figure>
