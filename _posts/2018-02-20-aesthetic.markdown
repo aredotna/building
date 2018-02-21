@@ -4,7 +4,7 @@ date: 2018-02-20 00:00:00 Z
 categories:
 - A Collection of Channels
 tags:
-- draft
+- published
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/719447/large_27db19bd60117329f7d2a71e62b608fc.jpg
 author: "Graham Johnson"
@@ -14,7 +14,7 @@ author: "Graham Johnson"
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na._
 
 
-The identification and assemblage of different aesthetics underpins a wide array of contemporary cultural practices, from moodboarding to starter packs, from art practices to gallery curation, from wardrobe choices to playlist-making. To the theorist Peli Grietzer, the development of an aesthetic or "vibe" is foundational to the process of artmaking in its entirety. Elements of the real world which share some loose, hard-to-define kinship are identified, pulled together in a work, so that in their condensation they take on an alien alterity.
+The identification and assemblage of different aesthetics underpins a wide array of contemporary cultural practices, from moodboarding to starter packs, from visual art to gallery curation, from wardrobe choices to playlist-making. To the theorist Peli Grietzer, the development of an aesthetic or "vibe" is foundational to the process of artmaking in its entirety. Elements of the real world which share some loose, hard-to-define kinship are identified, pulled together in a work, so that in their condensation they take on an alien alterity.
 
 
 The following channels are ones that seem to have set out with the primary intent of building, identifying, or communicating an aesthetic. 
@@ -47,7 +47,7 @@ The following channels are ones that seem to have set out with the primary inten
   <h5>Neon Plants and Lava Lamps</h5>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1682697/large_2251cf0dcc95384d54e2cf4ecd47e3c5">
   <figcaption>
-    <p>From <a href="https://twitter.com/arena_dispatch">Are.na Dispatch</a>”I yearn for a nonexistent place where lava lamps hide among lush plant life, all lit by the soft glow of neon signs. The thought of someday being there puts my mind at ease. This chan is a gesture towards that place.” The rules for the aesthetic are clear—neon lighting, palm fronds—and yet they evoke so much more through their visual associations.</p>
+    <p>From <a href="https://twitter.com/arena_dispatch">Are.na Dispatch</a>: ”I yearn for a nonexistent place where lava lamps hide among lush plant life, all lit by the soft glow of neon signs. The thought of someday being there puts my mind at ease. This chan is a gesture towards that place.” The rules for the aesthetic are clear—neon lighting, palm fronds—and yet they evoke so much more through their visual associations.</p>
     <a href="https://www.are.na/steve-k/neon-plants-and-lava-lamps">View this channel on Are.na</a>
   </figcaption>
 </figure>
