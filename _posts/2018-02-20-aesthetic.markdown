@@ -1,8 +1,8 @@
 ---
-title: Collection of Channels: The Aesthetic
+title: The Aesthetic
 date: 2018-02-20 00:00:00 Z
 categories:
-- Collection of Channels
+- A Collection of Channels
 tags:
 - draft
 layout: post
