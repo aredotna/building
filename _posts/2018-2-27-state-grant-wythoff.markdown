@@ -77,10 +77,15 @@ Finally, there's [PersonalData.io](https://personaldata.io/), a group that proce
 There are many media theorists writing about contemporary technological issues in ways that often play with the affordances of long-form, print scholarship. I'd recommend:
 
 Wendy Chun, _Updating to Remain the Same: Habitual New Media_ (2015)
+
 Dominic Pettman, _Infinite Distraction_ (2015)
+
 Benjamin Bratton, _The Stack: On Software and Sovereignty_ (2016)
+
 Adam Greenfield, _Radical Technologies: The Design of Everyday Life_ (2017)
+
 Virginia Eubanks, _Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor_ (2018)
+
 Jean Baudrillard, _The Ecstasy of Communication_ (1987/2012)
 
 <iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/consortia-systems/state-of-the-internet-grant-wythoff-1519682470/embed"></iframe>
