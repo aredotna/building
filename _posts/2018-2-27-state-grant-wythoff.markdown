@@ -1,6 +1,6 @@
 ---
 title: Grant Wythoff
-date: 2018-03-06 00:00:00 Z
+date: 2018-02-27 00:00:00 Z
 categories:
 - State of the Internet
 tags:
@@ -27,7 +27,7 @@ Here, I think we can rely on the work of bibliographical scholars and book histo
 <figure>
   <img src="https://www.the-tls.co.uk/s3/tls-prod/uploads/2016/10/Babbages_Analytical_Engine_1834-1871._9660574685.jpg">
   <figcaption>
-    The [Analytical Engine](https://www.youtube.com/watch?v=-qx7tYWZP70), an early concept for a general-purpose computer designed by Charles Babbage in collaboration with Ada Lovelace, 1833-1871.
+    <i>The <a href="https://www.youtube.com/watch?v=-qx7tYWZP70">Analytical Engine</a>, an early concept for a general-purpose computer designed by Charles Babbage in collaboration with Ada Lovelace, 1833-1871.</i>
   </figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ Another way in which this acceleration is playing out is the number of tools tha
 <figure>
   <img src="http://chinawaterrisk.org/wp-content/uploads/2016/07/Rare-Earth-Applications.jpg">
   <figcaption>
-    A table depicting some of the many rare earth elements, typically mined in developing countries, which are needed to produce computer chips and general electronics.
+    <i>A table depicting some of the many rare earth elements, typically mined in developing countries, which are needed to produce computer chips and general electronics.</i>
   </figcaption>
 </figure>
 
