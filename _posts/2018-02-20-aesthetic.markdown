@@ -51,7 +51,7 @@ The following channels are ones that seem to have set out with the primary inten
     <a href="https://www.are.na/steve-k/neon-plants-and-lava-lamps">View this channel on Are.na</a>
   </figcaption>
 </figure>
-
+    
 
 <figure>
   <h5>Vaporwave</h5>
@@ -61,4 +61,3 @@ The following channels are ones that seem to have set out with the primary inten
     <a href="https://www.are.na/james-hicks/vaporwave">View this channel on Are.na</a>
   </figcaption>
 </figure>
-    
