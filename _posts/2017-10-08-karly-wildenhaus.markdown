@@ -45,7 +45,7 @@ Considering the ways in which Are.na operates within a community of artists and 
 
 So to expand on Sam’s question and its inverse: What could a [reference interview](https://en.wikipedia.org/wiki/Reference_interview) that uses Are.na look like? What would happen if books in an [OPAC](https://en.wikipedia.org/wiki/Online_public_access_catalog) were nodes that could be linked by users? And what if the discovery tools we design actually encouraged research that is social, elusive, and nonlinear?
 
-<iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/christopher-barley/if-arena-was-a-place/embed"></iframe>
+<iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/christopher-barley/if-are-na-was-a-place/embed"></iframe>
 
 ---
 
