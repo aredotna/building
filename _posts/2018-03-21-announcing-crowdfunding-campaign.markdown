@@ -1,5 +1,5 @@
 ---
-title: We are letting anyone invest in Are.na. Here's why.
+title: We are now letting anyone invest in Are.na. Here's why.
 date: 2018-03-21 00:00:00 Z
 tags:
 - draft
