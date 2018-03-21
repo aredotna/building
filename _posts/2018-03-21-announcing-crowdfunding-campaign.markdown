@@ -11,9 +11,9 @@ image: https://d2w9rnfcy7mm78.cloudfront.net/1925375/large_73c90cb8e5a0aa30d81ef
 
 ![](https://d2w9rnfcy7mm78.cloudfront.net/1925376/large_159001d35a173242242344e1b8072393.png)
 
-_Are.na is launching an equity crowdfunding campaign on Republic, where anyone can invest as little as $100 in return for a financial stake in the company._
+**Are.na is launching an equity crowdfunding campaign on Republic, where anyone can invest as little as $100 in return for a financial stake in the company.**
 
-_Visit [republic.co/arena](republic.co/arena) to invest. Help spread the word by sharing the campaign page with your network._
+**Visit [republic.co/arena](https://republic.co/arena) to invest. Help spread the word by sharing the campaign page with your network.**
 
 In December, we wrote that 2018 would be a time to take stock of our online communities and start to build a better internet.
 
