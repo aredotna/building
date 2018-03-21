@@ -4,7 +4,7 @@ date: 2018-03-21 00:00:00 Z
 categories:
 - Hello World
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1925375/large_73c90cb8e5a0aa30d81ef46b181f1903.png
 ---
