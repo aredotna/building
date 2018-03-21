@@ -1,8 +1,6 @@
 ---
-title: We're letting anyone invest in Are.na. Here's why.
+title: We are now letting anyone invest in Are.na. Here's why.
 date: 2018-03-21 00:00:00 Z
-categories:
-- Hello World
 tags:
 - draft
 layout: post
@@ -19,7 +17,7 @@ In December, we wrote that 2018 would be a time to take stock of our online comm
 
 Since then, a mainstream conversation has taken shape around the costs that social networks exact on our well-being and our society. And beyond that debate, many distinct voices are pointing out the ways in which the web is broken, demanding a new focus on ethics in technology, and asking difficult questions about what should come next.
 
-Are.na has gained incredible momentum as we’ve focused on building a different kind of online community in 2018. Our membership has grown by 60% in the new year. Almost half a million connections have been made. And with the support of our Premium members, we’re on track to cover expenses this year and make Are.na sustainable over the long term.
+Are.na has gained incredible momentum in 2018 as we’ve focused on building a better online community. Our membership has grown by 60% in the new year. Almost half a million connections have been made. And with the support of our Premium members, we’re on track to cover expenses this year and make Are.na sustainable over the long term.
 
 So why are we raising investment? And why are we _crowdfunding_ it? 
 
@@ -36,6 +34,8 @@ We’re also fundraising through Republic because we believe our members should 
 Are.na is changing what an online community can be, and we want you to be a part of the process. We hope you’ll join us as investors.
 
 — the Are.na team
+
+---
 
 **A few FAQs**
 
