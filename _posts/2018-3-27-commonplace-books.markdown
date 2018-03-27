@@ -22,65 +22,65 @@ On the web, this kind of logging has expanded to images, video, audio, and full-
 ---
 
 <figure>
-    <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/david-xlvrs/excerpts-random/embed"></iframe>
-<figcaption>
+  <figcaption>
     <p>David XLVRS's "Excerpts" includes quotes from the theory of Baudrillard and Guattari, the science fiction of Samuel Delany, and interviews with Japanese fashion designer Rei Kawakubo.</p>
   </figcaption>
+  <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/david-xlvrs/excerpts-random/embed"></iframe>
 </figure>
 
 ---
 
 <figure>
-    <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/elisha-cohen/words-quotes-poems-advice/embed"></iframe>
-<figcaption>
+  <figcaption>
     <p>In "words quotes poems advice" Elisha Cohen features startup advice from Patrick Meckenzie, scanned pages from Sendak's <i>Open House for Butterflies,</i> and wisdom from Barry Gillespie.</p>
   </figcaption>
+  <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/elisha-cohen/words-quotes-poems-advice/embed"></iframe>
 </figure>
 
 ---
 
 <figure>
-    <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/luke-harris/txt--8/embed"></iframe>
-<figcaption>
+  <figcaption>
     <p>In "TXT" Luke Harris collects quotes from a mix of authors and philosophers, alongside excerpts from the <i>Devil's Dictionary</i> and other pieces of found text.</p>
   </figcaption>
+  <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/luke-harris/txt--8/embed"></iframe>
 </figure>
 
 ---
 
 <figure>
-    <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/david-sherry/quotes-1514604438
-/embed"></iframe>
-<figcaption>
+  <figcaption>
     <p>David Sherry's "Quotes" range from Twitter threads to excerpts from Paul Graham essays, <i>Breaking Smart</i> newsletters, and Tom Wolfe's <i>The Electric Kool-Aid Acid Text</i>.</p>
   </figcaption>
+  <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/david-sherry/quotes-1514604438
+/embed"></iframe>
 </figure>
 
 ---
 
 <figure>
-    <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/john-michael-boling/killer-quotes/embed"></iframe>
-<figcaption>
+  <figcaption>
     <p>John Michael Boling's "Killer Quotes" mixes high and low, switching from Socrates to the dialogue of <i>Homeland</i>'s Abu Nazir.</p>
   </figcaption>
+  <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/john-michael-boling/killer-quotes/embed"></iframe>
 </figure>
 
 ---
 
 <figure>
-    <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/brandon-wilner/epigraph-library/embed"></iframe>
-<figcaption>
+  <figcaption>
     <p>Brandon Wilner's "Epigraph Library" collects "great epigraphs or those that might be," from thinkers like John Berger, Georges Bataille, and Virginia Woolf.</p>
   </figcaption>
+  <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/brandon-wilner/epigraph-library/embed"></iframe>
 </figure>
 
 ---
 
 <figure>
-    <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/csaba-osvath/sacred-economics/embed"></iframe>
-<figcaption>
+  <figcaption>
     <p>Csaba Osvath's entire profile consists of thematic commonplacing, with channels channels to specific books and subjects. In "Sacred Economics," Osvath meanders from Tolstoy to Roman History and the 2008 recession to trace a history of our relationship with property and wealth.</p>
   </figcaption>
+  <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/csaba-osvath/sacred-economics/embed"></iframe>
 </figure>
 
 ---
