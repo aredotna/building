@@ -12,7 +12,7 @@ author: "Graham Johnson"
 
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na._
 
-The commonplace book is a style of notebooking originating in the Enlightenment era, whereby aspiring writers and thinkers logged and indexed the best quotes and insights from their reading. Locke, Emerson, and Auden are among the famous practitioners of the format.
+The commonplace book is a style of notebooking with roots in the Enlightenment era, whereby aspiring writers and thinkers logged and indexed the best quotes and insights from their reading. Locke, Emerson, and Auden are among the famous practitioners of the format.
 
 Robert Darnton describes the practice in _The Case for Books_: 
   >Unlike modern readers, who follow the flow of a narrative from beginning to end, early modern Englishmen read in fits and starts and jumped from book to book. They broke texts into fragments and assembled them into new patterns by transcribing them in different sections of their notebooks. Then they reread the copies and rearranged the patterns while adding more excerpts. Reading and writing were therefore inseparable activities. They belonged to a continuous effort to make sense of things, for the world was full of signs: you could read your way through it; and by keeping an account of your readings, you made a book of your own, one stamped with your personality.
