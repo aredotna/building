@@ -28,6 +28,8 @@ On the web, this kind of logging has expanded to images, video, audio, and full-
   </figcaption>
 </figure>
 
+---
+
 <figure>
     <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/elisha-cohen/words-quotes-poems-advice/embed"></iframe>
 <figcaption>
@@ -35,12 +37,16 @@ On the web, this kind of logging has expanded to images, video, audio, and full-
   </figcaption>
 </figure>
 
+---
+
 <figure>
     <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/luke-harris/txt--8/embed"></iframe>
 <figcaption>
     <p>In "TXT" Luke Harris collects quotes from a mix of authors and philosophers, alongside excerpts from the <i>Devil's Dictionary</i> and other pieces of found text.</p>
   </figcaption>
 </figure>
+
+---
 
 <figure>
     <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/david-sherry/quotes-1514604438
@@ -50,6 +56,8 @@ On the web, this kind of logging has expanded to images, video, audio, and full-
   </figcaption>
 </figure>
 
+---
+
 <figure>
     <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/john-michael-boling/killer-quotes/embed"></iframe>
 <figcaption>
@@ -57,11 +65,24 @@ On the web, this kind of logging has expanded to images, video, audio, and full-
   </figcaption>
 </figure>
 
+---
+
 <figure>
     <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/brandon-wilner/epigraph-library/embed"></iframe>
 <figcaption>
     <p>Brandon Wilner's "Epigraph Library" collects "great epigraphs or those that might be," from thinkers like John Berger, Georges Bataille, and Virginia Woolf.</p>
   </figcaption>
 </figure>
+
+---
+
+<figure>
+    <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/csaba-osvath/sacred-economics/embed"></iframe>
+<figcaption>
+    <p>Csaba Osvath's entire profile consists of thematic commonplacing, with channels channels to specific books and subjects. In "Sacred Economics," Osvath meanders from Tolstoy to Roman History and the 2008 recession to trace a history of our relationship with property and wealth.</p>
+  </figcaption>
+</figure>
+
+---
 
 
