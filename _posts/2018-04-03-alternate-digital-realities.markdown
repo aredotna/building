@@ -1,7 +1,8 @@
 ---
 title: Alternate Digital Realities
 date: 2018-04-03 00:00:00 Z
-categories: Case Study
+categories:
+- Case Study
 tags:
 - draft
 layout: post
@@ -57,8 +58,9 @@ Now, imagine a world where our data isn’t used to manipulate or covertly track
 Something I’d like to see as a chrome extension that hasn’t been made is one that identifies dark patterns on a website and scores them accordingly. [Dark Patterns](https://darkpatterns.org/) are “tricks used in websites and apps that make you buy or sign up for things that you didn't mean to.”
 
 <figure>
-    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I can’t remember the last time I came across dark pattern UX as dark as what I just went through trying to cancel Amazon Music Unlimited. That Jedi shit they’re trying to pull with the button color is so dark I feel like I need a shower. <a href="https://t.co/3GsKkoWFLi">pic.twitter.com/3GsKkoWFLi</a></p>&mdash; Alex Rainert 🤦🏻‍♂️ (@arainert) <a href="https://twitter.com/arainert/status/976269228755111937?ref_src=twsrc%5Etfw">March 21, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
+    <blockquote class="twitter-tweet" data-lang="en">
+        <p lang="en" dir="ltr">I can’t remember the last time I came across dark pattern UX as dark as what I just went through trying to cancel Amazon Music Unlimited. That Jedi shit they’re trying to pull with the button color is so dark I feel like I need a shower. <a href="https://t.co/3GsKkoWFLi">pic.twitter.com/3GsKkoWFLi</a></p>&mdash; Alex Rainert 🤦🏻‍♂️ (@arainert) <a href="https://twitter.com/arainert/status/976269228755111937?ref_src=twsrc%5Etfw">March 21, 2018</a>
+    </blockquote>
 <figure>
 
 ### Call It By Its Name ###
@@ -140,3 +142,5 @@ Some related channels to check out:
 - The Creative Independent: [How do you use the internet mindfully?](https://www.are.na/the-creative-independent-1522276020/how-do-you-use-the-internet-mindfully)
 - Max Fowler: [Off The Grid](https://www.are.na/max-fowler/off-the-grid-1514220900)
 - Elisha Cohen: [slow technology](https://www.are.na/elisha-cohen/slow-technology)
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
