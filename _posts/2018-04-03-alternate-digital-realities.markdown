@@ -75,7 +75,7 @@ Some browser extensions imagine a world where people don’t selectively apply t
 
 
 <figure>
-    <img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4C6C29509B3767B3A80FA45F66878FF0EC2257261B1536A887B6D64BE1DE53EE_1521897574888_https_2F2Fblueprint-api-production.s3.amazonaws.com2Fuploads2Fcard2Fimage2F2943042FScreen_Shot_2016-11-22_at_5.05.07_PM.png"></img>
+    <img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4C6C29509B3767B3A80FA45F66878FF0EC2257261B1536A887B6D64BE1DE53EE_1521897574888_https_2F2Fblueprint-api-production.s3.amazonaws.com2Fuploads2Fcard2Fimage2F2943042FScreen_Shot_2016-11-22_at_5.05.07_PM.png">
 <figcaption>
     <p><i>Stop Normalizing</i></p>
   </figcaption>
@@ -84,18 +84,18 @@ Some browser extensions imagine a world where people don’t selectively apply t
 [Dexter Thomas](https://twitter.com/dexdigi), meanwhile, has created a [Chrome extension](https://medium.com/@dexdigi/i-made-a-chrome-extension-that-changes-transcended-race-to-was-deemed-safe-by-white-people-47649e79b3bd) that changes "transcended race” to “was retroactively deemed safe by white people.” For some context, [this article](https://medium.com/shaft/transcending-race-5e8111281f9e) explains the idea of transcending race and [this article](http://time.com/5099513/martin-luther-king-day-myths/) explains that, much like modern civil rights movements like Black Lives Matter, the movement in the 1960s and its proponents like Martin Luther King not only faced public disapproval, they were also seen as extremists and/or terrorists and surveilled by the government.
 
 <figure>
-    <img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4C6C29509B3767B3A80FA45F66878FF0EC2257261B1536A887B6D64BE1DE53EE_1521653019859_1_nqtnbv1kxsOiFL9lMn3Xew.png"></img>
+    <img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4C6C29509B3767B3A80FA45F66878FF0EC2257261B1536A887B6D64BE1DE53EE_1521653019859_1_nqtnbv1kxsOiFL9lMn3Xew.png">
 </figure>
 
 <figure>
-    <img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4C6C29509B3767B3A80FA45F66878FF0EC2257261B1536A887B6D64BE1DE53EE_1521652681662_1_M7S_vELpXWNhm4V50bLJiA.png"></img>
+    <img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4C6C29509B3767B3A80FA45F66878FF0EC2257261B1536A887B6D64BE1DE53EE_1521652681662_1_M7S_vELpXWNhm4V50bLJiA.png">
         <p><i>Un-Transcender</i></p>
 </figure>
 
 Lastly, [Tolulope Edionwe](http://tamenze.com/) created an extension that replaces “racially charged” with “racist.”
 
 <figure>
-    <img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4C6C29509B3767B3A80FA45F66878FF0EC2257261B1536A887B6D64BE1DE53EE_1521900331435_https_2F2Foutline-prod.imgix.png"></img>
+    <img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4C6C29509B3767B3A80FA45F66878FF0EC2257261B1536A887B6D64BE1DE53EE_1521900331435_https_2F2Foutline-prod.imgix.png">
 <figcaption>
     <p><i>You Mean Racist?</i></p>
   </figcaption>
@@ -108,7 +108,7 @@ There are a lot of issues on the internet that only [insert marginalized group] 
 In one example, [Jailbreak the Patriarchy](https://chrome.google.com/webstore/detail/jailbreak-the-patriarchy/fiidcfoaaciclafodoficaofidfencgd) by [Danielle Sucher](http://www.daniellesucher.com/) swaps the gender of every pronoun and explicitly gendered term in any piece of writing online, thus providing a space for interrogating the ways we talk about men and women. For me, it also imagines a future where language is neutral. David Strohecker and [Jenny Davis](https://www.are.na/blog/state%20of%20the%20internet/2018/03/20/jenny-davis.html), in an article they wrote for [Cyborgology](https://thesocietypages.org/cyborgology/2011/11/15/jailbreak-the-patriarchy-chrome-extension/), proposed an extension of the project based on imagining a world where [gender] categories do not exist at all. They say, “What if, in addition to ‘jailbreaking the patriarchy,’ we could ‘jailbreak’ the sex/gender binary and replace all gendered nouns with gender neutral nouns.”
 
 <figure>
-    <img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4C6C29509B3767B3A80FA45F66878FF0EC2257261B1536A887B6D64BE1DE53EE_1521656332611_18ivvmfxk4v0ypng.png"></img>
+    <img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4C6C29509B3767B3A80FA45F66878FF0EC2257261B1536A887B6D64BE1DE53EE_1521656332611_18ivvmfxk4v0ypng.png">
 <figcaption>
     <p><i>Jailbreak the Patriarchy</i></p>
   </figcaption>
@@ -121,7 +121,7 @@ At Afrotectopia I also led a think tank called “[Boycotting in the Digital Age
 Three days after United Airlines [dragged Doctor David Dao](https://www.nytimes.com/2017/04/25/business/united-airlines-david-dao-passenger.html) from a plane,  [Mo_Said](https://twitter.com/drop_united) created the extension [DropUnited](http://dropunited.com/) which completely removes United as an option when you're searching for flights on Google Search, Google Flights, Kayak, and Expedia.
 
 <figure>
-    <img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4C6C29509B3767B3A80FA45F66878FF0EC2257261B1536A887B6D64BE1DE53EE_1521654191912_https_2F2Fblueprint-api-production.s3.amazonaws.com2Fuploads2Fcard2Fimage2F4462222Fcc827ae3-4007-4430-88c3-ae8b1d0bc0d3.gif"></img>
+    <img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4C6C29509B3767B3A80FA45F66878FF0EC2257261B1536A887B6D64BE1DE53EE_1521654191912_https_2F2Fblueprint-api-production.s3.amazonaws.com2Fuploads2Fcard2Fimage2F4462222Fcc827ae3-4007-4430-88c3-ae8b1d0bc0d3.gif">
 <figcaption>
     <p><i>DropUnited</i></p>
   </figcaption>
