@@ -4,9 +4,9 @@ date: 2018-04-03 00:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/1988858/original_57e317212bd7f0c15aa799b9eb30752c.jpg
+image: https://d2w9rnfcy7mm78.cloudfront.net/1989203/original_ba0550ecb493e3c229097a921bc21a03.jpeg
 author: "Omayeli Arenyeka"
 ---
 
