@@ -2,7 +2,6 @@
 title: Alternate Digital Realities
 date: 2018-04-03 00:00:00 Z
 categories: Case Study
-- Focus
 tags:
 - draft
 layout: post
@@ -27,10 +26,10 @@ There have been a lot of valid criticisms levied against popular social media pl
 [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) by Benjamin Grosser, for example, removes all metrics from twitter.
 
 <figure>
-    <img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4C6C29509B3767B3A80FA45F66878FF0EC2257261B1536A887B6D64BE1DE53EE_1521646155935_Zweig-Escaping-Twitters-Self-Consciousness-Machine-1023x682-SECONDARY.gif"></img>
-<figcaption>
-    <p><i>Twitter Demetricator</i></p>
-  </figcaption>
+    <img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4C6C29509B3767B3A80FA45F66878FF0EC2257261B1536A887B6D64BE1DE53EE_1521646155935_Zweig-Escaping-Twitters-Self-Consciousness-Machine-1023x682-SECONDARY.gif">
+    <figcaption>
+        <p><i>Twitter Demetricator</i></p>
+    </figcaption>
 </figure>
 
 Writer David Zweig, who interviewed Grosser about the Demetricator [for The New Yorker](https://www.newyorker.com/tech/elements/escaping-twitters-self-consciousness-machine), describes a familiar sentiment when he writes, “I’ve evaluated people I don’t know on the basis of their follower counts, judged the merit of tweets according to how many likes and retweets they garnered, and felt the rush of being liked or retweeted by someone with a large following. These metrics, I know, are largely irrelevant; since when does popularity predict quality? Yet, almost against my will, they exert a pull on me.” Metrics can be a drug. They can also influence who we think deserves to be heard. By removing metrics entirely, Grosser’s extension allows us to focus on the content—to be free to write and post without worrying about what will get likes, and to decide for ourselves if someone is worth listening to.  Additionally, it allows us to push back against a system designed not to cultivate a healthy relationship with social media but to prioritize user-engagement in order to sell ads.
@@ -40,7 +39,7 @@ Now, imagine a world where our data isn’t used to manipulate or covertly track
 [AdNauseum](https://adnauseam.io/) by [Daniel C Howe](http://rednoise.org/~dhowe/), [Helen Nissenbaum](https://nissenbaum.tech.cornell.edu/) and [Mushon Zer-Aviv](http://mushon.com/) “obfuscates browsing data and protects users from tracking by advertising networks by automatically and blindly clicking on all ads.” The data collected includes anything and everything and thus, reveals nothing.
 
 <figure>
-    <img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4C6C29509B3767B3A80FA45F66878FF0EC2257261B1536A887B6D64BE1DE53EE_1521650786792_screenshots.png"></img>
+    <img src="https://d2mxuefqeaa7sj.cloudfront.net/s_4C6C29509B3767B3A80FA45F66878FF0EC2257261B1536A887B6D64BE1DE53EE_1521650786792_screenshots.png">
 <figcaption>
     <p><i>AdNauseum</i></p>
   </figcaption>
@@ -57,8 +56,10 @@ Now, imagine a world where our data isn’t used to manipulate or covertly track
 
 Something I’d like to see as a chrome extension that hasn’t been made is one that identifies dark patterns on a website and scores them accordingly. [Dark Patterns](https://darkpatterns.org/) are “tricks used in websites and apps that make you buy or sign up for things that you didn't mean to.”
 
-<iframe border=0 frameborder=0 height=250 width=550
- src="https://twitter.com/arainert/status/976269228755111937"></iframe>
+<figure>
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I can’t remember the last time I came across dark pattern UX as dark as what I just went through trying to cancel Amazon Music Unlimited. That Jedi shit they’re trying to pull with the button color is so dark I feel like I need a shower. <a href="https://t.co/3GsKkoWFLi">pic.twitter.com/3GsKkoWFLi</a></p>&mdash; Alex Rainert 🤦🏻‍♂️ (@arainert) <a href="https://twitter.com/arainert/status/976269228755111937?ref_src=twsrc%5Etfw">March 21, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<figure>
 
 ### Call It By Its Name ###
 
