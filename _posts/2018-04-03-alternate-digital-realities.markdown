@@ -6,7 +6,7 @@ categories:
 tags:
 - draft
 layout: post
-image:
+image: https://d2w9rnfcy7mm78.cloudfront.net/1988858/original_57e317212bd7f0c15aa799b9eb30752c.jpg
 author: "Omayeli Arenyeka"
 ---
 
