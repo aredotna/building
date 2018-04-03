@@ -145,3 +145,7 @@ Some related channels to check out:
 - Elisha Cohen: [slow technology](https://www.are.na/elisha-cohen/slow-technology)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+_[Omayeli](https://www.omayeli.com) is a Nigerian born artist and technologist currently studying at the School for Poetic Computation in New York. She's interested in using technology and art to examine society’s inclinations and the horror obscured in normalcy._
