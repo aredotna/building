@@ -61,12 +61,13 @@ Something I’d like to see as a chrome extension that hasn’t been made is one
     <blockquote class="twitter-tweet" data-lang="en">
         <p lang="en" dir="ltr">I can’t remember the last time I came across dark pattern UX as dark as what I just went through trying to cancel Amazon Music Unlimited. That Jedi shit they’re trying to pull with the button color is so dark I feel like I need a shower. <a href="https://t.co/3GsKkoWFLi">pic.twitter.com/3GsKkoWFLi</a></p>&mdash; Alex Rainert 🤦🏻‍♂️ (@arainert) <a href="https://twitter.com/arainert/status/976269228755111937?ref_src=twsrc%5Etfw">March 21, 2018</a>
     </blockquote>
-<figure>
+</figure>
 
 ### Call It By Its Name ###
 
-<iframe border=0 frameborder=0 height=250 width=550
- src="https://twitter.com/KhaledBeydoun/status/896557089266466818"></iframe>
+<figure>
+    <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When Family Guy is more accurate than 45. White supremacists, Nazis, and whiteness as a terror exemption. <a href="https://t.co/cm7DbZ3yS3">pic.twitter.com/cm7DbZ3yS3</a></p>&mdash; Khaled Beydoun (@KhaledBeydoun) <a href="https://twitter.com/KhaledBeydoun/status/896557089266466818?ref_src=twsrc%5Etfw">August 13, 2017</a></blockquote>
+</figure>
 
 Some browser extensions imagine a world where people don’t selectively apply terms based on race or gender but instead call things what they actually are.
 
