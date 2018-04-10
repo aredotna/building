@@ -4,7 +4,7 @@ date: 2018-04-10 00:00:00 Z
 categories:
 - A Collection of Channels
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1504797/large_ea237925064eb2dcccaf81fe0fdf1208.jpg
 author: "Shea Fitzpatrick"
