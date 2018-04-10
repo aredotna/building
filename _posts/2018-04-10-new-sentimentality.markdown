@@ -6,13 +6,13 @@ categories:
 tags:
 - draft
 layout: post
-image:
+image: https://d2w9rnfcy7mm78.cloudfront.net/1504797/large_ea237925064eb2dcccaf81fe0fdf1208.jpg
 author: "Shea Fitzpatrick"
 ---
 
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na._
 
-In a _[1964 piece in Esquire](https://www.are.na/block/2013626)_, David Newman and Robert Benton laid the grounds for what they called a New Sentimentality. In its essence, this phenomenon was an individualization of sentimentality, one that abandoned “common sense” values of patriotism, religion, Mom, The Girl, and instead became about stylish self-indulgence, cynicism, and aloof, cold perfection. “Your primary objective,” they wrote, “is to make your life fit your style.”
+In a [1964 piece in _Esquire_](https://www.are.na/block/2013626), David Newman and Robert Benton laid the grounds for what they called a New Sentimentality. In its essence, this phenomenon was an individualization of sentimentality, one that abandoned “common sense” values of patriotism, religion, Mom, The Girl, and instead became about stylish self-indulgence, cynicism, and aloof, cold perfection. “Your primary objective,” they wrote, “is to make your life fit your style.”
 
 In 2012, filmmaker Cécile B. Evans proposed a “[2nd Wave of New Sentimentality](https://www.are.na/block/819814)” as both an extension of Newman and Benton’s principles and a reckless mutation. This evolution, as Evans describes, created a world in which irony is conflated with sincerity, virtuality is the same as reality, and outpourings of emotion on the Internet allow feelings to be commodified by corporations. This collection of channels tracks the weird and wild worlds of shifting emotional landscapes: affective politics, modern loneliness and disingenuity, new modes of relationality, and digitally mediated (or uncannily performed) sentimentality.
 
