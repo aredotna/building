@@ -4,7 +4,7 @@ date: 2018-04-19 00:00:00 Z
 categories:
 - Conversation
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/2066684/original_2f79455f34c914884ce6a479734e4dc8.jpg
 author: "Meg Miller"
