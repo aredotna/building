@@ -10,6 +10,10 @@ image: https://d2w9rnfcy7mm78.cloudfront.net/2066684/original_2f79455f34c914884c
 author: "Meg Miller"
 ---
 
+![](https://d2w9rnfcy7mm78.cloudfront.net/2066684/original_2f79455f34c914884ce6a479734e4dc8.jpg)
+
+---
+
 **Meg Miller:** OK so here we are in Laurel’s kitchen.
  
 **Laurel Schwulst:** And Meg’s kitchen.
@@ -36,7 +40,7 @@ So maybe me can start by talking about what Gossip’s Web is and what you start
 
 At the time, I was starting a project space in my apartment, so Gossip’s Web was a way of doing research for [VI Dancer](http://vi-dancer.net/), to see exactly what type of website the space needed. The idea behind Gossip’s was to just list project spaces or apartment galleries that I admired.
  
-**MM:** This was in the apartment that you and Laurel shared in San Francisco?
+**MM:** This was in the apartment that you and Laurel shared?
  
 **ER:** Yeah. Laurel was living there at that time. Going back to the idea of a kitchen as a work space: the other day, I was thinking about how many websites probably started in the kitchen. They’re often communal spots, and it’s a bit nicer to work in a communal spot than in your room.
  
@@ -46,7 +50,7 @@ At the time, I was starting a project space in my apartment, so Gossip’s Web w
  
 Why did you end up calling your website Gossip’s Web?
  
-**ER:** Gossip and Web, those two words, sounded nice together. I’m also interested in Gossip as a concept, since it’s kind of perceived negatively like with Tabloids, that kind of thing. I wanted to reclaim it as a positive way of sharing things. But I also don’t like the word “share,” which a lot of web companies will use generically because it works across the board. I thought it would be interesting to use gossip instead.
+**ER:** Gossip and Web, those two words, sounded nice together. I’m also interested in gossip as a concept, since it’s kind of perceived negatively like with Tabloids, that kind of thing. I wanted to reclaim it as a positive way of sharing things. But I also don’t like the word “share,” which a lot of web companies will use generically because it works across the board. I thought it would be interesting to use gossip instead.
  
 And then with Web, I was thinking of it as a network for gossip. Like, what if you could see gossip happening in real time?
  
@@ -114,7 +118,7 @@ There was also a point where I had my friend Quintessa Matranga write for the si
 
 One of the tenets I started with was to never put a gallery on the index that has an artist roster. From working in a gallery in the past, I’ve seen how representation can really blind gallerists from what’s happening outside of their galleries. It also makes it harder for outsider artists to show in spaces. I’ve been wary of collector-run spaces or established galleries that run project spaces on the side. I’ve always felt that Gossip’s should link to outsider or marginalized gallery spaces. As Laurel pointed out, apps like See Saw or Contemporary Art Daily are already catering to well-known spaces. 
 
-At one point there was a site on Gossip’s that was just a group of collectors showing work from their own collections, a friend emailed me and asked why I decided to put it on there. The truth was that I had no idea it was even a collector group. Sometimes it’s hard to know from a distance what these things are. I guess that’s why gossiping in art communities is actually really important. You learn things that otherwise wouldn’t be apparent.
+At one point there was a site on Gossip’s that was just a group of collectors showing work from their own collections. A friend emailed me and asked why I decided to put it on there. The truth was that I had no idea it was even a collector group. Sometimes it’s hard to know from a distance what these things are. I guess that’s why gossiping in art communities is actually really important. You learn things that otherwise wouldn’t be apparent.
 
 **LS:** It’s probably obvious to say, but what’s unique about these project spaces is that they’re resisting the white cube on purpose. They embrace their wild, weird inconsistencies. The art for these spaces is a living thing, and it’s going to die like a living thing, rather than being this timeless thing in a sterile white space that no one can touch.
  
