@@ -126,7 +126,7 @@ At one point there was a site on Gossip’s that was just a group of collectors 
  
 My first website was called E-News.
 
-**LS:** Elliot News?
+**LS:** Elliott News?
 
 **ER:** Yeah. It was just a list. I actually just took the _New York Times_, view sourced it, and copy-pasted it verbatim, but I changed the NYT logo to my own logo. That was when I was 11 or 12.
 
