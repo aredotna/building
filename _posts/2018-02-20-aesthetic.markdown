@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1682697/large_2251cf0dcc95384d54e2cf4ecd47e3c5
 author: "Graham Johnson"
+description: "This week's collection rounds up channels that build around a unifying visual aesthetic or 'vibe.'"
 ---
 
 
