@@ -7,6 +7,7 @@ tags:
 - featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1258408/large_bed5873ca4b6ae6a4e7effb5d9508e50.jpg
+description: "If you’re looking for horror, the real world is scary enough."
 ---
 
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na. Our latest installment assures us that if you’re looking for horror, the real world is scary enough._
