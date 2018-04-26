@@ -8,7 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1814164/large_593c3075b44e9d801993991a2b3f1fc6.jpg
 author: "Graham Johnson"
-description: "Grant Wythoff joins us for the second installment of our digital roundtable on the state of the web."
+description: "Researcher and academic Grant Wythoff joins us for the second installment of our roundtable on the state of the web."
 ---
 
 <img src="https://d2w9rnfcy7mm78.cloudfront.net/1814164/large_593c3075b44e9d801993991a2b3f1fc6.jpg">
