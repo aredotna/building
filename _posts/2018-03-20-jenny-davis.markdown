@@ -8,6 +8,11 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1920800/large_09857f3053305931f40025c2e4ed456b
 author: "Graham Johnson"
+description: "Editor and sociologist Jenny L. Davis joins us for the third installment of our roundtable on the state of the web."
+---
+
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/1920800/large_09857f3053305931f40025c2e4ed456b">
+
 ---
 
 _In “[To 2018](https://www.are.na/blog/hello%20world/2017/12/21/to-2018.html),” our December blog post ushering in the new year, we touched on the state of the web, acknowledging issues like digital advertising and algorithmic filter bubbles while remaining optimistic about the potential for a more ethical and sustainable Internet. To continue the conversation, we’re hosting a virtual roundtable with digital humanities scholars, tech thinkers, archivists, and more, conducted through a series of interviews._
