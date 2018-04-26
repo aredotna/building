@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1557256/large_ddb7208a9161cae402ac87d9e772c46d
 author: "Graham Johnson"
+description: "This week's collection rounds up channels with distinct visions for the future."
 ---
 
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na._
