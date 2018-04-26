@@ -7,6 +7,7 @@ tags:
 - featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1617078/original_749f4fa4f89b86be7f3b3c1e1745e0b2
+description: "Recapping the Cybernetics Conference, held November 15-18 at Prime Produce, NYC."
 ---
 
 ![](https://d2w9rnfcy7mm78.cloudfront.net/1617078/large_749f4fa4f89b86be7f3b3c1e1745e0b2)
