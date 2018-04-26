@@ -8,6 +8,11 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/362642/large_cd21e96d5c59fbdb744077321bc2be72.jpg
 author: "Meg Miller"
+description: "Visible Speech is an alphabet designed by Alexander Melville Bell, one of several 19th C attempts to produce a universal language."
+---
+
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/362642/large_cd21e96d5c59fbdb744077321bc2be72.jpg">
+
 ---
 
 > “A sentence or paragraph is like a chord or harmonic sequence in music: its meaning may be more clearly understood by the attentive ear, even though it is read in silence, than by the attentive intellect.”
