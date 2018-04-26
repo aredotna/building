@@ -8,7 +8,13 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1504797/large_ea237925064eb2dcccaf81fe0fdf1208.jpg
 author: "Shea Fitzpatrick"
+description: "Tracking the weird and wild worlds of modern loneliness, affective politics, and digitally mediated sentimentality."
+
 ---
+
+<figure>
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/1504797/large_ea237925064eb2dcccaf81fe0fdf1208.jpg">
+</figure>
 
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na._
 
