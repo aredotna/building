@@ -8,6 +8,11 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/684721/original_329d1cba91b3c34592daa697c032830a.png
 author: "Meg Miller"
+description: "Designer Paul Soulellis talks archival practices, artist publications, and his current studio Counterpractice."
+---
+
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/684721/original_329d1cba91b3c34592daa697c032830a.png">
+
 ---
 
 [Paul Soulellis](http://soulellis.com) is a designer, artist, and educator who is probably best known for his [Library of the Printed Web](http://printedweb.org), an expanding archive of web-to-print artists’ publications. The first _Printed Web_ publication came together in the summer of 2013 while Soulellis was at an artists’ residency in Iceland. At the time he had decided to take a break from his self-run branding and design firm to make more time for independent projects, and founded his current studio [Counterpractice](http://www.counterpractice.com), shortly thereafter. Counterpractice encompasses Library of the Printed Web, as well as Soulellis’ writing and research, and his experimental publishing studio at RISD, where he is a professor of graphic design. We spoke over Skype a couple of weeks ago, right before he caught a train from Providence to New York, about distribution and access, the various forms and containers for content, and MoMA Library’s recent acquisition of Library of the Printed Web.
