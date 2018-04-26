@@ -12,10 +12,9 @@ description: "Tracking the weird and wild worlds of modern loneliness, affective
 
 ---
 
-<figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/1504797/large_ea237925064eb2dcccaf81fe0fdf1208.jpg">
-</figure>
+ <img src="https://d2w9rnfcy7mm78.cloudfront.net/1504797/large_ea237925064eb2dcccaf81fe0fdf1208.jpg">
 
+---
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na._
 
 In a [1964 piece in _Esquire_](https://www.are.na/block/2013626), David Newman and Robert Benton laid the grounds for what they called a New Sentimentality. In its essence, this phenomenon was an individualization of sentimentality, one that abandoned “common sense” values of patriotism, religion, Mom, The Girl, and instead became about stylish self-indulgence, cynicism, and aloof, cold perfection. “Your primary objective,” they wrote, “is to make your life fit your style.”
