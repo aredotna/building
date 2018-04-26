@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1426075/large_18c426946fc0276346beccba313c5433.jpg
 author: "Will Freudenheim"
+description: "This week's collection focuses on movement, gesture, and the body, from art practices to competitive sports."
 ---
 
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na. This entry focuses on movement, gesture, and the body—from experiments with motion to instances of artistic gesture in competitive sport._
