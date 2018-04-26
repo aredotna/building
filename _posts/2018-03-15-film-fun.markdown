@@ -8,8 +8,12 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1895079/original_743a81f581fec6889f9905b72526d5b2.png
 author: "Meg Miller"
+description: "Keaton Venture and Mike Spreter of Film Fun talk movies and pop culture."
 ---
 
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/1895079/original_743a81f581fec6889f9905b72526d5b2.png">
+
+---
 
 Keaton Ventura and Mike Spreter met in spring of 2010 in upstate New York after graduating from separate film schools, and quickly realized  they had “an almost supernaturally bonded idea of what movies were and could be.” A shared canon of teen, horror, and romantic comedy castaways from the late ‘90s and early ‘00s led them to begin [Film Fun](http://www.filmfun.co/), which was at first mainly an effort to name their shared way of talking about film, their relationship to each other and toward movies. It’s since developed into a more formalized project with a website and series of writing about film that is like no film criticism I’ve ever read. They describe it as a mix of box office reportage, trend analysis, criticism, and fan fiction, collected in the vein of Roger Ebert. In the pieces on their site, a running tally of box office numbers and near encyclopedic knowledge of blockbusters are absorbed into narratives in which the movies themselves seem to be the leading characters.
 
