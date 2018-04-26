@@ -7,6 +7,7 @@ tags:
 - featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/184688/large_8cf2a5696dbf593b1ce49895e77cb558.jpg
+description: "Let’s use the agency we have to build an Internet that better serves us all."
 ---
 
 [![](https://d2w9rnfcy7mm78.cloudfront.net/184688/large_8cf2a5696dbf593b1ce49895e77cb558.jpg)](https://www.are.na/block/184688)
