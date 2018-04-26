@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1403158/large_8743a6b13d344a5de58661e685fd2ce1.jpg
 author: "Meg Miller"
+description: "Sara Cwynar is a Canadian artist living in Brooklyn who previously worked as a designer for The New York Times Magazine."
 ---
 
 [Sara Cwynar](http://saracwynar.com/) is a Canadian artist living in Brooklyn, New York. Before she switched to photography and art-making full time, she worked as a graphic designer for _The New York Times Magazine_, an experience she credits with informing her mode of working today. Her process involves near-constant culling and paring down—of found objects and images, video footage, snippets of readings, passages of theory. Her images are often assemblages of vintage imagery and painstakingly-arranged studio shots, dense with both visual layers and cultural references. When we spoke over Skype about a month ago, Sara was in London preparing for a show at Carl Kostyál gallery that features a series of images with a friend, graphic designer Tracy Ma. At the time she was in-between meetings, midway through a new film on the commercial production of color (an extension of her recent film [Rose Gold](http://www.foxyproduction.com/exhibitions/1674/pr)), and toggling between two books: Ben Lerner’s _10:04_ and _On the New_ by Boris Groys. 
