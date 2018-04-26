@@ -8,7 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1989203/original_ba0550ecb493e3c229097a921bc21a03.jpeg
 author: "Omayeli Arenyeka"
-description:"Rounding up a list of browser extensions that present visions of a better Internet and world."
+description: "Rounding up a list of browser extensions that present visions of a better Internet and world."
 ---
 
  <img src="https://d2w9rnfcy7mm78.cloudfront.net/1989203/original_ba0550ecb493e3c229097a921bc21a03.jpeg">
