@@ -11,7 +11,8 @@ layout:
           "image": "{{ post.image }}",
           "date": "{{ post.date | date: "%B %d, %Y" }}",
           "author": "{{ post.author }}",
-          "excerpt": "{{ post.excerpt | strip_html | smartify | normalize_whitespace }}"
+          "excerpt": "{{ post.excerpt | strip_html | smartify | normalize_whitespace }}",
+          "description": "{{ post.description }}",
         } {% if forloop.last %}{% else %},{% endif %}
     {% endif %}
 {% endfor %}
