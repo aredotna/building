@@ -8,7 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1956259/large_d6ae4b1499d2896bae29a3aac7491bc6.jpg
 author: "Graham Johnson"
-description: "The commonplace book is a notebook style with roots in the Enlightenment, where writers could log the best quotes and insights from their reading."
+description: "The commonplace book is a notebook style with roots in the Enlightenment, where thinkers could log the best quotes and insights from their readings."
 
 ---
 
