@@ -8,6 +8,11 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/870307/original_2a0bce5bed31624a54e0e1b1993d26c5
 author: "Will Freudenheim"
+description: "Researcher and designer Kei Kreutler talks satellite observation, augmented reality, and her new project Patternist."
+---
+
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/870307/original_2a0bce5bed31624a54e0e1b1993d26c5">
+
 ---
 
 A researcher, designer, and developer, [Kei Kreutler](http://kei.bio) makes work that explores how narratives of technologies shape their actual use and function in the world. She is currently the creative director at Gnosis, a forecasting and information aggregation platform on the Ethereum blockchain. This spring, together with [Cosmos](https://cosmos.network), they will also be opening [Full Node](https://www.fullnode.berlin), a large co-working space for blockchain companies in Berlin—a space for development, discussion, and diversifying the ecosystem across interdisciplinary practices.
