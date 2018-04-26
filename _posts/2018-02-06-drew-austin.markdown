@@ -8,6 +8,11 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1635647/large_0a0c130981e8f58dbd014b644bae00a2.jpg
 author: "Graham Johnson"
+description: "We kick off our new roundtable on the state of the web by talking to Drew Austin, blogger at Ribbonfarm and Kneeling Bus."
+---
+
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/1635647/large_0a0c130981e8f58dbd014b644bae00a2.jpg">
+
 ---
 
 _In “[To 2018](https://www.are.na/blog/hello%20world/2017/12/21/to-2018.html),” our December blog post ushering in the new year, we touched on the state of the web, acknowledging issues like digital advertising and algorithmic filter bubbles while remaining optimistic about the potential for building a more ethical and sustainable Internet. To continue the conversation, we’re hosting a virtual “roundtable” with digital humanities scholars, tech thinkers, archivists, and more, conducted through a series of interviews._
