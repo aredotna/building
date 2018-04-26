@@ -8,8 +8,12 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1989203/original_ba0550ecb493e3c229097a921bc21a03.jpeg
 author: "Omayeli Arenyeka"
+description:"Rounding up a list of browser extensions that present visions of a better Internet and world."
 ---
 
+ <img src="https://d2w9rnfcy7mm78.cloudfront.net/1989203/original_ba0550ecb493e3c229097a921bc21a03.jpeg">
+
+---
 There’s a bumper-sticker quote often misattributed to Gandhi that goes “Be the change you wish to see in the world.” I like it well enough but find the focus on personal transformation limiting, particularly in our digital age. In light of some recent research, I’d like to amend it to say: “Make the browser extension for the change you wish to see in the world.”
 
 In January, my friend and artist [Ari Melenciano](http://www.ariciano.com/) reached out to me about leading a workshop at a conference called [Afrotectopia](https://www.afrotectopia.com/) that she was planning at NYU. The conference aimed to recognize the contributions of, and to build a community among black artists, technologists, and activists. One of the themes for the conference was developing ideas for how we can use various forms of technology to dismantle oppressive systems and rebuild more equitable ones.
