@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/2066684/original_2f79455f34c914884ce6a479734e4dc8.jpg
 author: "Meg Miller"
+description: "A conversation with Elliot Rander and Laurel Schwulst on Radner’s digital “green pages” for artist websites."
 ---
 
 
