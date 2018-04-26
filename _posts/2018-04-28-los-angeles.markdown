@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/325311/large_ba11742de3b65750cdfe59c3a526f2eb.jpg
 author: "Graham Johnson"
+description: "How to know a place as large as L.A. County, five thousand square miles and population eleven million, if not through triangulation?"
 ---
 
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na._
