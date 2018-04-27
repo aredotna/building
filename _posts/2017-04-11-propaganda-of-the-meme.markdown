@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/833777/original_f39e39b4a3975b6bc6c7cecf583f0a7a.png
 author: "Francis Tseng"
+description: "Memes are credited with an increasingly important role as political propaganda, solidifying in-group  identity and disseminating ideas in forms that are disarming in their unexpectedness or humor."
 ---
 
 Parallel to the 2016 United States election ran a conflict that mainstream media largely overlooked, until it surfaced in the [form of criticism of the Pepe meme](https://www.hillaryclinton.com/feed/donald-trump-pepe-the-frog-and-white-supremacists-an-explainer/) and its association with the increasingly brazen and visible "alt-right." However, this was only a glimpse into the "Great Meme War"—organized on Reddit and 4Chan but waged on Twitter and Facebook—which linked an ideological conflict expressed through memes to an exceptionally contentious U.S. presidential election. After Trump's victory, many participants in the "war" celebrated their success at "electing a meme."
