@@ -7,6 +7,7 @@ tags:
 - featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1224858/original_53f3463a084aa0873a0703a13260f419.jpg
+author: "Are.na Team"
 description: "This week's collection focuses on public databases, resources for self-education, and research techniques."
 ---
 
