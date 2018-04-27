@@ -7,6 +7,8 @@ tags:
 - featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1255014/original_26141620444945fbd5af04cbfb428012.png
+author: "Asher Penn"
+description: "Two nights after the September 11 attacks, Gavin Brown’s West 15th Street art-bar Passerby re-opened to the public."
 ---
 
 _The 2001 film_ Josie and the Pussycats _starts with a plane crash. Boy band Du Jour, having found subliminal messages inserted into their recordings by their label, Mega Records, confront their manager who discards the group by crashing their private jet, parachuting to safety in the suburb of Riverdale. After brainwashing the town’s youth with Du Jour’s final remix, “Slave,” the manager scouts new talent, finding it in Josie & The Pussycats, a pop-punk group with dreams of making it big. Signing the young women sound unseen, the manager flies them to New York where he elevates the group to stardom only to use them as a disposable tool for controlling the minds, tastes, and wallets of a mass teenage audience._
