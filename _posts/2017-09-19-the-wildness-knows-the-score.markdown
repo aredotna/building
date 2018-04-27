@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/390896/original_97c3b454e7e5adf970efe120c965ed91.jpg
 author: "Laurel Schwulst"
+description: "About a year and a half ago, a friend on Are.na suggested my channel Wild Animals vs. Manmade Materials would be better without the pets."
 ---
 
 About a year and a half ago, a friend on Are.na suggested my channel [Wild Animals vs. Manmade Materials](https://www.are.na/laurel-schwulst/wild-animals-vs-manmade-materials) would be better without the pets. 
