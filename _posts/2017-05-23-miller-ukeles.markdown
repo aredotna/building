@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/748861/original_bf21fcfafb6d955f21bf420f7a0e2608.jpg
 author: "Meg Miller"
+description: "The continuity of menial housework, the circuitousness of tidying up a city that will inevitably get dirty again, the everlasting quality of tasks that are done almost instinctually, begrudgingly but without comment, and repeated forever."
 ---
 
 There is an unsung correlation between the perpetuity of upkeep and society’s reliance on it. The work that never ends is the work that keeps households, communities, the whole world economy afloat. The continuity of menial housework, the circuitousness of tidying up a city that will inevitably get dirty again, the everlasting quality of tasks that are done almost instinctually, begrudgingly but without comment, and repeated forever—like Sisyphus rolling a boulder uphill, or weekly laundry—is the same stuff that fuels the human enterprise. It’s also the work that is the least valued, and the least visible.
