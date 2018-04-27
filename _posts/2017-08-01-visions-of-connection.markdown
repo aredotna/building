@@ -8,9 +8,10 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1161571/original_b7f8e985fac43915ef67f6e240b1a692.png
 author: "Will Freudenheim"
+description: "Revisiting three twentieth-century thinkers who imagined computing technologies as a way to expand and explore the interconnectedness of human knowledge."
 ---
 
-_Are.na Influences is a series in which we discuss some of the ideas that continue to provide inspiration to us while building this platform together. In this post, Will Freudenheim revisits three twentieth century thinkers who imagined computing technologies as a way to expand and explore the interconnectedness of human knowledge._
+_Are.na Influences is a series in which we discuss some of the ideas that continue to provide inspiration to us while building this platform together. In this post, Will Freudenheim revisits three twentieth-century thinkers who imagined computing technologies as a way to expand and explore the interconnectedness of human knowledge._
 
 ---
 
