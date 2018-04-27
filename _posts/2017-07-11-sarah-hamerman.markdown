@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/920069/original_2259258056e273a08df0f4df034beb35.jpeg
 author: "Sarah Hamerman"
+description: "Gossip is a historically maligned form of communication, frequently cast as idle, feminized chatter in contrast to the masculine public sphere. Might that reputation speak to its power?"
 ---
 
 Gossip is a historically maligned form of communication, frequently cast as idle, feminized chatter in contrast to the masculine public sphere. But gossip’s bad reputation speaks to its power. Through its rapid spread and the instability of its content, gossip, as public secret, calls into question established social hierarchies and ways of knowing. Perhaps the oldest form of ‘social networking,’ gossip’s ubiquity is made more apparent today by viral scandals and security breaches—though its flows are now more constrained by the networks of power it bristles against. A growing chorus of artists, scholars and writers have recognized gossip’s significance and investigated it as a positive social force—one whose work lies not in fixing truths but in performing the daily maintenance of our interpersonal relationships. 
