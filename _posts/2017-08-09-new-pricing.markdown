@@ -7,6 +7,7 @@ tags:
 - draft
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/27455/large_aed95d450fe9d6cb531bcb117ae9ab98.png
+author: "Are.na Team"
 ---
 
 After working on Are.na as a team for more than three years, we finally got the opportunity this summer to dedicate ourselves to Are.na full-time. In the coming months, we’ll be taking big steps towards improving Are.na while ensuring that it remains open to everyone. 
