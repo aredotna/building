@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1070926/original_2c4ee1425dcc4ced7901659e37dfe713.png
 author: "Allyn Hughes"
+description: "More and more, companies are capitalizing on post-election liberal guilt—using the current political climate as a means to increase monetary gains."
 ---
 
 In January, around the time of the Women’s March on Washington, my pilates studio wrote an Audre Lorde quote on the chalkboard near the door: “Caring for myself is not self-indulgence, it is self-preservation, and that is an act of political warfare.” At first it made me feel a kinship with the studio, because I like the quote and I admire Audre Lorde. But throughout the class my eyes kept wandering over to it as I tried to parse what was making me feel uneasy. I decided the quote was a ploy, a convenient way for the studio to justify a $35 exercise class. Don't get me wrong—I believe in self care, but luxury fitness is not a radical act. 
