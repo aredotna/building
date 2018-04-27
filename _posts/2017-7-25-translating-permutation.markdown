@@ -8,6 +8,11 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1149954/original_a5d4bd6dc0e464c50859974efe609b71.png
 author: "Bryce Wilner"
+description: "Permutation in the work of Samuel Beckett and Robert Grenier."
+---
+
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/1149954/original_a5d4bd6dc0e464c50859974efe609b71.png">
+
 ---
 
 A black-stroked, white-filled table sits centered on the light-gray background of a browser window. Below the table in a slightly darker gray: two bevelled, rectangular buttons bearing the words “Back” and “Next.” Upon clicking the latter, sentence fragments, letters, lists, names, nouns, and numbers populate the table. All of the text is set at a fixed point size in black Courier. Pressing the “H” key changes the button labels to two numbers that, when added together, always equal five-hundred. To refresh this page is to completely reorder the text; it’s unlikely that the reader will experience it in that configuration again.
