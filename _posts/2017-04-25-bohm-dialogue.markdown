@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/996305/original_9d97c7b878021c7e378309f98d885bf3.png
 author: "Charles Broskoski"
+description: "Introducing David Bohm’s philosophy of dialogue, a methodology for examining and refining thought in a group setting."
 ---
 
 _Are.na Influences is a series in which we discuss some of the ideas that continue to provide inspiration to us while building this platform together. In this post I'm going to introduce David Bohm's philosophy of dialogue, a methodology for examining and refining thought in a group setting._
