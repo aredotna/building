@@ -7,6 +7,7 @@ tags:
 - featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1925375/large_73c90cb8e5a0aa30d81ef46b181f1903.png
+author: "Are.na Team"
 ---
 
 ![](https://d2w9rnfcy7mm78.cloudfront.net/1925376/large_159001d35a173242242344e1b8072393.png)
