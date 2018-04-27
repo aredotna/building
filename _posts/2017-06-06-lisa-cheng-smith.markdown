@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1055692/original_ad23778aa2a208753fc9dbd9e23213a4.jpg
 author: "Meg Miller"
+description: "Lisa Smith of Areaware makes the case for thoughtful product design."
 ---
 
 If you haven’t heard of [Areaware](http://www.areaware.com/), it’s still very possible you’ve come across their work—the design objects they produce are found everywhere from museum stores and local boutiques to the pages of the _New York Times_. Each of their seasonal catalogs is full of original works from small studios and independent designers, many of whom are being introduced to a larger audience for the first time. [Lisa Cheng Smith](https://www.are.na/lisa-cheng-smith), Areaware’s chief design officer, describes the company as the “connective glue between manufacturers, retailers, designers, and the public.” 
