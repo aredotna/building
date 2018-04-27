@@ -7,6 +7,8 @@ tags:
 - featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/61119/original_14c8faebbf0dd1b346fbac14853e50e5.png
+author: "Will Freudenheim"
+description: "This week's collection of channels highlights the mediating aesthetics of Google apps from Street View to Image Search."
 ---
 
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na._
