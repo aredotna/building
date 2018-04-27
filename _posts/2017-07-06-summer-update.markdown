@@ -7,6 +7,8 @@ tags:
 - featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/534567/large_7368e79e167603cc561e5770800233df.jpg
+author: "Charles Broskoski"
+description: "We're making a space on the Internet where we can think clearly and collaborate openly with others on shared interests."
 ---
 These days, it’s commonplace to hear complaints about what the Internet is doing to our brains. Without naming names, "I hate _insert social media platform here_" is a phrase that I hear on a regular basis. I'm sure you experience more or less the same thing. As to why we find ourselves in this situation, it isn’t complicated. If a social media platform's business model is built on advertising, it's in the company's best interest to make its platform as addictive as possible. The easiest way to make a content platform addictive is to encourage content that confirms people's pre-existing beliefs or plays on their insecurities and susceptibility to FOMO.
 
