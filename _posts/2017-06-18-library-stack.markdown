@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/38274/large_253ea48440c9aeaef8609060564b82d0.jpg
 author: "Meg Miller"
+description: "Founders Wysocan and Tiven talk through how Library Stack is creating a space for alternative publishing."
 ---
 
 [Erik Wysocan](http://erikwysocan.com/) and [Benjamin Tiven](http://www.benjamintiven.com/) are both artists and publishers in their own right. When they met at the start of 2015, they immediately began formulating an idea for a platform that supports the kinds of digital art publications they both participate in. That idea has since become [Library Stack](http://www.librarystack.org/), an archive for digital objects of all stripes: PDFs, video, online magazines, Soundcloud files. In the fall, they begin working with the Yale University Library to connect it to their growing collection, with more relationships with institutional libraries to come.
