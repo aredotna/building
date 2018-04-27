@@ -7,6 +7,8 @@ tags:
 - featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/430119/original_7070a069c33eab7bfdcd5a6867234090.jpg
+author: "Are.na Team"
+description: "This collection focuses on channels related to the place at which independent and often unrelated systems meet and act on or communicate with each other.
 ---
 
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na. Interface focuses on channels related to the place at which independent and often unrelated systems meet and act on or communicate with each other._
