@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1308671/large_41f65c0ef7b89309a5e3c22efccec3d2.png
 author: "Meg Miller"
+description: "Rachel Rosenfelt is a co-publisher of The New Inquiry, the creative director for Verso Books, and a 2017-2018 member of NEW INC."
 ---
 
 Rachel Rosenfelt is a co-publisher of [_The New Inquiry_](https://thenewinquiry.com), the creative director for Verso Books, associate director of the department of Creative Publishing and Critical Journalism at The New School, and a 2017-2018 member of NEW INC. She founded _The New Inquiry_ in 2009, along with friends Mary Borkowski and Jennifer Bernstein, and grew it into the thoughtful, critical, often provocative publication it’s now known as. Many of the most interesting and influential writers working today have appeared on the magazine’s masthead early on in their careers. Rachel credits the economic recession for her own politicization, and many of the perennial themes and the oppositional attitude of the magazine seem to be tied inextricably to its formative years, pre- and post- Occupy Wall Street. In a year when topics like anti-fascism and anti-racism are headlining basically all major publications, _The New Inquiry_’s near decade of critical essays and reportage in that vein feel as important as ever.
