@@ -8,6 +8,11 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1251076/large_3c49b0a8baedd3b186e0f74f04439995.jpg
 author: "Shea Fitzpatrick"
+description: "Experimental comics are works that acknowledge the traditional framework of comics but, rather than adhere to it, tend to tilt, twist, and warp it into other things."
+---
+
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/1251076/large_3c49b0a8baedd3b186e0f74f04439995.jpg">
+
 ---
 
 > “Minimal, maximal, without characters, made of sensations, or of emptiness, mute, aesthetic, close to abstraction. You will discover toxic undergrowth, extinguished suburbs, melancholic sci-fi stories, fake magazine covers, modern love relationships, and visions of the near future.”<br>
