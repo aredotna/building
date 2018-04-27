@@ -7,6 +7,7 @@ tags:
 - featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1410371/large_28b64bab0b8cb742ece613f243ee45b5
+author: "Are.na Team"
 description: "We're pleased to announce the recipients of our inaugural Are.na Grants program, a new initiative to support research, writing, and creative projects developed on Are.na."
 ---
 
