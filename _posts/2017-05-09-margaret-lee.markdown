@@ -8,6 +8,11 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1016881/original_24770f24f426ef319c6b06bf42f68813.jpg
 author: "Meg Miller"
+description: "Artist Margaret Lee talks the origins and mission statement of the group Art Against Displacement."
+---
+
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/1016881/original_24770f24f426ef319c6b06bf42f68813.jpg">
+
 ---
 
 In almost every interview that exists online with [Margaret Lee](http://www.margaret-lee.com/), the one thing that undoubtedly gets brought up is the number of different jobs she holds. A widely exhibited artist in her own right, with past shows at the Bronx Museum of the Arts and MoMA PS1, among many others, Margaret also works part-time managing production for Cindy Sherman. Since 2011, she and her husband Oliver Newton have run the gallery [47 Canal](http://47canal.us/main.php?1=&2=), where they’ve launched the careers of artists and friends like [Anicka Yi](http://47canal.us/main.php?1=ay&2=pics) and [Josh Kline](http://47canal.us/main.php?1=jk&2=pics). Now at 291 Grand Street, a couple of blocks away from its namesake beginnings, the gallery is located on the upper margins of New York City’s Community District 1 in Lower Manhattan.
