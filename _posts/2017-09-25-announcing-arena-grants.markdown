@@ -7,6 +7,11 @@ tags:
 - featured
 layout: post
 image: https://i.pinimg.com/originals/82/1e/f0/821ef00a4ab796c17346deadaf0da36f.jpg
+description: "We're pleased to announce the Are.na Grants program, a new initiative to support research, writing, and creative projects developed on Are.na."
+---
+
+<img src="https://i.pinimg.com/originals/82/1e/f0/821ef00a4ab796c17346deadaf0da36f.jpg">
+
 ---
 
 Strictly speaking, Are.na is a framework for drawing connections between pieces of information. Thanks to the people that use and support us, it has become a richly layered and complex space for meaning-making, collaboration, and organizing thought.
