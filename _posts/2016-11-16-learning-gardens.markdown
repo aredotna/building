@@ -7,6 +7,8 @@ tags:
 - featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/770989/original_f4194a178c9f5e2a8bbd09c085e13a27.jpg
+author: "Lukas WP & Édouard U"
+description: "In the Summer of 2013, a few close friends and work colleagues in Austin got together one weekend and decided to start a tiny art school called Sunday School."
 ---
 
 ![Learning Gardens][body]
