@@ -7,6 +7,8 @@ tags:
 - featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/771203/original_6655b53130c865c4fa7a9120bc4b5e92.jpg
+author: "Are.na Team"
+description: "In the 60’s and 70’s, many people had utopian ideas about what personal networked computers could do for culture and education. Not all of them turned out."
 ---
 
 In the 60’s and 70’s, many people had utopian ideas about what personal networked computers could do for culture and education. Ted Nelson, a lead technologist and philosopher of the era wrote, “Knowledge, understanding and freedom can all be advanced by the promotion and deployment of computer display consoles (with the right programs behind them)”. Regarding the “right programs”, Nelson wrote “Our goal should be nothing less than REPRESENTING THE TRUE CONTENT AND STRUCTURE OF HUMAN THOUGHT. But it should be thought of as something more: enabling the mind to weigh, pursue, synthesize and evaluate ideas for a better tomorrow.”
