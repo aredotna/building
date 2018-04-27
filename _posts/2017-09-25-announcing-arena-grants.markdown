@@ -7,6 +7,7 @@ tags:
 - featured
 layout: post
 image: https://i.pinimg.com/originals/82/1e/f0/821ef00a4ab796c17346deadaf0da36f.jpg
+author: "Are.na Team"
 description: "We're pleased to announce the Are.na Grants program, a new initiative to support research, writing, and creative projects developed on Are.na."
 ---
 
