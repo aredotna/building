@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/880188/original_a623babdfb840f560a1fd805ad762cda.jpg
 author: "Meg Miller"
+description: "Taeyoon Choi talks the School for Poetic Computation, diversity in tech, and what it means for a practice to be poetic."
 ---
 
 I only became acquainted with [Taeyoon Choi](https://www.are.na/taeyoon-choi-1490621974) a few months ago, but after I heard his name once I began seeing it everywhere. In 2013, Choi co-founded the [School for Poetic Computation (SFPC)](http://sfpc.io/) with a group of three other artists and teachers. At the time of its launch, SFPC got a [fair amount of attention](http://sfpc.io/press/) for its unusual model for teaching code, physical computing and theory outside of an institutional context—and with a focus on artistic practice and open-ended experimentation. (The school’s motto puts its ethos succinctly: ‘more poetry, less demo.’) In the four years since it opened, the school has earned a quiet yet well-regarded reputation as a place for learning about code from several different perspectives, alongside a community of like-minded individuals. Classes range from Poetics and Politics of Computation to Radical Computer Science, and past instructors include MoMA’s Paola Antonelli, artist and programmer Sam Lavigne and bot-poet Allison Parrish, among [many, many others](http://sfpc.io/people/). 
