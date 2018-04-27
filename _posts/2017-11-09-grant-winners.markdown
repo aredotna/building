@@ -7,6 +7,11 @@ tags:
 - featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1410371/large_28b64bab0b8cb742ece613f243ee45b5
+description: "We're pleased to announce the recipients of our inaugural Are.na Grants program, a new initiative to support research, writing, and creative projects developed on Are.na."
+---
+
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/1410371/large_28b64bab0b8cb742ece613f243ee45b5">
+
 ---
 
 We are pleased to announce four recipients in the inaugural Are.na Grants program, a new initiative to support research, writing, and other creative projects being developed and built on Are.na. We selected one winner for the individual and group categories and selected two winners for the API category. Each winner will receive $500 towards the development of their proposal.
