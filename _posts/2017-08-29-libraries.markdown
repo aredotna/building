@@ -7,6 +7,7 @@ tags:
 - featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1224858/original_53f3463a084aa0873a0703a13260f419.jpg
+description: "This week's collection focuses on public databases, resources for self-education, and research techniques."
 ---
 
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na. Are.na Libraries focus on channels that act as resources for self-education, collecting readings, public databases and researching techniques._
