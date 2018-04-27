@@ -7,6 +7,8 @@ tags:
 - featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/778835/original_35956496d20d2fbfacc487392a9bed2f.jpg
+author: "Are.na Team"
+description: "This post is the first in a series highlighting channels we’re paying attention to on Are.na. A Whole New World focuses on channels related to geography, spatial studies and mapping."
 ---
 
 _This post is the first in a series highlighting channels we’re paying attention to on Are.na. A Whole New World focuses on channels related to geography, spatial studies and mapping._
