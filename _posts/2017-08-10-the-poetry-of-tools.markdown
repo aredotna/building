@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1178922/large_72152a37a84c05cffa136ed5fa86718d.jpg
 author: "Mindy Seu"
+description: "Tools shape the way we behave. We point, swipe, skim, type, click, send. How can we reconsider the actions we perform in our daily interfaces?"
 ---
 
 > “Digital poems are not necessarily ‘poems’ written by ‘poets;’ they are found in ads, conceptual art, interactive displays, performative projects, games, or apps. Poetic tools include algorithms, browsers, social media, and data... Digital poetry will be perceived as living, because it is living.”<br>
