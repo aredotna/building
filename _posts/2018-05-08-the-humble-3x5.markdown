@@ -1,0 +1,50 @@
+---
+title: The Humble 3x5
+date: 2018-05-08 00:00:00 Z
+categories:
+- Are.na Influences
+tags:
+- draft
+layout: post
+image: https://d2w9rnfcy7mm78.cloudfront.net/2150710/original_173f40f198bf80e258b270e8378c0f2f.png
+author: "Graham Johnson"
+description: "Graham Johnson revisits the 3x5 card, which played a crucial role in documenting, linking, and indexing information throughout the 20th century.
+---
+
+_Are.na Influences is a series in which we discuss some of the ideas that continue to provide inspiration while building this platform together. In this post, Graham Johnson revisits the 3x5 card, which played a crucial role in documenting, linking, and indexing information throughout the 20th century.""_
+
+<figure>
+    <img src="https://d2w9rnfcy7mm78.cloudfront.net/2150713/original_528d90134208ab748c27f36fb3fd40fa.png"></img>
+</figure>
+
+“Every act of information consumption is as much about gaining knowledge as it is preparing for the loss of memory. This preparation implies rituals of storing and organizing information for later use, which for much of human history was done by writing in notebooks, cataloging in library indexes, or developing elaborate mnemonic devices,” Will Freudenheim wrote in a previous Are.na Influences post, “[Visions of Connection](https://www.are.na/blog/are.na%20influences/2017/08/01/visions-of-connection.html).” Commonplace books, journals originating in the Enlightenment era within which thinkers logged quotes and passages from books, are [one example](https://www.are.na/blog/a%20collection%20of%20channels/2018/03/27/commonplace-books.html) of an attempt to preserve encountered knowledge, to ward off the eventual entropy of memory and time. Index cards began to replace the commonplace book—which had been championed by writers like Emerson and Auden—in the early 1900s, and would become one of the primary materials of knowledge work throughout the 20th century. They underpinned library card catalogues, personal notekeeping systems, and the creative practices of authors from Jules Verne to Raymond Carver and Michael Crichton.
+
+Of all the writers and thinkers who incorporated index cards into their creative processes, Nabokov’s use is the most famous. Entire novels, including _Lolita_ and _Pale Fire_, were composed using decks of 3x5s, where each card featured a few lines or paragraphs and corresponded to a location in the work-in-progress.
+
+Nabokov’s writing system was less hypertextual and more linear, like filling out a Mad Libs or a crossword puzzle: “The pattern of the thing precedes the thing. I fill in the gaps… at any spot I happen to choose.” While the order of cards could and would, on occasion, be shuffled or rearranged, they were chosen as a medium largely because of their portability and discrete subdivision of units.
+
+While the conceptual metaphor of hypertext was unknown to most of the non-computing public until the ’80s and ’90s, many of the systems that used these index cards approached a sort of proto-hypertextuality. Often they had elaborate, baroque structures for inter-card referencing, or for searching and finding tagged materials.
+
+<figure>
+    <img src="https://d2w9rnfcy7mm78.cloudfront.net/2150709/original_6670786229986b7d4ff022455e646256.jpg"></img>
+</figure>
+
+German sociologist Niklas Luhmann, renowned for his work in systems theory,  designed a _Zettelkästen_ system in the 1950s and ’60s for organizing information on index cards (technically, Luhmann used hand-cut, standard lined paper instead of the thicker cardstock, so as to take up less space in the catalogue boxes). [MK at _Taking Note_](http://takingnotenow.blogspot.com/2007/12/luhmanns-zettelkasten.html), citing Luhmann’s 1981 paper “Kommunikation mit Zettelkästen: Ein Erfahrungsbericht,” writes that after decades of Luhmann filling out his information network, it became almost an “independent partner in [Luhmann’s] research,” which could surprise him with serendipitous discoveries and “communicate” with him as an alter-ego or “second mind.”
+
+Each card in the _Zettelkästen_ system was numbered hierarchically (e.g. _1.1.A, 1.1.B, 1.2.A_) so that information could live in branching threads rather than in linear or containered arrangements. A card detailing a certain sociological theory might link out to a set of cards with case studies of a specific culture; these would in turn link out to more information on either the culture, the case studies, or other related phenomena, and so forth.  Specific keyword “access points” could be pursued down branching threads in order to find the desired information, like following a Choose-Your-Own-Adventure pulp while keeping a specific destination in mind (think playing the [Wikipedia Game](https://en.wikipedia.org/wiki/Wikipedia:Wiki_Game) as a productivity tool).
+
+Luhmann had no assistants, and yet still managed to be one of the more prolific sociologists of the time. Books would emerge as if fully formed from the catalogues, spanning subject matters and meandering through examples and ideas.
+
+<figure>
+    <img src="https://d2w9rnfcy7mm78.cloudfront.net/2150711/original_c5cbd10a6986d2bc1633584a999286c0.jpg"></img>
+</figure>
+
+Then there is the traditional card catalogue, long essential to library systems and eulogized by Nicholson Baker in his essay for _The New Yorker_, “[Discards](https://www.are.na/block/2124920).” Collections for large libraries—Harvard and Columbia Universities, the NYPL, the Library of Congress—once housed millions of index cards, often with handwritten annotations and scratched-out decimal amendments.
+
+Catalogues began with papyrus scrolls and moved in the 18th century to decks of playing cards after the French Imprimerie Nationale ordered state inventorists to index the country’s libraries. Throughout the 1900s, new systems of indexing emerged until inertia settled around the Dewey Decimal and Library of Congress Classification systems. Eventually, of course, the technology they helped give birth to would end up making them obsolete—starting in 1969 with the Library of Congress, most major library systems phased out their physical catalogues in the latter half of the 20th century, opting instead for digital databases, with organizations like the O.C.L.C. (Online Computer Library Center).
+
+<figure>
+    <img src="https://d2w9rnfcy7mm78.cloudfront.net/2150712/original_4461ef54cb74522749586bd47d1fa862.png"></img>
+</figure>
+
+While the physicality of the index card may longer be necessary, card cataloguing and filing systems were arguably one of the most important conceptual innovations of modernity, having informed the development of operating systems and hypertext. The ways of thinking about recording, organizing, and accessing knowledge that the cards engendered can be seen in digital analogues from computer folder tree structures to Are.na’s blocks and channels. What is crucial, as Karly Wildenhaus notes in “[Towards a Library Without Walls](https://www.are.na/blog/case%20study/2017/10/10/karly-wildenhaus.html),” is the combination of links and nodes that systems like Luhmann’s and Dewey’s have given us—an associative map of all our knowledge, partitioned into manageable chunks while remaining connected to the vast sea of stored information.
