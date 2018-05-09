@@ -8,7 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/2150710/original_173f40f198bf80e258b270e8378c0f2f.png
 author: "Graham Johnson"
-description: "Graham Johnson revisits the 3x5 card, which played a crucial role in documenting, linking, and indexing information throughout the 20th century.
+description: "Graham Johnson revisits the 3x5 card, which played a crucial role in documenting, linking, and indexing information throughout the 20th century."
 ---
 
 _Are.na Influences is a series in which we discuss some of the ideas that continue to provide inspiration while building this platform together. In this post, Graham Johnson revisits the 3x5 card, which played a crucial role in documenting, linking, and indexing information throughout the 20th century.""_
