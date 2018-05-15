@@ -1,6 +1,6 @@
 ---
-title: Claire L. Evans, author of Broad Band
-date: 2018-05-14 00:00:00 Z
+title: Claire L. Evans, writer and musician
+date: 2018-05-15 00:00:00 Z
 categories:
 - Focus
 tags:
@@ -13,10 +13,10 @@ description: "Journalist and musician Claire L. Evans shares the stories of unsu
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/961795/large_2f4f340cba07289de7dca486e9766416.png" />
-  <figcaption>Computer scientist and hypertext reseracher Wendy Hall.</figcaption>
+  <figcaption><small>Computer scientist and hypertext reseracher Wendy Hall.</small></figcaption>
 </figure>
 
-“This is not to say that men make and women use—far from it—only that the technological history we’re usually told is one about men and machines, ignoring women and the signals they compose,” Claire L. Evans writes in the introduction to her new book, _Broad Band: The Untold Story of the Women Who Made the Internet_. The book offers another version of that history, one that doesn’t ignore the women in the room, and instead finds the rooms were packed with them: alongside known names like Ada Lovelace, Grace Hopper, and Jaime Levy, there were the ENIAC Six, the women who programmed and operated one of the first computers; the women of Resource One, who developed one of the earliest efforts to apply computing to social good; Jake Feinler, who kept the earliest version of the Internet online; and Stacy Horn, who ran one of the first ever social networks out of her apartment in the ’80s. As Claire tells it, _Broad Band_ also tells the human side to our history of machines. It gives equal importance to the lived experience of its characters as it does the technology they helped invent, operate, program, and proliferate—and connects them all through sharp writing and a truly compelling narrative (the story of the development of ARPANET as told through the discovery of the world’s longest cave—the “Mt. Everest of speleology”—cartographic data, and heartbreak, is a personal favorite).
+“This is not to say that men make and women use—far from it—only that the technological history we’re usually told is one about men and machines, ignoring women and the signals they compose,” Claire L. Evans writes in the introduction to her new book, _Broad Band: The Untold Story of the Women Who Made the Internet_. The book offers another version of that history, one that doesn’t ignore the women in the room, and instead finds the rooms were packed with them: alongside known names like Ada Lovelace, Grace Hopper, and Jaime Levy, there were the ENIAC Six, the women who programmed and operated one of the first computers; the women of Resource One, who developed one of the earliest efforts to apply computing to social good; Jake Feinler, who kept the earliest version of the Internet online; and Stacy Horn, who ran one of the first ever social networks out of her apartment in the ’80s. As Claire tells it, [_Broad Band_](https://www.indiebound.org/book/9780735211759) also tells the human side to our history of machines. It gives equal importance to the lived experience of its characters as it does the technology they helped invent, operate, program, and proliferate—and connects them all through sharp writing and a truly compelling narrative (the story of the development of ARPANET as told through the discovery of the world’s longest cave—the “Mt. Everest of speleology”—cartographic data, and heartbreak, is a personal favorite).
 
 Claire has been writing on the Internet since her teenage LiveJournal, and more recently as a contributor to _VICE_, _The Guardian_, _Motherboard_, _WIRED_, _National Geographic_, and _Aeon_. She’s also the lead singer of the pop group YACHT. I spoke with her recently over the phone about how “female mental labor was the original information technology,” why women are often early adopters, and hypertext as narrative form (though not necessarily the best research methodology for this book).
 
@@ -36,25 +36,25 @@ Most of the 1970s. I’m not kidding.
 
 **Well if nothing else, your index card method was thematic.**
 
-When I was interviewing Cathy Marshall, who was a hypertext researcher at Xerox PARC, we were talking about why hypertext as a narrative form never took off. There was a period where computer people and literary people were fascinated by the possibilities of hypertext as a narrative form, but it never really went anywhere besides some CD-ROM games and a few outlier literary works that were interesting and broke through to the mainstream. Cathy said, “Well, no one really wrote a potboiler, no one really wrote a romance novel.” No one tried to do something with mass appeal, and that might be why it never took off in a real way. Except with the Web itself, of course.
+When I was interviewing [Cathy Marshall](https://en.wikipedia.org/wiki/Cathy_Marshall_(hypertext_developer)), who was a hypertext researcher at Xerox PARC, we were talking about why hypertext as a narrative form never took off. There was a period where computer people and literary people were fascinated by the possibilities of hypertext as a narrative form, but it never really went anywhere besides some CD-ROM games and a few outlier literary works that were interesting and broke through to the mainstream. Cathy said, “Well, no one really wrote a potboiler, no one really wrote a romance novel.” No one tried to do something with mass appeal, and that might be why it never took off in a real way. Except with the Web itself, of course.
 
 **Something else that Cathy said that did make it into the book was that line about it not being lost—even if you’re writing in a certain mode, and you scrap the entire thing and start over, the first version still informs the final version in some way.**
 
 Yeah, I’m glad I did it the way I did. It probably wasn’t the most efficient method, but it works for me in my mind. It helped me make associations that I wouldn’t have made otherwise.
 
-<iframe class="arena-iframe" width="400" height="500" src="Embed: https://www.are.na/claire-l-evans/women-in-hypertext/embed"></iframe>
+<iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/claire-l-evans/women-in-hypertext/embed"></iframe>
 
 **How long did writing the book take you?**
 
-About 2 years and change. I wrote it in blocks. I was also touring and making music at the same time. Somewhere on my computer I have a photo series—which I should make an Are.na channel out of, actually—of all the places where I tried to write my book. Weird janky backstage rooms and coat closets and hotel rooms and seats in the back of the van and airport lounges. All the places where you end up trying to squeeze in computer time when you’re traveling.
+Two years and change. I wrote it in blocks. I was also touring and making music at the same time. Somewhere on my computer I have a photo series—which I should make an Are.na channel out of, actually—of all the places where I tried to write my book. Weird janky backstage rooms and coat closets and hotel rooms and seats in the back of the van and airport lounges. All the places where you end up trying to squeeze in computer time when you’re traveling.
 
 **When did the idea to write the book start to form in earnest? Were you writing parts of this already as a journalist?**
 
-Kind of. I was working on this series for Motherboard, where I used to work, about lost female computer stories. I was writing about [Theresa Duncan](https://motherboard.vice.com/en_us/article/z4mgmy/the-quest-to-resurrect-three-of-the-90s-most-important-cd-rom-games-for-girls) and about cyberfeminism. I didn’t necessarily have a goal in mind, I was just carving out a space to explore women in computing because I was interested in those stories myself. I was three pieces into that series when I realized there was a huge amount of material there. I could just blog forever about this stuff, or I could save these text documents to a folder and turn it into a book. I wanted to spend way more time chewing on that material than online journalism allowed.
+Kind of. I was working on this series for _Motherboard_, where I used to work, about lost female computer stories. I was writing about [Theresa Duncan](https://motherboard.vice.com/en_us/article/z4mgmy/the-quest-to-resurrect-three-of-the-90s-most-important-cd-rom-games-for-girls) and about cyberfeminism. I didn’t necessarily have a goal in mind, I was just carving out a space to explore women in computing because I was interested in those stories myself. I was three pieces into that series when I realized there was a huge amount of material there. I could just blog forever about this stuff, or I could save these text documents to a folder and turn it into a book. I wanted to spend way more time chewing on that material than online journalism allowed.
 
 I always knew that if I were to write a book, I would write it about the Internet. I became a writer online, I cut my teeth as a person who writes for a public in the golden age of blogging. I have a relationship to writing that is profoundly mediated by the screen. I was just waiting for the right book about the Internet—a book that made sense for me, and that would be nutritious for me to work on for a long period of time, and also nutritious for the world, that could hopefully be a net positive. When I made the connection that I could write about the Internet but I could also write about women, it was a done deal.
 
-**It’s incredible how comprehensive Broad Band is, just focusing on women in a history that typically includes very few. I’m curious if from a writing standpoint if there times where, because you are taking such a specific angle to a much broader history, you were worried about leaving out swaths of it in service of this idea.**
+**It’s incredible how comprehensive _Broad Band_ is, just focusing on women in a history that typically includes very few.I'm curious if, from a writing standpoint, there were times where because you are taking such a specific angle to a much broader history, you were worried about leaving out swaths of it in service of this idea.**
 
 I think about the book as an addendum to the existing history. There have been many scholarly books, and popular books, about the history of computing and the Internet. Those books tend to ignore the women in the room. I don’t think of my book so much as a replacement for those books as additional material, just a wider lens on the situation. I never felt like I had to go over the material that’s already been covered ad nauseam in other histories. It’s not my job to tell those stories again. It’s my job to add dimension to those existing stories.
 
@@ -62,7 +62,7 @@ I also wanted to tell stories that exist on their own. A lot of my emphasis in t
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2176001/original_38a743c8e5a34062ad3ccefb876f9319.jpg" />
-  <figcaption>Grace Hopper</figcaption>
+  <figcaption><small>Grace Hopper</small></figcaption>
 </figure>
 
 **You do a nice job of articulating the idea that some of the “soft skills” that are usually attributed to women were really instrumental in the progression of computing and the Internet. [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) is a perfect example, as she not only invented the compiler and popularized the idea of “automatic programming,” she also had the social skills, as you wrote, to communicate the need for what she was doing.**
@@ -79,12 +79,12 @@ Those early days are where you start to define the parameters. Sometimes it take
 
 <figure>
     <img src="https://d2w9rnfcy7mm78.cloudfront.net/2175991/large_e835cac9cd89d94da7eb3532bd9ee454.jpg" />
-    <figcaption>Betty Jean Jennings and Frances Bilas operate the ENIAC’s main control panels.</figcaption>
+    <figcaption><small>Betty Jean Jennings and Frances Bilas operate the ENIAC’s main control panels.</small></figcaption>
 </figure>
 
 **Who’s your favorite kilogirl?**
 
-I mean, I love them all. If we’re talking about the early computer programmers, I really like [Jean Jennings Bartik](https://en.wikipedia.org/wiki/Jean_Bartik). She spoke truth to power the most. She wrote a really amazing autobiography called Pioneer Programmer,when she finally got sick of the fact that no one was mentioning the ENIAC Six in other histories. She spills the tea on early computing history, just talks shit about these military attachés and salesmen who didn’t take them seriously as programmers. It’s a remarkable thing.
+I mean, I love them all. If we’re talking about the early computer programmers, I really like [Jean Jennings Bartik](https://en.wikipedia.org/wiki/Jean_Bartik). She spoke truth to power the most. She wrote a really amazing autobiography called _Pioneer Programmer_, when she finally got sick of the fact that no one was mentioning the ENIAC Six in other histories. She spills the tea on early computing history, just talks shit about these military attachés and salesmen who didn’t take them seriously as programmers. It’s a remarkable thing.
 
 **I thought you were going to say [computer scientist and hypertext researcher] [Wendy Hall](https://www.sciencefriday.com/articles/the-woman-who-linked-the-web-in-a-microcosm/). Your description of her in the book is so rich. She seemed amazing to talk to.**
 
