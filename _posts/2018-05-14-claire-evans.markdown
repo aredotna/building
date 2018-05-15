@@ -12,8 +12,8 @@ description: "Journalist and musician Claire L. Evans shares the stories of unsu
 ---
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/961795/large_2f4f340cba07289de7dca486e9766416.png"></img>
-    <figcaption>Computer scientist and hypertext reseracher Wendy Hall.</figcaption>
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/961795/large_2f4f340cba07289de7dca486e9766416.png" />
+  <figcaption>Computer scientist and hypertext reseracher Wendy Hall.</figcaption>
 </figure>
 
 “This is not to say that men make and women use—far from it—only that the technological history we’re usually told is one about men and machines, ignoring women and the signals they compose,” Claire L. Evans writes in the introduction to her new book, _Broad Band: The Untold Story of the Women Who Made the Internet_. The book offers another version of that history, one that doesn’t ignore the women in the room, and instead finds the rooms were packed with them: alongside known names like Ada Lovelace, Grace Hopper, and Jaime Levy, there were the ENIAC Six, the women who programmed and operated one of the first computers; the women of Resource One, who developed one of the earliest efforts to apply computing to social good; Jake Feinler, who kept the earliest version of the Internet online; and Stacy Horn, who ran one of the first ever social networks out of her apartment in the ’80s. As Claire tells it, _Broad Band_ also tells the human side to our history of machines. It gives equal importance to the lived experience of its characters as it does the technology they helped invent, operate, program, and proliferate—and connects them all through sharp writing and a truly compelling narrative (the story of the development of ARPANET as told through the discovery of the world’s longest cave—the “Mt. Everest of speleology”—cartographic data, and heartbreak, is a personal favorite).
@@ -61,8 +61,8 @@ I think about the book as an addendum to the existing history. There have been m
 I also wanted to tell stories that exist on their own. A lot of my emphasis in the book is about people’s lived experiences, because I think they can stand on their own as stories about people’s lives, regardless of whether or not you’re interested in the history of technology. They’re just stories about interesting people that had an impact on the development of the world that we live in. A lot of writing this book was about fleshing out the human side of this history, because the rest has already been told.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2176001/original_38a743c8e5a34062ad3ccefb876f9319.jpg"></img>
-    <figcaption>Grace Hopper</figcaption>
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2176001/original_38a743c8e5a34062ad3ccefb876f9319.jpg" />
+  <figcaption>Grace Hopper</figcaption>
 </figure>
 
 **You do a nice job of articulating the idea that some of the “soft skills” that are usually attributed to women were really instrumental in the progression of computing and the Internet. [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) is a perfect example, as she not only invented the compiler and popularized the idea of “automatic programming,” she also had the social skills, as you wrote, to communicate the need for what she was doing.**
@@ -78,8 +78,8 @@ My biggest takeaway, from a research standpoint, is when I was looking for conce
 Those early days are where you start to define the parameters. Sometimes it takes a while to find exactly what a technology is. The Internet wasn’t designed as a social medium. That’s something that emerged from usage, from the people who were boots on the ground in the early stages, who realized from interfacing with the network that this was an information, communication, social, and human technology much more than simply one which facilitates academic research or the sharing of computing resources at a distance. The minute that two computers are plugged into each other, people are messaging. That’s our natural tendency, that’s what we do. Even if you look at these proto-internet type systems, like Minitel or PLATO, as soon as computers were connected people were shooting the shit. Those who were there in the earliest stages, who saw this happening first—those are the people who got what was going to happen.
 
 <figure>
-    <img src="https://d2w9rnfcy7mm78.cloudfront.net/2175991/large_e835cac9cd89d94da7eb3532bd9ee454.jpg"></img>
-     <figcaption>Betty Jean Jennings and Frances Bilas operate the ENIAC’s main control panels.</figcaption>
+    <img src="https://d2w9rnfcy7mm78.cloudfront.net/2175991/large_e835cac9cd89d94da7eb3532bd9ee454.jpg" />
+    <figcaption>Betty Jean Jennings and Frances Bilas operate the ENIAC’s main control panels.</figcaption>
 </figure>
 
 **Who’s your favorite kilogirl?**
