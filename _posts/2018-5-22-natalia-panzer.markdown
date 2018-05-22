@@ -4,12 +4,16 @@ date: 2018-05-22 00:00:00 Z
 categories:
 - Conversation
 tags:
-- draft
+- featured
 layout: post
 image: "https://d2w9rnfcy7mm78.cloudfront.net/2210019/original_9ca8c3ace44664deb0e43ecca60cda97.jpg"
 author: "Meg Miller and Laurel Schwulst"
 description: "Refresh is a home gallery run by Natalia Panzer out of Sunset Park."
 ---
+
+<figure>
+    <img src="https://d2w9rnfcy7mm78.cloudfront.net/2210019/original_9ca8c3ace44664deb0e43ecca60cda97.jpg" />
+</figure>
 
 **Meg Miller:** You run a bedroom gallery, [Refresh](http://npanzer.com/refreshgallery.html), out of your apartment in Sunset Park. We’ve been talking about Sunset Park a lot in this household because we’re all thinking about moving there. How do you like it?
 
