@@ -162,4 +162,4 @@ At their core, these strategies aren’t new. They don’t have to be visible an
 
 _[Shea Fitzpatrick](https://www.are.na/shea-fitzpatrick) is a multidisciplinary artist and writer and a recent graduate of Wesleyan University. She is now based in New York._
 
-<iframe class="arena-iframe" src="https://www.are.na/shea-fitzpatrick/queer-technologies/embed"></iframe>
+<iframe class="arena-iframe" width="100%" height="2090" src="https://www.are.na/shea-fitzpatrick/queer-technologies/embed"></iframe>
