@@ -48,7 +48,7 @@ Satterwhite’s six-part video series incorporates video of his own body, animat
 
 <figure>
   <h5>Micha Cárdenas, <i><a href="https://www.are.na/block/1205590">Becoming Dragon</a></i>, 2008</h5>
-  <iframe width="100%" height=300 src="https://player.vimeo.com/video/3874238" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe width="100%" height="300" src="https://player.vimeo.com/video/3874238" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   <figcaption>
 Cárdenas responds to the 365-day ‘Real Life Experience’ (RLE) requirement that transgender people must complete in order to receive Gender Confirmation Surgery with a query: should there also be a requirement for 365 days of 'Second Life Experience' to undergo Species Reassignment Surgery? To explore this question, Cárdenas staged a 365-hour mixed reality performance, immersing herself in the virtual 3D environment of Second Life for its entire duration. Cárdenas hoped to explore the unique overlap of virtual worlds and biotechnology, referring to both as “technologies of transformation” that resonate through embodied, social, psychological, and sexual experiences.
   </figcaption>
