@@ -6,7 +6,7 @@ categories:
 tags:
 - draft
 layout: post
-image:
+image: "https://d2w9rnfcy7mm78.cloudfront.net/2247945/large_7dacb6b994592d2feafb468832a0193e.png"
 author: "Shea Fitzpatrick"
 description: "Artworks exploring the nexus of queerness, the body, and technology."
 ---
