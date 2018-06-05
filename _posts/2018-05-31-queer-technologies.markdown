@@ -19,7 +19,7 @@ This piece offers a survey of works living at the nexus of queerness, the body, 
 1. [Dreamscapes and the Transreal](#dreamscapes-and-the-transreal)
 2. [Queer and Feminist Computation](#queer-and-feminist-computation)
 3. [Biopolitical Subversion](#biopolitical-subversion)
-4. [Queer Time, Hypertext, and New Narrative Forms](#queertime-hypertext-and-new-narrative-forms)
+4. [Queer Time, Hypertext, and New Narrative Forms](#queer-time-hypertext-and-new-narrative-forms)
 5. [Utopian Plagiarism](#utopian-plagiarism)
 
 ---
@@ -28,7 +28,7 @@ This piece offers a survey of works living at the nexus of queerness, the body, 
 > _My virtual performance arenas are queer places where the viewer is challenged to adapt to the spirit of my ideas. That’s how I act as a performer. I disrupt logic._
 > —Jacolby Satterwhite
 
-In her book _The Transreal: Political Aesthetics of Crossing Realities_, artist and theorist Micha Cárdenas describes bodies as distributed: not ending at skin, but dispersed electronically. Cárdenas describes a “transreal” identity in relation to media scholar Henry Jenkins’ [“transmedia” model of communication](http://henryjenkins.org/blog/2007/03/transmedia_storytelling_101.html). In both cases, the prefix _trans_ implies an existence that goes beyond merely _crossing_ boundaries; rather, it suggests a dispersed _immersion_ in multiple technologically enhanced worlds at once. To become transreal, then, is to live in multiple simultaneous realities. The following works unhinge those realities.
+In her book _The Transreal: Political Aesthetics of Crossing Realities_, artist and theorist Micha Cárdenas describes bodies as distributed: not ending at skin, but dispersed electronically. Cárdenas describes a “transreal” identity in relation to media scholar Henry Jenkins’ [“transmedia” model of communication](http://henryjenkins.org/blog/2007/03/transmedia_storytelling_101.html). In both cases, the prefix _trans_ implies an existence that goes beyond merely _crossing_ boundaries; rather, it suggests a dispersed _immersion_ in multiple technologically enhanced worlds at once. To become transreal, then, is to live in simultaneous realities. The following works unhinge those realities.
 
 <figure>
   <h5>Porpentine Charity Heartscape and Neotenomie, <i><a href="http://slimedaughter.com/games/twine/river/">Probiotic River Therapy</a></i>, 2016</h5>
@@ -60,7 +60,7 @@ Cárdenas responds to the 365-day ‘Real Life Experience’ (RLE) requirement t
 >_If the languages are finite, then so, unfortunately, are the life possibilities._
 >—Alexander R. Galloway and Eugene Thacker
 
-Wendy Chun writes, “programming became programming and software became software when command shifted from commanding a ‘girl’ to commanding a machine.” In the earliest days of programming, Chun explains, women themselves were the computers, and the work was seen as rote, clerical, and unskilled. The invention of software, [echoes Gerald Stephen Jackson](https://www.are.na/block/2240717), spurred an epistemological collapse of programming and problem solving, newly heralding the idea of the individual male genius computer programmer. These projects refuse the embedded masculinity in code at linguistic, structural, and historical levels.
+ Media scholar Wendy Chun writes, “programming became programming and software became software when command shifted from commanding a ‘girl’ to commanding a machine.” In the earliest days of programming, Chun explains, [women themselves were the computers](https://www.are.na/blog/focus/2018/05/15/claire-evans.html), and the work was seen as rote, clerical, and unskilled. The invention of software, [echoes Gerald Stephen Jackson](https://www.are.na/block/2240717), spurred an epistemological collapse of programming and problem solving, newly heralding the idea of the individual male genius computer programmer. These projects refuse the embedded masculinity in code at linguistic, structural, and historical levels.
 
 <figure>
   <h5>Zach Blas, <i><a href="https://www.are.na/block/833199">Queer Technologies</a></i>, 2007 - 2012</h5>
@@ -127,7 +127,7 @@ Queerness is often theorized as a position of being “outside” of—both a st
 </figure>
 
 <figure>
-  <h5>[_Videogames for Humans: Twine Authors in Conversation_](https://www.are.na/block/1094883), edited by merritt k, 2015</h5>
+  <h5><a href="https://www.are.na/block/1094883"><i>Videogames for Humans: Twine Authors in Conversation</i></a>, edited by merritt k, 2015</h5>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2247942/large_ce15e368fd6182c1f79ef185aa49ba40.png">
   <figcaption>
   <a href="http://twinery.org/">Twine</a>, an open source tool for creating interactive branching narratives, has been widely adopted among marginalized game designers and writers. In this 600-page volume, Twine authors are asked to narrate their own play-along of Twine games written by other authors. These games are about the “messy lives on the economic and social margins of society, about the complexities of embodiment and community, about our grotesque cyberpunk dreams and gay pulp fantasies.” The result is the deconstruction of interactive games into their purely textual form, mediated by the candor of a player’s real-time internal monologue. The structure of each play-along presents a simultaneity of past, present, and future. The reader of <i>Videogames for Humans</i> is always met with one story—the Twine game—interwoven with another story: the emotional and analytical response of the player.
@@ -135,7 +135,7 @@ Queerness is often theorized as a position of being “outside” of—both a st
 </figure>
 
 <figure>
-  <h5>Fred Moten and Wu Tsang, <i><a href="https://www.are.na/block/1340560">Who Touched Me? Miss Communication and Mr. Re:</a></i>, 2016</h5>
+  <h5>Fred Moten and Wu Tsang, <i><a href="https://www.are.na/block/1340560">Who Touched Me? Miss Communication and Mr. Re</a></i>, 2016</h5>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2247947/original_26cebbcc2d1bf6a45e3434fa23c0df5f.png">
   <figcaption>
   Moten and Tsang’s <i>Who Touched Me?</i> is a study in communicative ruptures. The print publication documents the development of their collaborative performance <i>Gravitational Feel</i>, described to embody the yet-to-be-realized work in its “virtual state.” Notes, poetry, and fragments of earlier collaborative work are framed by transcribed voicemails untethered from their original speaker. It follows Tsang and Moten’s correspondence chronologically, but their voices meld together with both each other’s and those of outsiders. Words and phrases repeat and resurface, sometimes in the form of a list, as though it were a conversational index. In the words of Moten and Tsang, “the research/experiment is how to sense entanglement.”
@@ -154,7 +154,7 @@ In [_The Electronic Disturbance_](https://www.are.na/block/2025251), Critical Ar
   <h5>Zach Blas, <i><a href="https://www.are.na/block/1540827">Contra-Internet</a></i>, 2018</h5>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2247950/large_a9e33cae55f744f1dc9c835fecaaac64.jpg">
   <figcaption>
-  Is it easier to imagine the end of the world than the end of the internet? This is the challenge posed by <i>Contra-Internet</i>, a conceptual mash-up of Beatriz Preciado’s <i>Manifesto Contrasexual</i>, feminist economists J. K. Gibson-Graham’s <i>The End of Capitalism (As We Knew It)</i>, and the writings of Frederic Jameson. Kneading his recombinant framework of contra-internet, Blas has created a queer science fiction film <i>Jubilee 2033</i> (after the 1978 queer punk film <i>Jubilee</i>) as well as a video series of “inversion practices.” <i><a href="https://vimeo.com/121035772">Inversion Practice #1: Constituting an Outside (Utopian Plagiarism)</a></i> consists of a screen recording of Blas sifting through PDFs of Preciado, Gibson-Graham, and Jameson and extracting phrases word for word. In a separate document, Blas dumps his plagiarized content but replaces every occurrence of the words “contrasexual,” “capitalism,” and “economy” with “contrainternet,” “internet,” and “network.” It is through transparent, purposeful cutting-and-pasting that Blas has cultivated a rich and malleable theoretical foundation on which to build alternative futures.
+  Is it easier to imagine the end of the world than the end of the internet? This is the challenge posed by <i>Contra-Internet</i>, a conceptual mash-up of Beatriz Preciado’s <i>Manifesto Contrasexual</i>, feminist economists J. K. Gibson-Graham’s <i>The End of Capitalism (As We Knew It)</i>, and the writings of Fredric Jameson. Kneading his recombinant framework of contra-internet, Blas has created a queer science fiction film <i>Jubilee 2033</i> (after the 1978 queer punk film <i>Jubilee</i>) as well as a video series of “inversion practices.” <i><a href="https://vimeo.com/121035772">Inversion Practice #1: Constituting an Outside (Utopian Plagiarism)</a></i> consists of a screen recording of Blas sifting through PDFs of Preciado, Gibson-Graham, and Jameson and extracting phrases word for word. In a separate document, Blas dumps his plagiarized content but replaces every occurrence of the words “contrasexual,” “capitalism,” and “economy” with “contrainternet,” “internet,” and “network.” It is through transparent, purposeful cutting-and-pasting that Blas has cultivated a rich and malleable theoretical foundation on which to build alternative futures.
   </figcaption>
 </figure>
 
