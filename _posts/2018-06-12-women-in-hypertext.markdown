@@ -4,7 +4,7 @@ date: 2018-06-12 00:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/2295138/large_e1a9876496ad11e9cdde87249726f3a8.jpg
 author: "Claire L. Evans"
