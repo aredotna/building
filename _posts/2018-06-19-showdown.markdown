@@ -13,7 +13,7 @@ description: "On putting together their annual cooking competition house party i
 
 <figure>
     <img src="https://d2w9rnfcy7mm78.cloudfront.net/2326111/large_a2b863c0ec5710775a911d788f340c38.jpg"/>
-    <figcaption><small>Showdown 2018</small></figcaption>
+     <figcaption style="text-align: center" ><small>Showdown 2018</small></figcaption>
 </figure>
 
 **Meg Miller:** Thanks for bringing over your post-party shallots. Does everyone have to bring something to Showdown?
@@ -40,7 +40,7 @@ We get volunteers to run the cameras around, and we have three new judges every 
 
 It’s usually one or both of us being the puppet master. We pick out the special ingredients for each round, which we either have around or other people brought. The competitors have to use them in their dishes, and we try to make pairings that either clash with or complement each other. Something that’s challenging to put together or just really funny.
 
-<iframe src="https://player.vimeo.com/video/275675826" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<iframe src="https://player.vimeo.com/video/275675826" width="640" height="1137" frameborder="0" allowfullscreen></iframe>
 
 **Molly:** Or they can be really easy. This year there were two special ingredients that went together really well: Sleepytime tea and pizza water [blended pizza]. It sounds really hilarious, but actually it’s just herbs and cheese water. It was too easy. So we gave them a really horrible challenge, where two dudes came into the kitchen and took over cooking for them for five minutes.
 
@@ -76,7 +76,7 @@ It’s usually one or both of us being the puppet master. We pick out the specia
 
 <figure>
     <img src="https://d2w9rnfcy7mm78.cloudfront.net/2326110/original_7417f66dce8f4ee8d085054045024472.gif"/>
-    <figcaption><small>Pizza water in the making</small></figcaption>
+     <figcaption style="text-align: center" ><small>Pizza water in the making</small></figcaption>
 </figure>
 
 **Laurel:** Does anyone narrate the night?
@@ -85,7 +85,7 @@ It’s usually one or both of us being the puppet master. We pick out the specia
 
 **Jeremy:** This year we cleaned our kitchen top to bottom, and it’s really good to do that every once and a while because you find all of this stuff that you forget you had. We had all these things from past years that someone bought and no one ever used, like old cans of sardines. We pulled out this mushroom batter that’s definitely ancient. Someone used it.
 
-<iframe class="arena-iframe" src="https://www.are.na/julia-panek/kitchen-wish-list/embed"></iframe>
+<iframe width="400" height="500" class="arena-iframe" src="https://www.are.na/julia-panek/kitchen-wish-list/embed"></iframe>
 
 **Becca:** I was just remembering the one where Bela broiled a grapefruit, and the MC was saying, “I’m hearing this is the first time the broiler has been used in this house.” And then she pulled out the [Searzall](http://www.bookeranddax.com/searzall/). I learned something, because I had never seen a Searzall before. It gave it that “wow factor.” Does it make you nervous to have people in your kitchen using tools they’ve never used before?
 
@@ -99,16 +99,16 @@ It’s usually one or both of us being the puppet master. We pick out the specia
 
 That’s why I like cooking shows, because they’ll really outline tricks. Like chilling down batter with ice, so that when you fry it there are no pockets of air. It’s good to watch them doing it while they’re stressed out, too—you see the ingredients they intuitively grab. That’s a good way to learn to cook.
 
-**LS:** Have you have learned anything from the cooking shows that you then use at Showdown?
+**Laurel:** Have you have learned anything from the cooking shows that you then use at Showdown?
 
-**JL:** When I was competing, I made a custard in the microwave, which I had seen done on a cooking show recently. It was pretty easy; it works.
+**Jeremy:** When I was competing, I made a custard in the microwave, which I had seen done on a cooking show recently. It was pretty easy; it works.
 
 <figure>
     <img src="https://d2w9rnfcy7mm78.cloudfront.net/2326117/large_289cf2a4770fda64811a98324a0b3394.jpg"/>
-    <figcaption><small>Showdown 2018</small></figcaption>
+     <figcaption style="text-align: center" ><small>Showdown 2018</small></figcaption>
 </figure>
 
-**MM:** It sounds like you guys are approaching this party like you would as producers for a cooking show. You’re thinking about narrative and drama and what will make the most entertaining scenario for your live audience.
+**Meg:** It sounds like you guys are approaching this party like you would as producers for a cooking show. You’re thinking about narrative and drama and what will make the most entertaining scenario for your live audience.
 
 **Jeremy:** Yeah, we did a lot of recapping recently, thinking about what worked and what didn’t. The goal is for all of the participants to be really fun, really zany. To say a lot, and for the night to actually tell some story.
 
@@ -118,7 +118,7 @@ That’s why I like cooking shows, because they’ll really outline tricks. Like
 
 **Molly:** I’ve done a lot of prop stuff. Kat, who does half of the MCing, is part of a production trio that makes comedy videos. I help them sometimes with art department stuff. I’ve done some event stuff as well, where I’ve picked up some organizational skills. Doing the thing itself is an insane learning experience.
 
-**Meg:** Would you ever consider being like the producers on The Bachelor or something who will kind of seed anxiety or discordance within the participants, egg them on off-screen, just to heighten the drama?
+**Meg:** Would you ever consider being like the producers on _The Bachelor_ or something who will kind of seed anxiety or discordance within the participants, egg them on off-screen, just to heighten the drama?
 
 **Molly:** I feel like that’s more of what the MCs do. They do a good job of being like, “ARE YOU EVEN GOING TO BE DONE ON TIME?” My thing is more that I really like the extra challenges, and delivering them at horrible moments. It’s not my job to be a personality, I mainly just run around and answer questions. I let the MCs be the instigators.
 
@@ -128,7 +128,7 @@ That’s why I like cooking shows, because they’ll really outline tricks. Like
 
 <figure>
     <img src="https://d2w9rnfcy7mm78.cloudfront.net/2325493/large_41ad18c6f00981665a507d5eb12ca95e.jpg"/>
-    <figcaption><small>Molly and Jeremy’s house in Queens</small></figcaption>
+     <figcaption style="text-align: center" ><small>Molly and Jeremy’s house in Queens</small></figcaption>
 </figure>
 
 **Meg:** Do you think about Showdown as specific to your house? It sounds like you guys have a unique situation.
@@ -143,7 +143,7 @@ There’s a basement floor, where we have studios, then a main floor where it’
 
 ---
 
-[Molly Lehmann](http://veronicamolly.com) and Jeremy Klemundt live together in Queens. Molly is a multimedia artist who not only makes tassels but also zines documenting architectural ornament. Jeremy is a mold maker and fabricator. He spends most of his free time compulsively grocery shopping, blasting curbs throughout Queens, and 3D printing little sculptures.
+[Molly Lehmann](http://www.veronicamolly.com/) and Jeremy Klemundt live together in Queens. Molly is a multimedia artist who not only makes tassels but also zines documenting architectural ornament. Jeremy is a mold maker and fabricator. He spends most of his free time compulsively grocery shopping, blasting curbs throughout Queens, and 3D printing little sculptures.
 
 [Becca Abbe](http://cdxs.ist) is a designer and programmer thinking in New York. She works on commercial, collaborative, and personal projects under the name Cdxs.
 
