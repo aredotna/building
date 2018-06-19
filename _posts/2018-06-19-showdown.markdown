@@ -4,7 +4,7 @@ date: 2018-06-19 00:00:00 Z
 categories:
 - Conversation
 tags:
-- draft
+- featured
 layout: post
 image: "https://d2w9rnfcy7mm78.cloudfront.net/2326111/large_a2b863c0ec5710775a911d788f340c38.jpg"
 author: "Meg Miller, Laurel Schwulst, and Becca Abbe"
