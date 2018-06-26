@@ -8,7 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/2354057/original_f4c6a1acb180add65af7886ba634e690.jpg
 author: "Willa Köerner"
-description: "This essay adapts and expands upon a talk Willa gave on knowledge management at SYPartners, as part of a night of discussion hosted by SYPand and Are.na."
+description: "The Creative Independent's Willa Köerner writes about how to thoughtfully and responsibly illuminate private knowledge-building in a public space."
 ---
 
 <figure>
