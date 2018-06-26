@@ -11,10 +11,6 @@ author: "Willa Köerner"
 description: "This essay adapts and expands upon a talk Willa gave on knowledge management at SYPartners, as part of a night of discussion hosted by SYPand and Are.na."
 ---
 
-_This essay adapts and expands upon a talk Willa gave on knowledge management at SYPartners, as part of a night of discussion hosted by [SYPand](https://www.syp-and.com) and Are.na._
-
----
-
 <figure>
     <img src="https://d2w9rnfcy7mm78.cloudfront.net/2354057/original_f4c6a1acb180add65af7886ba634e690.jpg"/>
 </figure>
@@ -85,7 +81,7 @@ Plus, narrative endures. Stories can be unforgettable.
 
 <figure>
     <img src="https://d2w9rnfcy7mm78.cloudfront.net/2343985/original_cf5c3c3d605980e5258c2f77ff79ca26.png"/>
-    <figcaption><small><a href="https://thecreativeindependent.com/library/">The Creative Independent’s Library: https://thecreativeindependent.com/library/</a></small></figcaption>
+    <figcaption><small><a href="https://thecreativeindependent.com/library/">The Creative Independent’s Library</a></small></figcaption>
 </figure>
 
 I currently work at [The Creative Independent](https://thecreativeindependent.com), where we think a lot about how we can use narrative formats to make the hard-won wisdom of those with deep knowledge more accessible.
@@ -102,7 +98,7 @@ When contemplating these questions, it’s easy to get carried away into a techn
 
 <figure>
     <img src="https://d2w9rnfcy7mm78.cloudfront.net/2344065/original_e15e9fefc491b485d441ed0da1e99c87.gif"/>
-    <figcaption><small><a href="https://thecreativeindependent.com/people/ ">The Creative Independent’s People page: https://thecreativeindependent.com/people/</a></small></figcaption>
+    <figcaption><small><a href="https://thecreativeindependent.com/people/ ">The Creative Independent’s People page</a></small></figcaption>
 </figure>
 
 As we continue to experiment with new methods for collectively managing knowledge, it’s been useful to keep a few key ideas in mind. 
@@ -120,6 +116,8 @@ As we move deeper into the Aquarian Age, society and culture will continue to sh
 Coming up with the best and most enduring way to manage knowledge collectively is a daunting task, for sure. Luckily, forcing a solution out of thin air isn’t what’s expected of us. Rather, the best we can do now is keep experimenting with vivid enthusiasm and caring optimism. I believe the key to catalyzing and building accessible knowledge-sharing economies lies in getting to know ourselves better as living, breathing, thinking, and feeling humans.
 
 When we ask, “What collective wisdom-sharing systems are possible?” we must imagine an entire universe of potential outcomes, of which only the first few planets and stars are visible. And as we continue to peer off into this vast expanse to see what else might be out there, we don’t need to build a better telescope—we only need travel deeper into ourselves.
+
+_This essay adapts and expands upon a talk Willa gave on knowledge management at SYPartners, as part of a night of discussion hosted by [SYPand](https://www.syp-and.com) and Are.na._
 
 ---
 
