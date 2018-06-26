@@ -24,5 +24,5 @@ We're still a small team, but we try to be available as much as we can. If you h
 
 <figure>
     <img src="https://d2w9rnfcy7mm78.cloudfront.net/2359062/original_3d58a5443fb610068d51b5316712095d.jpg"/>
-     <figcaption style="text-align: center" ><small>Mars, with oceans</small></figcaption>
+     <figcaption style="text-align: center" ><small>Mars, with oceans (credit: <a href="https://www.reddit.com/r/TheExpanse/comments/60r6uj/a_living_mars_with_oceans_artist_is_kevin_gill/">Kevin Gill</a>)</small></figcaption>
 </figure>
