@@ -1,5 +1,5 @@
 ---
-title: We are now letting anyone invest in Are.na. Here's why.
+title: Post-campaign update
 date: 2018-06-26 00:00:00 Z
 categories:
 - Hello World
