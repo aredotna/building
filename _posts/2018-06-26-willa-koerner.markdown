@@ -15,6 +15,10 @@ _This essay adapts and expands upon a talk Willa gave on knowledge management at
 
 ---
 
+<figure>
+    <img src="https://d2w9rnfcy7mm78.cloudfront.net/2354057/original_f4c6a1acb180add65af7886ba634e690.jpg"/>
+</figure>
+
 How does one come to know something?
 
 As I’ve experienced it, knowledge is the private triumph of failure. 
@@ -26,7 +30,7 @@ It takes time to synthesize information and experiences into knowledge. Sometime
 To have deep knowledge about something is to have a rich inner world built around that subject’s orbit. How, then, does knowledge come to exist in the world beyond an individual’s private mind?
 
 <figure>
-    <img src="https://d2w9rnfcy7mm78.cloudfront.net/2354057/original_f4c6a1acb180add65af7886ba634e690.jpg"/>
+    <img src="https://d2w9rnfcy7mm78.cloudfront.net/2353799/original_fa8c0ef018666e367e8556cbf49d944c.jpg"/>
     <figcaption><small>Diagrams by Willa Köerner</small></figcaption>
 </figure>
 
@@ -67,7 +71,6 @@ This evaporation of knowledge is not experienced solely by companies like Kickst
 
 <figure>
     <img src="https://d2w9rnfcy7mm78.cloudfront.net/2340921/original_f426ed2d706de73e2e690ffdb68c34a6.png"/>
-    <figcaption><small>SFMOMA during an installation</small></figcaption>
 </figure>
 
 This slipping-away of knowledge is always happening. It happens in our minds, as memories fade. But arguably, we don’t need to retain all knowledge. To know too much can be a burden. As such, the process of collectively managing knowledge begs us all to be fortune tellers: _What information will we need in the future?_
@@ -82,24 +85,24 @@ Plus, narrative endures. Stories can be unforgettable.
 
 <figure>
     <img src="https://d2w9rnfcy7mm78.cloudfront.net/2343985/original_cf5c3c3d605980e5258c2f77ff79ca26.png"/>
-    <figcaption><small>The Creative Independent’s Library: <a href="https://thecreativeindependent.com/library/">https://thecreativeindependent.com/library/</a></small></figcaption>
+    <figcaption><small><a href="https://thecreativeindependent.com/library/">The Creative Independent’s Library: https://thecreativeindependent.com/library/</a></small></figcaption>
 </figure>
 
 I currently work at [The Creative Independent](https://thecreativeindependent.com), where we think a lot about how we can use narrative formats to make the hard-won wisdom of those with deep knowledge more accessible.
 
-In the field of creativity, shared knowledge and wisdom have historically been hard to come by. This may be due to the house-of-cards structures upon which many creative industries are built. Or, perhaps it’s due to the fact that industries which seem to reward buttoned-up, ego-driven practices do not tend to generate great knowledge-sharing economies. Either way, we saw the lack of a central network for archiving knowledge and wisdom that could collectively help answer questions like, _How do I make a decent living as an artist?_ or _How can I overcome my crippling creative anxiety?_
+In the field of creativity, shared knowledge and wisdom have historically been hard to come by. This may be due to the house-of-cards structures upon which many creative industries are built. Or, perhaps it’s due to the fact that industries that seem to reward buttoned-up, ego-driven practices do not tend to generate great knowledge-sharing economies. Either way, we saw the lack of a central network for archiving knowledge and wisdom that could collectively help answer questions like, _How do I make a decent living as an artist?_ or _How can I overcome my crippling creative anxiety?_
 
 We’ve found that interviews provide an effective framework for mining and sharing deep wisdom. By asking our interview subjects thoughtful, personal questions about the knowledge networks they’ve spent their lives growing, we’ve been able to create a repository of honest and vulnerable musings on all types of issues related to living life as a creative person.
 
-As we’ve grown our archive of wisdom over the past year, we’ve explored multiple approaches to managing knowledge in narrative formats, from the purely practical to the more effusive and emotional. We’ve tried publishing [how-to guides](https://thecreativeindependent.com/archive/#filter=.sort-guide), [answers to creative FAQs](https://thecreativeindependent.com/archive/#filter=.sort-asktci), and [essays](https://thecreativeindependent.com/archive/#filter=.sort-essay), all of which share the goal of offering up hard-won knowledge for the collective gain. We’ve also started to create surveys as a way to amass collective knowledge about complicated subjects (i.e. our [survey report on visual artists and financial stability](https://thecreativeindependent.com/artist-survey/)), and we’ve started focusing on weekly themes such as [“Overcoming creative anxiety”](https://thecreativeindependent.com/themes/#creative-anxiety) and [“Making a living”](https://thecreativeindependent.com/themes/#making-a-living) as a way to resurface the wisdom on our site, and make it more relevant and findable.
+As we’ve grown our archive of wisdom over the past year, we’ve explored multiple approaches to managing knowledge in narrative formats, from the purely practical to the more effusive and emotional. We’ve tried publishing [how-to guides](https://thecreativeindependent.com/archive/#filter=.sort-guide), [answers to creative FAQs](https://thecreativeindependent.com/archive/#filter=.sort-asktci), and [essays](https://thecreativeindependent.com/archive/#filter=.sort-essay), all of which share the goal of offering up hard-won knowledge for collective gain. We’ve also started to create surveys as a way to amass collective knowledge about complicated subjects (i.e. our [survey report on visual artists and financial stability](https://thecreativeindependent.com/artist-survey/)), and we’ve started focusing on weekly themes such as [“Overcoming creative anxiety”](https://thecreativeindependent.com/themes/#creative-anxiety) and [“Making a living”](https://thecreativeindependent.com/themes/#making-a-living) as a way to resurface the wisdom on our site, and make it more relevant and findable.
 
 To me, experimenting with new ways to collect and archive wisdom in accessible formats is exciting. Each time we explore a new format, we ask: _How do we make it easier for readers to find wisdom that’s relevant to their own unique knowledge gap? Are certain knowledge gaps shared by all creative people at one point or another? How might a reader translate knowledge gained through a narrative format into actual wisdom?_
 
-When contemplating these questions, it’s easy to get carried away into a techno-utopian dream world where all wisdom is neatly catalogued into accessible bits, so any problem could be easily researched and overcome. While that vision may or may not be attainable, it does feel quite possible to imagine a world in which _all_ people treat their own hard-won wisdom like open-source code, generously offering it up to others in whatever ways they can. On top of that, I can also imagine a world where frameworks for storing this wisdom existe far and beyond our current tools, none of which feel quite adequate.
+When contemplating these questions, it’s easy to get carried away into a techno-utopian dream world where all wisdom is neatly catalogued into accessible bits, so any problem could be easily researched and overcome. While that vision may or may not be attainable, it does feel quite possible to imagine a world in which _all_ people treat their own hard-won wisdom like open-source code, generously offering it up to others in whatever ways they can. On top of that, I can also imagine a world where frameworks for storing this wisdom exist far and beyond our current tools, none of which feel quite adequate.
 
 <figure>
     <img src="https://d2w9rnfcy7mm78.cloudfront.net/2344065/original_e15e9fefc491b485d441ed0da1e99c87.gif"/>
-    <figcaption><small>The Creative Independent’s People page: <a href="https://thecreativeindependent.com/people/ ">https://thecreativeindependent.com/people/</a></small></figcaption>
+    <figcaption><small><a href="https://thecreativeindependent.com/people/ ">The Creative Independent’s People page: https://thecreativeindependent.com/people/</a></small></figcaption>
 </figure>
 
 As we continue to experiment with new methods for collectively managing knowledge, it’s been useful to keep a few key ideas in mind. 
@@ -111,11 +114,6 @@ Secondly, knowledge and wisdom are precious. Acquiring deep wisdom is a pursuit 
 Thirdly, we’re not a very consistent species. We do things for a while, but then we might lose interest (or, we might die). New frameworks for collectively managing knowledge must embrace the not-so-predictable nature of the human psyche. They must be forgiving, and they must be built to endure.
 
 Lastly, knowledge and wisdom are hardly “manageable.” They may be channeled, yes, but never fully captured. To capture is to kill. Keep the energy flowing.
-
-<figure>
-    <img src="https://d2w9rnfcy7mm78.cloudfront.net/2353799/original_fa8c0ef018666e367e8556cbf49d944c.jpg"/>
-    <figcaption><small>The Creative Independent’s People page: <a href="https://thecreativeindependent.com/people/ ">https://thecreativeindependent.com/people/</a></small></figcaption>
-</figure>
 
 As we move deeper into the Aquarian Age, society and culture will continue to shift in directions that privilege connectedness, idealism, nonconformity, and humanitarianism. Opening up our collective knowledge networks is not some far-off dream—it’s already happening. But how well, and how soon a more transformative knowledge-sharing economy can be built depends on the tools and frameworks built by those of us who are here right now.
 
