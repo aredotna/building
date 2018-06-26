@@ -1,5 +1,5 @@
 ---
-title: "A personal philosophy of knowledge"
+title: "A Personal Philosophy of Shared Knowledge"
 date: 2018-06-26 00:00:00 Z
 categories:
 - Case Study
