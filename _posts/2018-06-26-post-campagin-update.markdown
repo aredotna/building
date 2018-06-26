@@ -10,6 +10,8 @@ image: https://d2w9rnfcy7mm78.cloudfront.net/2359058/original_7dc22c98ebcf99d636
 author: "Are.na Team"
 ---
 
+![](https://d2w9rnfcy7mm78.cloudfront.net/2359058/original_7dc22c98ebcf99d636a1700dbb228a9f.png)
+
 This spring Are.na launched an [equity crowdfunding campaign](https://republic.co/arena) to build a foundation for the future of the platform, and we’re proud to say we raised over $270,000 in the process. 
 
 We’re even more excited that existing Are.na members invested over 70% of the total. In equity terms, that means 600+ members now collectively hold the equivalent of about 4% of Are.na’s valuation. We see this as a vital connection between our member’s interests and our aspirations as an ethical business.
