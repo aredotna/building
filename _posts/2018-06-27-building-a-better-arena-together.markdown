@@ -20,7 +20,7 @@ We’re even more excited that existing Are.na members invested over 70% of the 
 
 ![](https://d2w9rnfcy7mm78.cloudfront.net/2359058/original_7dc22c98ebcf99d636a1700dbb228a9f.png)
 
-We’re using the capital we raised this spring to take a few crucial steps forward. In the next few months we’ll be hiring another developer to modernize the infrastructure of the platform. This fall we’ll release important new features and admin tools for teams. We’re also onboarding a set of business clients we’re proud to call customers. Thanks to our member-investors, Are.na is becoming a better tool for all kinds of groups to think more creatively and work more mindfully.  
+We’re using the capital we raised this spring to take a few crucial steps forward. In the next few months we’ll be hiring another developer to help with new features and infrastructure. This fall we’ll release important new features and admin tools for teams. We’re also onboarding a set of business clients we’re proud to call customers. Thanks to our member-investors, Are.na is becoming a better tool for all kinds of groups to think more creatively and work more mindfully.
 
 We believe that anyone can benefit from cultivating knowledge together on Are.na. As we work to popularize a more human experience of the web, we’ll be listening closely to our dedicated members and working hard to strengthen the relationships that make Are.na feel personal. We’re committed to growing this ecology of ideas together, with you.
 
