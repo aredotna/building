@@ -1,9 +1,9 @@
 ---
 layout: 
 ---
-
+{% assign posts = site.posts | where:'tags', 'featured' %}
 [
-{% for post in site.posts limit:3 %}
+{% for post in posts limit:3 %}
   {% if post.tags contains "featured" %}
     {
       "title": "{{ post.title }}",
