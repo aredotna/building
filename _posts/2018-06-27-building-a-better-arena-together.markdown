@@ -9,7 +9,6 @@ layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/2359058/original_7dc22c98ebcf99d636a1700dbb228a9f.png
 author: "Are.na Team"
 ---
-
 <figure>
     <img src="https://d2w9rnfcy7mm78.cloudfront.net/2359062/original_3d58a5443fb610068d51b5316712095d.jpg"/>
      <figcaption style="text-align: center" ><small>Mars, with oceans (credit: <a href="https://www.reddit.com/r/TheExpanse/comments/60r6uj/a_living_mars_with_oceans_artist_is_kevin_gill/">Kevin Gill</a>)</small></figcaption>
