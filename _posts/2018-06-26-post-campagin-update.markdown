@@ -4,7 +4,7 @@ date: 2018-06-26 00:00:00 Z
 categories:
 - Hello World
 tags:
-- featured
+- draft
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/2359058/original_7dc22c98ebcf99d636a1700dbb228a9f.png
 author: "Are.na Team"
