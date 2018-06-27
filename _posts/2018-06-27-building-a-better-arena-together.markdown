@@ -6,7 +6,7 @@ categories:
 tags:
 - draft
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/2359058/original_7dc22c98ebcf99d636a1700dbb228a9f.png
+image: https://d2w9rnfcy7mm78.cloudfront.net/2359062/original_3d58a5443fb610068d51b5316712095d.jpg
 author: "Are.na Team"
 ---
 <figure>
