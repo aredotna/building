@@ -32,7 +32,7 @@ Ways of seeing belong not just to individuals but to fields and subcultures. The
 
 ## emma rae norton's "readings"
 
-<iframe class="arena-iframe" width="400" height="500" src="hhttps://www.are.na/emma-rae-norton/readings--4/embed"></iframe>
+<iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/emma-rae-norton/readings--4/embed"></iframe>
 
 ---
 
