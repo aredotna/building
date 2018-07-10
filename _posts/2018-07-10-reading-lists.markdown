@@ -8,6 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/2308541/large_02066a5d2825551abd5d1bb05644c820.jpg
 author: "Graham Johnson"
+description: "Ways of seeing belong not just to individuals but to fields and subcultures. The best way to understand the state of a discipline can be to pay attention to what its practitioners are paying attention to."
 ---
 
 _A Collection of Channels is a series highlighting channels we’re paying attention to on Are.na._
