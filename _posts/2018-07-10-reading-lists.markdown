@@ -1,6 +1,6 @@
 ---
 title: Reading Lists
-date: 2018-06-10 00:00:00 Z
+date: 2018-07-10 00:00:00 Z
 categories:
 - A Collection of Channels
 tags:
