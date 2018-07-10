@@ -18,33 +18,49 @@ Ways of seeing belong not just to individuals but to fields and subcultures. The
 
 ---
 
+## Jake Dexheimer's "queue"
+
 <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/jake-dexheimer/queue-1515099981/embed"></iframe>
 
 ---
+
+## Mary Jac Heuman's "reading list"
 
 <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/mary-jac-heuman/reading-list-1499457289/embed"></iframe>
 
 ---
 
-<iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/justin-sloane/reading-listening-2017/embed"></iframe>
+## emma rae norton's "readings"
+
+<iframe class="arena-iframe" width="400" height="500" src="hhttps://www.are.na/emma-rae-norton/readings--4/embed"></iframe>
 
 ---
+
+## Lukas W's "reading lists, small libraries"
 
 <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/lukas-w/reading-lists-small-libraries/embed"></iframe>
 
 ---
 
+## Marcie LaCerte's "to read"
+
 <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/marcie-lacerte/to-read-1503424016/embed"></iframe>
 
 ---
+
+## Chris Beiser's "Lists of Books"
 
 <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/chris-beiser/lists-of-books/embed"></iframe>
 
 ---
 
+## RISD Experimental Publishing Studio 2018's "Readings"
+
 <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/risd-experimental-publishing-studio-2018/readings-1518996567/embed"></iframe>
 
 ---
+
+## Oliver Herlitschek's "Reading List"
 
 <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/oliver-herlitschek/reading-list-1500843254/embed"></iframe>
 
