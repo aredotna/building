@@ -75,11 +75,11 @@ That kind of quick search, obviously, would not have been possible if all of thi
 
 **IB:** Yeah, provided your metadata is in shape.
 
-**LS:** I'm curious how our relationship to information changes from when we move from an individual experience to a group or organization. I guess that’s the problem at the root of knowledge management. Can we hold onto some of that solitary wonder when we work with groups, and there are certain goals involved?
+**LS:** I'm curious how our relationship to information changes when we move from an individual experience to a group or organization. I guess that’s the problem at the root of "knowledge management". Can we hold onto some of that solitary wonder when we work with groups, and there are certain goals involved?
 
 **IB:** Right. I do tend to engage in these processes individually, but when I've worked in a more collective context I’ve always appreciated when everybody makes a decision about the approach. So if we’re in collecting mode, let's not sort anything. Let’s just bring together all the stuff that seems right and then we’ll move on to trying to sort things.
 
-**LS:** So it's really important for a group to establish a methodology and an intention before diving in.
+**LS:** So it's really important for a group to establish a methodology and an intention before diving in?
 
 **IB:** Yeah. Just establish norms. This goes back to an article I first pulled up when we were engaging with this, the [_Harper’s Magazine_ piece](https://www.are.na/block/1916265) about the police archives in Guatemala. A commission was set up after the civil war there ended in 1996 to investigate evidence of widespread torture and the mass killings of indigenous civilians by the state. But as human rights investigators went back through them to build a case for prosecuting Guatemalan officials for genocide, they found so many documents and layers of information that a straightforward cataloguing system wouldn’t work. The person heading up the investigation immediately had to stop everybody from putting documents in chronological order. It’s such a commonly understood organizing principle that it wasn't even overtly discussed before people started doing it. But for what they were trying to investigate, reorganizing the documents would have fundamentally destroyed so many necessary insights.
  
