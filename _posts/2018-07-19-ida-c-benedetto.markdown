@@ -4,7 +4,7 @@ date: 2018-07-19 00:00:00 Z
 categories:
 - Focus
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/2438352/original_dff479ccd8de97bc57785c0e3a4532c7.jpg
 author: "Leo Shaw"
