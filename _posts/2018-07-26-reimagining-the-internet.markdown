@@ -18,11 +18,11 @@ description: "The founder of the Internet Archive surveys the metaphors and imag
   </small></figcaption>
 </figure>
 
-_This piece was [originally written](http://tiny.cc/brewsterlink) by Brewster Kahle, founder of the Internet Archive, along with Frances Sawyer, and published on his blog in January 2018. Are.na is republishing this text in anticipation of the Internet Archive’s Decentralized Web Summit, which will be held from July 31 to August 2 in San Francisco._
+_This piece was [originally written](https://docs.google.com/document/d/13b67QqRtZkQ36giJpVIl_xtmMmhCirYDoey3A8ZfbgA) by Brewster Kahle, founder of the Internet Archive, along with Frances Sawyer in January 2018. Are.na is republishing this text in anticipation of the Internet Archive’s [Decentralized Web Summit](https://decentralizedweb.net/), which will be held from July 31 to August 2 in San Francisco._
 
 A digital wave is upon us, changing our lives, our occupations, our family relationships, our sense of what it is to be a person. The Internet, as a technology, is playing a large role, but what its impact is and what it will be is little understood. I have been looking at the images people have made of the Internet and the concepts and metaphors used to describe it in order to see how people communicate what is happening. Largely, I’ve been disappointed in what I’ve seen. I do not think we have the language to process what is happening in a way that facilitates critical thinking and productive debate. While the individual ways we have portrayed the Internet are often descriptive of what is happening at the moment, maybe taken as a whole, or as a trajectory of portrayals, we might be able to see where the digital wave could lead—or should lead.
 
-Personally, in 1980, I imagined an Internet eventually centered on the computer—but useful, powerful computers. Working in an artificial intelligence laboratory led me to think that computers will be increasingly autonomous and interconnected. To bring up these computers—in a way like offspring—I thought we needed a large number of people to interact with them and teach them, so they could learn from us. This in turn required that the machines be worthy of our attention. If we got there, there would be a merging of people, computers, and the library.
+Personally, in 1980, I imagined an Internet eventually centered on the computer—but useful, powerful computers. Working in an artificial intelligence laboratory led me to think that computers will be increasingly autonomous and interconnected. To bring up these computers—in a way, like offspring—I thought we needed a large number of people to interact with them and teach them, so they could learn from us. This in turn required that the machines be worthy of our attention. If we got there, there would be a merging of people, computers, and the library.
 
 Those were the heady days of artificial intelligence, but the computers of the day were clunky accounting machines. So there were steps to go. A group of us built the fastest supercomputer of the mid-1980s to help build this vision of artificial intelligence, but even those computers could only hold dozens of digital books in their 32 megabytes of main memory. This was a first step in teaching the computers by encoding books and newspapers. The goal was to have the machine search, find patterns, and make deductions by “reading” all books.
 
@@ -33,7 +33,10 @@ There is productive feedback between engineering and the imagination. To the ext
 To that end, this is a timeline of metaphors and images we have made for the Internet. It’s an evolution of sorts, and as with biological evolution, eras overlap. This is a tour through history of imaginings of the Internet, and it might help us understand where we are going, and more to the point, where we think we should go.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478379/original_144a8e02aa0b798a74592cf9f03d28c3.png" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2479026/original_a3a34d6c448673ab54ab7a93ffed68f8.jpg" />
+  <figcaption style="text-align: center" ><small>
+    Cyclopaedia: or, An Universal Dictionary of Arts and Sciences (1728)
+  </small></figcaption>
 </figure>
 	
 #### Internet as Library
@@ -97,8 +100,10 @@ If the library metaphor was an aspiration of the information that would soon be 
 The ARPANet, the first network to implement the TCP/IP protocol, took “net,” derived from network, as its name. Early schematics illustrated the known nodes and the connections that bridged them. Because there were so few nodes, this was relatively simple. But it showed the new internet as a communications service connecting specific end users.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478362/original_81245e673b73db2ad568d795c0d84918.jpg" />
-  ARPANET (1971), connecting 13 defense research institutions and universities.
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2479031/original_3e09604f57ae8c3b3a9428bab5f0b314.jpg" />
+  <figcaption style="text-align: center" ><small>
+    ARPANET (1971), connecting 13 defense research institutions and universities.
+  </small></figcaption>
 </figure>
 
 The network metaphor worked so long as all the nodes were known. But as more people joined and new services became available, the models of the Internet had to become more abstract. As the Internet started to be used outside of academia in the early 1990s, many images of the Internet were basic and functional, but helped bring a wider public to understand the technologies. Illustrations from _The New York Times_ describing WAIS in 1991 show how multiple sources of information held at multiple points could be tapped through a national network. The network itself, however, was a black box.
@@ -147,7 +152,7 @@ Carl Malamud [wrote a book](https://archive.org/details/exploringinterne00mala) 
 After the first major Internet interface program, NSCA Mosaic, came to be called a “browser,” the next browsers embodied this metaphor of exploration directly. Netscape Navigator’s logo (1995) placed the user at the helm of a ship steering among the stars. Microsoft’s Internet Explorer (1995) holds the "explorer" word in its name, and Apple’s Safari (2003) also signifies adventure with its compass logo.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478361/original_d61f8999d162e4cba327b7cb1a36b5fa.jpg" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2479034/original_d0ec31f22fd02ce9b9d710d1281c2eaa.jpg" />
   <figcaption style="text-align: center" ><small>
     Peacock Map of the Internet.
   </small></figcaption>
@@ -196,7 +201,7 @@ As a landed metaphor for interconnection, Al Gore popularized the concept of an 
 The superhighway would connect people and businesses through a virtual road system, open to carry any information for anyone. The language of highway infrastructure translated well in Washington, D.C., as governments were then comfortable with their role in financing and building basic infrastructure. This superhighway was never realized in whole due to intense lobbying by cable companies and other entrenched private interests.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478365/original_c3455cec59a4be4cc9bf4e37990d91bd.jpg" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2479036/original_f8e30eac7ffef1fe60497046805a9bb5.jpg" />
 </figure>
 
 This metaphor, as the Stan Eales<sup><a href="#3">3</a></sup> cartoon depicts, shows how conceptions of the Internet had, for the moment, left behind its roots as a digital library, and with it the curation and publications standards traditionally associated with print authorship and canonical knowledge. The types of information traveling along the superhighway would be a much broader swath of human experience.
@@ -227,7 +232,7 @@ A key attribute to this metaphor, however, is what it indicated about the ratio 
 But another digital wave was on its way that would significantly shift the way the Internet was imagined. As the Google Ngram viewer shows, the surfing metaphor peaked in 2004 just after the rapid rise of first Friendster, then MySpace and the founding of Facebook in 2004. As social networks became popular, the experience of being online was about to become immersive. New metaphors were needed, lest we drown.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478367/original_2aa03715bc72023564ee5b79d1db7d93.png" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2479038/original_74bb7ccebb36b146a80eafcee85a5219.png" />
 </figure>
 
 #### The Facebook
@@ -235,7 +240,10 @@ But another digital wave was on its way that would significantly shift the way t
 In _Star Trek: The Next Generation_, a new alien being was introduced—“the borg.” The borg was made up of people augmented by technology that networked them into a single large being. This global brain was not a hero, but a villain. The borg worked as a collective hive-mind, augmented with "artificial intelligence."  While separate beings, there was no individuality amongst the members of the borg. From the cradle, the borg’s young were always connected via implants glued to the side of their head. A famous line from the borg is "resistance is futile." The interconnected world could not be escaped.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478375/original_25ccad12c07cdf7d5a273527104c680a.png" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2479048/original_b3da558a0798e147660c59d4e36988e4.jpg" />
+  <figcaption style="text-align: center" ><small>
+    The Borg from Star Trek
+  </small></figcaption>
 </figure>
 
 Cellphones, which became widely used in the 1990s, allowed people to stay connected. First they were connected with voice and text, and in the 2000s with pictures, video, the Internet, and social sites<sup><a href="#5">5</a></sup>. With the wide adoption of cellphones, the expected response time to a message shrunk considerably. In fact, for younger people, the social expectation was that one had to be responsive immediately. To meet this expectation, one had to stay connected. One had to be always on.
@@ -253,10 +261,13 @@ It may be a stretch to relate _Star Trek_’s "borg" and the rise of the always-
 As this always-connected reality became commonplace, some artists’ depictions shifted from being negative and borg-like to becoming matter-the-fact. In _[Sherlock](http://bakerstreet.wikia.com/wiki/Jim_Moriarty)_ (2011) and _[Nerve](https://www.imdb.com/title/tt3531824/)_ (2016), talk bubbles and apps became visible parts of movies. The Internet, in these depictions, has come to surround us, to augment us.
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478374/original_3e741687f176f4bfe88541fe82f361f6.png" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2479053/original_55837e3cd5fbfc5a45f29df48411b694.png" />
+  <figcaption style="text-align: center" ><small>
+    Screenshot from Sherlock (2011)
+  </small></figcaption>
 </figure>
 
-As voice commands with our phones started with Siri in 2010 (later _acquired by Apple_), and now always-listening home assistants (i.e. Amazon’s Alexa in 2014, and Google’s Home in 2016), people are interacting with the Internet in more intimate ways. Movie depictions of assistant robots, as in _Real Humans_ (original [Swedish version](https://www.huffingtonpost.com/2013/01/22/siri-do-engine-apple-iphone_n_2499165.html) in 2012), are coming to be more day-to-day than the threatening “others” of _Blade Runner_ (1982/2017) or _Westworld_ (1973/2016).
+As voice commands with our phones started with Siri in 2010 (later acquired by Apple), and now always-listening home assistants (i.e. Amazon’s Alexa in 2014, and Google’s Home in 2016), people are interacting with the Internet in more intimate ways. Movie depictions of assistant robots, as in _Real Humans_ (original [Swedish version](https://www.huffingtonpost.com/2013/01/22/siri-do-engine-apple-iphone_n_2499165.html) in 2012), are coming to be more day-to-day than the threatening “others” of _Blade Runner_ (1982/2017) or _Westworld_ (1973/2016).
 
 #### Algorithms
 
@@ -339,7 +350,7 @@ The AI, in this rendering, calls us out for our moral shortcomings.
 
 Or, _2001: A Space Odyssey_ (1968) depicts briefly how we might appear to HAL as the crew is confronting HAL about an error. It is a fish-eyed view of us, but one that engages perceptively with the crew as they go about their task.
 
-A much longer scene at the end of the movie is a shot of the spaceman when he finds himself is in a sterile white room, presumably on Jupiter. This room might be thought of as a [kind of cage in a zoo](https://www.youtube.com/watch?v=GLZdnR7Nkus), where the spaceman is given what he needs to live but is contained. One shot in the movie has a view looking down on the man and the room from a surveillance camera-like angle. Humans ending up in a zoo tended by a higher being is certainly one view of how the Internet and Artificial Intelligence [can evolve](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html).
+A much longer scene at the end of the movie is a shot of the spaceman when he finds himself in a sterile white room, presumably on Jupiter. This room might be thought of as a [kind of cage in a zoo](https://www.youtube.com/watch?v=GLZdnR7Nkus), where the spaceman is given what he needs to live but is contained. One shot in the movie has a view looking down on the man and the room from a surveillance camera-like angle. Humans ending up in a zoo tended by a higher being is certainly one view of how the Internet and Artificial Intelligence [can evolve](http://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html).
 
 Danny Hillis, my mentor as we were working at Thinking Machines in the early 1980s, [often said](https://www.inc.com/magazine/19950915/2622.html), “We want to build a machine that will be proud of us.” We were bringing up the next generation. In my conversations with Carl Feynman at that time, we thought if we were going to be bringing up our new overlords, they should at least read good books. While not of the Internet yet, the computer we were building did share the recognition of the importance of the network, of the interconnections of the links. The machine we were building was called the “[Connection Machine](https://www.moma.org/calendar/exhibitions/3863/installation_images/11?locale=en),” where the connections between the processors were seen as important as the tens of thousands of processors themselves. The difference between this machine and the Internet was that these processors were not yet spread around the world.
 
