@@ -98,7 +98,9 @@ The ARPANet, the first network to implement the TCP/IP protocol, took “net,”
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478362/original_81245e673b73db2ad568d795c0d84918.jpg" />
-  ARPANET (1971), connecting 13 defense research institutions and universities.
+  <figcaption style="text-align: center" ><small>
+    ARPANET (1971), connecting 13 defense research institutions and universities.
+  </small></figcaption>
 </figure>
 
 The network metaphor worked so long as all the nodes were known. But as more people joined and new services became available, the models of the Internet had to become more abstract. As the Internet started to be used outside of academia in the early 1990s, many images of the Internet were basic and functional, but helped bring a wider public to understand the technologies. Illustrations from _The New York Times_ describing WAIS in 1991 show how multiple sources of information held at multiple points could be tapped through a national network. The network itself, however, was a black box.
