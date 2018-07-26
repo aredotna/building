@@ -4,7 +4,7 @@ date: 2018-07-26 00:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/2478464/original_f4997453d1b050b5c7cfc60945037744.png
 author: "Brewster Kahle"
@@ -18,7 +18,7 @@ description: "The founder of the Internet Archive surveys the metaphors and imag
   </small></figcaption>
 </figure>
 
-_This piece was [originally written](https://docs.google.com/document/d/13b67QqRtZkQ36giJpVIl_xtmMmhCirYDoey3A8ZfbgA) by Brewster Kahle, founder of the Internet Archive, along with Frances Sawyer in January 2018. Are.na is republishing this text in anticipation of the Internet Archive’s [Decentralized Web Summit](https://decentralizedweb.net/), which will be held from July 31 to August 2 in San Francisco._
+_This piece was [originally written](https://docs.google.com/document/d/13b67QqRtZkQ36giJpVIl_xtmMmhCirYDoey3A8ZfbgA) by Brewster Kahle, founder of the Internet Archive, along with Frances Sawyer, in January 2018. Are.na is republishing this text in anticipation of the Internet Archive’s [Decentralized Web Summit](https://decentralizedweb.net/), which will be held from July 31 to August 2 in San Francisco._
 
 A digital wave is upon us, changing our lives, our occupations, our family relationships, our sense of what it is to be a person. The Internet, as a technology, is playing a large role, but what its impact is and what it will be is little understood. I have been looking at the images people have made of the Internet and the concepts and metaphors used to describe it in order to see how people communicate what is happening. Largely, I’ve been disappointed in what I’ve seen. I do not think we have the language to process what is happening in a way that facilitates critical thinking and productive debate. While the individual ways we have portrayed the Internet are often descriptive of what is happening at the moment, maybe taken as a whole, or as a trajectory of portrayals, we might be able to see where the digital wave could lead—or should lead.
 
