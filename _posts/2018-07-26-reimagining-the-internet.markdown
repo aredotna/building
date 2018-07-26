@@ -117,7 +117,7 @@ As that ecosystem developed, both of networks and services, users began to exper
 <figure>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/nJhRPBJPoO0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   <figcaption><small>
-    Map of network services, early 1990s.
+    No More There (Anna Paquin commercial from 1994).
   </figcaption></small>
 </figure>
 
@@ -307,6 +307,9 @@ In this depiction, the Internet is not being explored by us, not being controlle
 
 <figure>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/5mg3MXETfj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <figcaption><small>
+    Trevor Paglen Sight Machine (2017)
+  </figcaption></small>
 </figure>
 
 Trevor Paglen created an eerie and beautiful piece with the Kronos Quartet in 2017 in which an audience watched the string quartet perform, and the machines did as well. The machine started by figuring out where the performers were and what they were doing. As the concert progressed, the machine decomposed the images it saw and analyzed them in real time. Computers interpreted the images, using algorithms to figure out if the performers were sad, what they were holding. Displays projected the machine’s interpretations of what was happening, so that the humans in the audience could see what the machine was thinking and how it reacted to the musicians on-stage.
@@ -315,6 +318,9 @@ Wired Magazine [called it unsettling](https://www.wired.com/2017/04/unsettling-p
 
 <figure>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UOi6v5DD_1M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <figcaption><small>
+    AI Agent Smith in The Matrix (1999)
+  </figcaption></small>
 </figure>
 
 Other artworks depict what the Internet has come to think of people. Notably in the _[Matrix](https://www.youtube.com/watch?v=UOi6v5DD_1M)_ (1999) where the networked Artificial Intelligence, [Mr. Smith](https://www.rottentomatoes.com/m/matrix/quotes/), says:
