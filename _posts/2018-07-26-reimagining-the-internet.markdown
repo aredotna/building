@@ -15,7 +15,7 @@ description: "The founder of the Internet Archive surveys the metaphors and imag
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478464/original_f4997453d1b050b5c7cfc60945037744.png" />
   <figcaption><small>
     Judy Kirpich, <a href="https://grafik.agency/insight/waveofthefuture/">1981 for VM Software</a>
-  </figcaption></small>
+  </small></figcaption>
 </figure>
 
 _This piece was [originally written](http://tiny.cc/brewsterlink) by Brewster Kahle, founder of the Internet Archive, along with Frances Sawyer, and published on his blog in January 2018. Are.na is republishing this text in anticipation of the Internet Archive’s Decentralized Web Summit, which will be held from July 31 to August 2 in San Francisco._
@@ -58,7 +58,7 @@ The "Great Library" was primed to go digital. Ted Nelson in the 1960s picked up 
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478475/original_d05e0f9c111a32cc5a20eb2243469401.jpg" />
   <figcaption><small>
     Ted Nelson demonstrates Xanadu's hyperlink system
-  </figcaption></small>
+  </small></figcaption>
 </figure>
 
 His “[2020 Vision](http://www.tcnj.edu/~robertso/readings/nelson-literary-machines.pdf)” of 1980 predicted
@@ -85,7 +85,7 @@ As the Internet has been adopted as a primary reference source for users everywh
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478486/original_1bac1a50385348acd068fabd08844327.png" />
   <figcaption><small>
     Clay tablets made by Internet Archive artist-in-residence Jeremiah Jenkins.
-  </figcaption></small>
+  </small></figcaption>
 </figure>
 
 Internet Archive artist-in-residence [Jeremiah Jenkins](https://archive.org/details/FIXEDVIDEOARTSITS#) wrestled with this concept of digital permanence in his piece _Browser History_ (2017). In this work, he cast web pages into clay to make “cuneiform web pages.” He has buried several copies in different deserts around California. He asked “how to preserve the Internet for a very distant future? The oldest clay tablets have survived more than 5000 years.”
@@ -109,7 +109,7 @@ These services began to interact with one another in an ecosystem, and what took
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478363/original_526772c650d96630b321cf98e217b8b6.gif" />
   <figcaption><small>
     Map of network services, early 1990s.
-  </figcaption></small>
+  </small></figcaption>
 </figure>
 
 As that ecosystem developed, both of networks and services, users began to experience a more integrated online world. But where was that experience taking place? As a 1994 network MCI commercial described, the Internet and its information “will not go from here to there. There will be no more there. We will all only be here.”
@@ -118,7 +118,7 @@ As that ecosystem developed, both of networks and services, users began to exper
   <iframe width="560" height="315" src="https://www.youtube.com/embed/nJhRPBJPoO0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   <figcaption><small>
     No More There (Anna Paquin commercial from 1994).
-  </figcaption></small>
+  </small></figcaption>
 </figure>
 
 But where was here? McLuhan predicted a “global village,” but in the early 1990s the Internet was being described as a mysterious space.
@@ -127,7 +127,7 @@ But where was here? McLuhan predicted a “global village,” but in the early 1
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478368/original_19072be45be383d7b386b7e78cdb0bec.jpg" />
   <figcaption><small>
     Opte Project by Barrett Lyon (2003) displayed at MoMA. Constellations of Internet nodes. www.opte.org.
-  </figcaption></small>
+  </small></figcaption>
 </figure>
 
 ####Internet as Cyberspace
@@ -150,7 +150,7 @@ After the first major Internet interface program, NSCA Mosaic, came to be called
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478361/original_d61f8999d162e4cba327b7cb1a36b5fa.jpg" />
   <figcaption><small>
     Peacock Map of the Internet.
-  </figcaption></small>
+  </small></figcaption>
 </figure>
 
 Cyberspace was increasingly populated with explorers, laypeople, and the now-native hackers who viewed it as their primary intellectual home. In the 1996 [Declaration of the Independence of Cyberspace](https://web.archive.org/web/20160124225656/https://www.eff.org/cyberspace-independence), again from John Perry Barlow, he warns “Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind. On behalf of the future, I ask you of the past to leave us alone.”
@@ -163,7 +163,7 @@ The peacock map posters became a staple of classroom and dorm walls. The earlies
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478370/original_69bf6c4c9b75beb3c01f10f0032c0b45.png" />
   <figcaption><small>
     Internet Archive's Webverse (2016) screenshot of the 'galaxies' of cyberspace.
-  </figcaption></small>
+  </small></figcaption>
 </figure>
 
 That structural formation was further depicted by the 2016 Internet Archive [Webverse](http://webverse.org/) project, an interactive version of cyberspace rendered by Owen Cornec and Vinay Goel for the Archive’s 20th anniversary. In this portrayal, the universe is made up of websites as stars, and the distance between the stars is made by the number of interconnecting links. This visualization highlighted “galaxies” centered around Yahoo, or Facebook, or the somewhat separate constellations of Chinese and Russian websites. Cyberspace, and our understanding of it, has become vast but somewhat structured.
@@ -186,7 +186,7 @@ Anonymity added a key dimension to this sense of freedom, as individuals could c
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478364/original_d628bdd9f31b587a5c526593f2849af8.jpg" />
   <figcaption><small>
     Peter Steiner cartoon, New Yorker magazine (1993)
-  </figcaption></small>
+  </small></figcaption>
 </figure>
 
 But as the frontier was populated, the real estate was fenced off and guarded. This process encouraged a remarkable amount of investment in the Internet, both from the private and public sectors.
@@ -209,7 +209,7 @@ With the metaphor of the Internet as real estate which could be settled, propert
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478372/original_34f8697b6ba5a043174094052081d21c.jpg" />
   <figcaption><small>
     A scholastic guide to the Internet from 2000.
-  </figcaption></small>
+  </small></figcaption>
 </figure>
 
 ####Surfing the Web
@@ -284,7 +284,7 @@ The power of algorithms to control us is featured prominently in the previously 
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478378/original_8f63224d4ac40d2cb0ff18c4445d914b.jpg" />
   <figcaption><small>
     Lyft (2014). Gamification of work.
-  </figcaption></small>
+  </small></figcaption>
 </figure>
 
 The sensation of feeling “gamed” is spreading. Uber and Lyft have automated surge pricing when their analytics identify a supply and demand imbalance in a particular area. When a threshold is tripped, their programs automatically incentivize drivers to go to certain areas or drive at certain times of day. These algorithms force their drivers into characters in the form of a game. I asked a driver, point blank, as he talked about getting some reward for working an extra hour, if he felt "gamed" or "played."
@@ -309,7 +309,7 @@ In this depiction, the Internet is not being explored by us, not being controlle
   <iframe width="560" height="315" src="https://www.youtube.com/embed/5mg3MXETfj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   <figcaption><small>
     Trevor Paglen Sight Machine (2017)
-  </figcaption></small>
+  </small></figcaption>
 </figure>
 
 Trevor Paglen created an eerie and beautiful piece with the Kronos Quartet in 2017 in which an audience watched the string quartet perform, and the machines did as well. The machine started by figuring out where the performers were and what they were doing. As the concert progressed, the machine decomposed the images it saw and analyzed them in real time. Computers interpreted the images, using algorithms to figure out if the performers were sad, what they were holding. Displays projected the machine’s interpretations of what was happening, so that the humans in the audience could see what the machine was thinking and how it reacted to the musicians on-stage.
@@ -320,7 +320,7 @@ Wired Magazine [called it unsettling](https://www.wired.com/2017/04/unsettling-p
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UOi6v5DD_1M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   <figcaption><small>
     AI Agent Smith in The Matrix (1999)
-  </figcaption></small>
+  </small></figcaption>
 </figure>
 
 Other artworks depict what the Internet has come to think of people. Notably in the _[Matrix](https://www.youtube.com/watch?v=UOi6v5DD_1M)_ (1999) where the networked Artificial Intelligence, [Mr. Smith](https://www.rottentomatoes.com/m/matrix/quotes/), says:
