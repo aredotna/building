@@ -13,7 +13,7 @@ description: "The founder of the Internet Archive surveys the metaphors and imag
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478464/original_f4997453d1b050b5c7cfc60945037744.png" />
-  <figcaption><small>
+  <figcaption style="text-align: center" ><small>
     Judy Kirpich, <a href="https://grafik.agency/insight/waveofthefuture/">1981 for VM Software</a>
   </small></figcaption>
 </figure>
@@ -36,7 +36,7 @@ To that end, this is a timeline of metaphors and images we have made for the Int
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478379/original_144a8e02aa0b798a74592cf9f03d28c3.png" />
 </figure>
 	
-####Internet as Library
+#### Internet as Library
 
 An aspirational image of the Internet came long before the Internet was built: that of a "Great Library." The dream was of a reference collection that would be searchable and where footnotes could be instantly followed to other works. This idea blossomed into hypertext, Wide Area Information Servers, and eventually into the World Wide Web.
 
@@ -56,7 +56,7 @@ The "Great Library" was primed to go digital. Ted Nelson in the 1960s picked up 
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478475/original_d05e0f9c111a32cc5a20eb2243469401.jpg" />
-  <figcaption><small>
+  <figcaption style="text-align: center" ><small>
     Ted Nelson demonstrates Xanadu's hyperlink system
   </small></figcaption>
 </figure>
@@ -83,7 +83,7 @@ As the Internet has been adopted as a primary reference source for users everywh
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478486/original_1bac1a50385348acd068fabd08844327.png" />
-  <figcaption><small>
+  <figcaption style="text-align: center" ><small>
     Clay tablets made by Internet Archive artist-in-residence Jeremiah Jenkins.
   </small></figcaption>
 </figure>
@@ -92,7 +92,7 @@ Internet Archive artist-in-residence [Jeremiah Jenkins](https://archive.org/deta
 
 If the library metaphor was an aspiration of the information that would soon be available at our fingertips, the early imagined model of service delivery was more limited. It was static, desk-bound, caught in a single computer, or tied to a central, vetted repository. As the Internet developed, however, we began to see collective knowledge as more networked.
 
-####Portraying the Network
+#### Portraying the Network
 
 The ARPANet, the first network to implement the TCP/IP protocol, took “net,” derived from network, as its name. Early schematics illustrated the known nodes and the connections that bridged them. Because there were so few nodes, this was relatively simple. But it showed the new internet as a communications service connecting specific end users.
 
@@ -107,7 +107,7 @@ These services began to interact with one another in an ecosystem, and what took
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478363/original_526772c650d96630b321cf98e217b8b6.gif" />
-  <figcaption><small>
+  <figcaption style="text-align: center" ><small>
     Map of network services, early 1990s.
   </small></figcaption>
 </figure>
@@ -116,7 +116,7 @@ As that ecosystem developed, both of networks and services, users began to exper
 
 <figure>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/nJhRPBJPoO0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  <figcaption><small>
+  <figcaption style="text-align: center" ><small>
     No More There (Anna Paquin commercial from 1994).
   </small></figcaption>
 </figure>
@@ -125,12 +125,12 @@ But where was here? McLuhan predicted a “global village,” but in the early 1
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478368/original_19072be45be383d7b386b7e78cdb0bec.jpg" />
-  <figcaption><small>
+  <figcaption style="text-align: center" ><small>
     Opte Project by Barrett Lyon (2003) displayed at MoMA. Constellations of Internet nodes. www.opte.org.
   </small></figcaption>
 </figure>
 
-####Internet as Cyberspace
+#### Internet as Cyberspace
 
 “Cyberspace” is a metaphor for the Internet made popular in the early 1990s. This definition [from a 1993 proto-Wikipedia says](https://web.archive.org/web/19970207225527/http://pespmc1.vub.ac.be:80/CYBSPACE.html), “The word ‘cyberspace’ was coined by the science fiction author William Gibson, when he sought a name to describe his vision of a global computer network, linking all people, machines, and sources of information in the world, and through which one could move or ‘navigate’ as through a virtual space.”
 
@@ -148,7 +148,7 @@ After the first major Internet interface program, NSCA Mosaic, came to be called
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478361/original_d61f8999d162e4cba327b7cb1a36b5fa.jpg" />
-  <figcaption><small>
+  <figcaption style="text-align: center" ><small>
     Peacock Map of the Internet.
   </small></figcaption>
 </figure>
@@ -161,14 +161,14 @@ The peacock map posters became a staple of classroom and dorm walls. The earlies
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478370/original_69bf6c4c9b75beb3c01f10f0032c0b45.png" />
-  <figcaption><small>
+  <figcaption style="text-align: center" ><small>
     Internet Archive's Webverse (2016) screenshot of the 'galaxies' of cyberspace.
   </small></figcaption>
 </figure>
 
 That structural formation was further depicted by the 2016 Internet Archive [Webverse](http://webverse.org/) project, an interactive version of cyberspace rendered by Owen Cornec and Vinay Goel for the Archive’s 20th anniversary. In this portrayal, the universe is made up of websites as stars, and the distance between the stars is made by the number of interconnecting links. This visualization highlighted “galaxies” centered around Yahoo, or Facebook, or the somewhat separate constellations of Chinese and Russian websites. Cyberspace, and our understanding of it, has become vast but somewhat structured.
 
-####Settling the Electronic Frontier
+#### Settling the Electronic Frontier
 
 At about the same time as the “cyberspace” image, there was a related, but interestingly different metaphor for the Internet as the “Frontier,” as located on land, albeit wild land. The Internet was now real estate, and we were homesteading it. The technical language of the components also changed. WAIS and FTP had “servers,” while the World Wide Web had “sites.”
 
@@ -184,7 +184,7 @@ Anonymity added a key dimension to this sense of freedom, as individuals could c
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478364/original_d628bdd9f31b587a5c526593f2849af8.jpg" />
-  <figcaption><small>
+  <figcaption style="text-align: center" ><small>
     Peter Steiner cartoon, New Yorker magazine (1993)
   </small></figcaption>
 </figure>
@@ -207,12 +207,12 @@ With the metaphor of the Internet as real estate which could be settled, propert
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478372/original_34f8697b6ba5a043174094052081d21c.jpg" />
-  <figcaption><small>
+  <figcaption style="text-align: center" ><small>
     A scholastic guide to the Internet from 2000.
   </small></figcaption>
 </figure>
 
-####Surfing the Web
+#### Surfing the Web
 
 “Surfing” the World Wide Web, a common expression by the mid-1990s, is not a landscape image but rather an expression of what it feels like to use the Internet. In [this image](https://www.thehairpin.com/2011/02/people-literally-surfing-the-web/)<sup><a href="#4">4</a></sup>, the Internet and World Wide Web were not places to explore, but rather a sport you played. The Internet was an activity, an experience.
 
@@ -230,7 +230,7 @@ But another digital wave was on its way that would significantly shift the way t
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478367/original_2aa03715bc72023564ee5b79d1db7d93.png" />
 </figure>
 
-####The Facebook
+#### The Facebook
 
 In _Star Trek: The Next Generation_, a new alien being was introduced—“the borg.” The borg was made up of people augmented by technology that networked them into a single large being. This global brain was not a hero, but a villain. The borg worked as a collective hive-mind, augmented with "artificial intelligence."  While separate beings, there was no individuality amongst the members of the borg. From the cradle, the borg’s young were always connected via implants glued to the side of their head. A famous line from the borg is "resistance is futile." The interconnected world could not be escaped.
 
@@ -258,7 +258,7 @@ As this always-connected reality became commonplace, some artists’ depictions 
 
 As voice commands with our phones started with Siri in 2010 (later _acquired by Apple_), and now always-listening home assistants (i.e. Amazon’s Alexa in 2014, and Google’s Home in 2016), people are interacting with the Internet in more intimate ways. Movie depictions of assistant robots, as in _Real Humans_ (original [Swedish version](https://www.huffingtonpost.com/2013/01/22/siri-do-engine-apple-iphone_n_2499165.html) in 2012), are coming to be more day-to-day than the threatening “others” of _Blade Runner_ (1982/2017) or _Westworld_ (1973/2016).
 
-####Algorithms
+#### Algorithms
 
 In the 2000s, the Internet services developed into “platforms” such as Facebook ([2004](https://en.wikipedia.org/wiki/History_of_Facebook)), YouTube ([2005](https://en.wikipedia.org/wiki/History_of_YouTube)), Instagram ([2010](https://en.wikipedia.org/wiki/Instagram)), and Twitter ([2006](https://en.wikipedia.org/wiki/Twitter#Creation_and_initial_reaction)), which were multifaceted digital environments optimized by algorithms designed to hook users through individually tailored content. Now, some fear these algorithms are running us—telling us what to do, what to think, who to vote for.
 
@@ -282,7 +282,7 @@ The power of algorithms to control us is featured prominently in the previously 
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2478378/original_8f63224d4ac40d2cb0ff18c4445d914b.jpg" />
-  <figcaption><small>
+  <figcaption style="text-align: center" ><small>
     Lyft (2014). Gamification of work.
   </small></figcaption>
 </figure>
@@ -295,7 +295,7 @@ Consciousness of being surveilled by companies and governments is growing. This 
 
 Rendering the effects and possibilities of Big Data and algorithmic “deep learning” in artworks and language that most people can understand is in early stages of evolution.
 
-####Machines Viewing Us
+#### Machines Viewing Us
 
 Where is this going? What can we say about what comes next?
 
@@ -307,7 +307,7 @@ In this depiction, the Internet is not being explored by us, not being controlle
 
 <figure>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/5mg3MXETfj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  <figcaption><small>
+  <figcaption style="text-align: center" ><small>
     Trevor Paglen Sight Machine (2017)
   </small></figcaption>
 </figure>
@@ -318,7 +318,7 @@ Wired Magazine [called it unsettling](https://www.wired.com/2017/04/unsettling-p
 
 <figure>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UOi6v5DD_1M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  <figcaption><small>
+  <figcaption style="text-align: center" ><small>
     AI Agent Smith in The Matrix (1999)
   </small></figcaption>
 </figure>
@@ -353,15 +353,15 @@ _**Brewster Kahle** is an American computer engineer, Internet entrepreneur, Int
 
 ---
 
-<small>[<a name="1">1.</a>] A [later book](https://archive.org/details/TheNewMediaReader) by Noah Wardrip-Fruin brought together many of these early imaginings of medium to come and was summarized in the introduction by Janet H. Murray: "The engineers draw upon cultural metaphors and analogies to express the magnitude of the change, the shape of the as yet unseen medium. The storytellers and theorists build imaginary landscapes of information, writing stories and essays that later become blueprints for actual systems... Gradually, the braided collaboration gives rise to an emergent form, a new medium of human expression."
+<small>[<a name="1">1.</a>] A [later book](https://archive.org/details/TheNewMediaReader) by Noah Wardrip-Fruin brought together many of these early imaginings of medium to come and was summarized in the introduction by Janet H. Murray: "The engineers draw upon cultural metaphors and analogies to express the magnitude of the change, the shape of the as yet unseen medium. The storytellers and theorists build imaginary landscapes of information, writing stories and essays that later become blueprints for actual systems... Gradually, the braided collaboration gives rise to an emergent form, a new medium of human expression."</small>
 
-<small>[<a name="2">2.</a>] Photo links [left](http://www.december.com/web/text/images/cyberland.gif), middle, [right](https://www.amazon.com/Matrix-Computer-Networks-Conferencing-Worldwide/dp/1555580335).
+<small>[<a name="2">2.</a>] Photo links [left](http://www.december.com/web/text/images/cyberland.gif), middle, [right](https://www.amazon.com/Matrix-Computer-Networks-Conferencing-Worldwide/dp/1555580335).</small>
 
-<small>[<a name="3">3.</a>] Cartoonist Stan Eales replied to our inquiry, "In response to your question about how I came to draw the cartoon… well, I suppose I wanted to show that the Internet has superseded traditional knowledge, just as a superhighway/motorway/autobahn supersedes traditional, meandering roads. While the new route may take us places fast, the sheer speed of travel means that we will miss things along the way. Do we risk eroding critical thinking in favor of speed and quantity of information? Are we able to process all of the information coming at us? Is the Internet too fast; built beyond the capacities of the human brain to assimilate and process information?
+<small>[<a name="3">3.</a>] Cartoonist Stan Eales replied to our inquiry, "In response to your question about how I came to draw the cartoon… well, I suppose I wanted to show that the Internet has superseded traditional knowledge, just as a superhighway/motorway/autobahn supersedes traditional, meandering roads. While the new route may take us places fast, the sheer speed of travel means that we will miss things along the way. Do we risk eroding critical thinking in favor of speed and quantity of information? Are we able to process all of the information coming at us? Is the Internet too fast; built beyond the capacities of the human brain to assimilate and process information?</small>
 
-“But, the cartoon can also be seen the opposite way. For those who wish to get off the superhighway, the traditional, old fashioned means of getting information are still available. Despite the domination of the Internet, people still read books, they still go to the cinema, they still listen to the radio, they still have real sex rather than virtual sex. Despite the domination of fast food, people still make home-cooked food. There is room for everyone. Cinema didn’t die once television was invented. The "information superhighway" is just a tool. It’s how you use it that counts. If you are a speed freak and depend on it from getting everywhere, then you risk losing out on some of the finer points in life.”
+<small>“But, the cartoon can also be seen the opposite way. For those who wish to get off the superhighway, the traditional, old fashioned means of getting information are still available. Despite the domination of the Internet, people still read books, they still go to the cinema, they still listen to the radio, they still have real sex rather than virtual sex. Despite the domination of fast food, people still make home-cooked food. There is room for everyone. Cinema didn’t die once television was invented. The "information superhighway" is just a tool. It’s how you use it that counts. If you are a speed freak and depend on it from getting everywhere, then you risk losing out on some of the finer points in life.”</small>
 
-<small>[<a name="4">4.</a>] [A page of many images of “surfing the web.”](https://www.thehairpin.com/2011/02/people-literally-surfing-the-web/)
+<small>[<a name="4">4.</a>] [A page of many images of “surfing the web.”](https://www.thehairpin.com/2011/02/people-literally-surfing-the-web/)</small>
 
-<small>[a name="5">5.</a>] The Apple iPhone was introduced in 2007, and by 2012 “smartphones” dominated more than 50% of the mobile phone market. With the iPhone came the rise of “applications,” or more simply “apps.” The Facebook was introduced [in 2004](https://web.archive.org/web/20040212031928/http://www.thefacebook.com:80/), mobile support came [in 2007](https://techcrunch.com/2007/01/10/facebook-goes-mobile/), and a dedicated app [in 2008](https://www.facebook.com/notes/facebook/facebook-for-iphone/22389032130/) with the launch of the Apple’s App Store for iPhone.
+<small>[<a name="5">5.</a>] The Apple iPhone was introduced in 2007, and by 2012 “smartphones” dominated more than 50% of the mobile phone market. With the iPhone came the rise of “applications,” or more simply “apps.” The Facebook was introduced [in 2004](https://web.archive.org/web/20040212031928/http://www.thefacebook.com:80/), mobile support came [in 2007](https://techcrunch.com/2007/01/10/facebook-goes-mobile/), and a dedicated app [in 2008](https://www.facebook.com/notes/facebook/facebook-for-iphone/22389032130/) with the launch of the Apple’s App Store for iPhone.</small>
 
