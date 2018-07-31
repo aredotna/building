@@ -8,8 +8,12 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1980737/large_d1b44e277a89797614ecdffe963a54fe.png
 author: "Meg Miller and Laurel Schwulst"
-description: ""
+description: "A collection of screenshots from Instagram Stories documenting the interiors of people's homes."
 ---
+
+<figure>
+  <a href="https://www.are.na/block/1980737"><img src="https://d2w9rnfcy7mm78.cloudfront.net/1980737/large_d1b44e277a89797614ecdffe963a54fe.png" /></a>
+</figure>
 
 Laurel Schwulst: What’s your kitchen in San Francisco like?
 
@@ -18,8 +22,6 @@ Cortney Cassidy: It’s a pretty interesting kitchen actually. It’s funny you 
 LS: Yes, here we all are, in our kitchen in New York. I had to ask, as a grounding principle…
 
 CC: Ours is really big. We live in a really tiny apartment but our kitchen is massive. It has a black and white checkered floor, and all the countertops—there's like four different countertops—are red and sparkly. We have a skylight, it’s my favorite part. And there are so many cabinets. There’s a stove and a fridge.
-
-<figure><a href="https://www.are.na/block/1980737"><img src="https://d2w9rnfcy7mm78.cloudfront.net/1980737/large_d1b44e277a89797614ecdffe963a54fe.png" /></a></figure>
 
 Erik Carter: It reminds me of the Black Lodge from Twin Peaks.
 
@@ -39,9 +41,11 @@ CC: At first it was for personal inspiration. But then it evolved and wasn’t t
 
 I also find the images quite peaceful. When people take photos of their living space, I think they’re probably feeling very comfortable in that moment and simply want to share their comfort. I like to feel comfortable. I also like to feel the nice weather from indoors, which is probably why I like to see pictures of the outdoors taken from inside a room. Like a nice view of trees and sunlight through a window, maybe framed with curtains.
 
-<figure><img src="https://d2w9rnfcy7mm78.cloudfront.net/2493254/large_cc9fc19920ca64b687b61fb1541957e1.png"></figure>
-<figure><img src="https://d2w9rnfcy7mm78.cloudfront.net/2493256/large_8d867fe36a08e7b239efc375447ecff9.png"></figure>
-<figure><img src="https://d2w9rnfcy7mm78.cloudfront.net/2493255/large_a7999281e2b8c962b0680ca16be11c30.png"></figure>
+<figure>
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2493254/large_cc9fc19920ca64b687b61fb1541957e1.png" style="display:inline-block" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2493256/large_8d867fe36a08e7b239efc375447ecff9.png" style="display:inline-block" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2493255/large_a7999281e2b8c962b0680ca16be11c30.png" style="display:inline-block" />
+</figure>
 
 LS: What kind of people do you follow?
 
@@ -57,9 +61,11 @@ CC: Yeah, sometimes I feel like I’m giving those ads a little signal boost and
 
 LS: The third type of image is my favorite. It’s like, “Oh this is just a picture of my dog, but meanwhile I have a beautiful apartment in the back.” Technically it’s less direct than the others, but I’m sure the poster certainly knows it’s not only about the dog.
 
-<figure><img src="https://d2w9rnfcy7mm78.cloudfront.net/2493250/large_e18800a63273f610590a7d4769587da1.png"></figure>
-<figure><img src="https://d2w9rnfcy7mm78.cloudfront.net/2493251/large_6ccfd0f341a81e90ed62cd6816305992.png"></figure>
-<figure><img src="https://d2w9rnfcy7mm78.cloudfront.net/2493253/large_276fb6a341829be32bc264e3df3479c4.png"></figure>
+<figure>
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2493250/large_e18800a63273f610590a7d4769587da1.png" style="display:inline-block" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2493251/large_6ccfd0f341a81e90ed62cd6816305992.png" style="display:inline-block" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2493253/large_276fb6a341829be32bc264e3df3479c4.png" style="display:inline-block" />  
+</figure>
 
 CC: Right. They made the subjective decision to make that exact crop.
 
@@ -77,9 +83,10 @@ MM: Have you noticed any patterns from the collection? Any interior patterns, wh
 
 CC: The main trend I see are the plants. They make the spaces really nice.
 
-<figure><img src="https://d2w9rnfcy7mm78.cloudfront.net/2493252/large_9213552b3afb2014ccda01177a93618f.png"></figure>
-
-<figure><img src="https://d2w9rnfcy7mm78.cloudfront.net/2493257/large_f1257144ae0409b7fbcd2ab265543487.png"></figure>
+<figure>
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2493252/large_9213552b3afb2014ccda01177a93618f.png" style="display:inline-block" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2493257/large_f1257144ae0409b7fbcd2ab265543487.png" style="display:inline-block" />
+</figure>
 
 EC: It’s a status symbol. Because the people we follow are around our age—in their late 20s, early 30s—getting their lives together. So it’s a way of showing off that they’re getting themselves organized.
 
