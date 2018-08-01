@@ -1,5 +1,5 @@
 ---
-title: "Cortney Cassidy of \"Homes\""
+title: "Cortney Cassidy of 'Homes'"
 date: 2018-07-31 00:00:00 Z
 categories:
 - Conversation
