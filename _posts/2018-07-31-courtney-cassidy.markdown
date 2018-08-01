@@ -4,7 +4,7 @@ date: 2018-07-31 00:00:00 Z
 categories:
 - Conversation
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/1980737/large_d1b44e277a89797614ecdffe963a54fe.png
 author: "Meg Miller and Laurel Schwulst"
