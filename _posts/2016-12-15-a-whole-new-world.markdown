@@ -2,7 +2,7 @@
 title: A Whole New World
 date: 2016-12-15 00:00:00 Z
 categories:
-- A Collection of Channels
+- Dispatch
 tags:
 - featured
 layout: post
