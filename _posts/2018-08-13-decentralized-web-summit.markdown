@@ -4,7 +4,7 @@ date: 2018-08-13 00:00:00 Z
 categories:
 - Scene Report
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/2525502/large_6e108bb729d5e92c73fbfda5e5e253af.jpg
 author: "Jon-Kyle Mohr"
