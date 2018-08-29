@@ -12,7 +12,7 @@ description: "A collection of channels feeling out our relationships with non-hu
 ---
 
 <figure>
-  <a href="https://d2w9rnfcy7mm78.cloudfront.net/302855/large_67b8761c31376d6e4d0f017ec6d502ea.jpg" /></a>
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/302855/large_67b8761c31376d6e4d0f017ec6d502ea.jpg" />
 </figure>
 
 In [_The Companion Species Manifesto_](http://xenopraxis.net/readings/haraway_companion.pdf), the philosopher Donna Haraway writes, “Species is about biological kind, and scientific expertise is necessary to that kind of reality. Post-cyborg, what counts as biological kind troubles previous categories of organism. The machinic and the textual are internal to the organic and vice versa...”
