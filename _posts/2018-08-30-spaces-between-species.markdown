@@ -69,7 +69,7 @@ The following channels feel out the spaces between species in the context of an 
 <figure>
 <img src="https://d2w9rnfcy7mm78.cloudfront.net/1864086/square_1c91ee4580d7223832d1a5a4ac95dc4c.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
 <img src="https://d2w9rnfcy7mm78.cloudfront.net/1914768/square_e470955abaf3dcf32e5fe264c8432c88.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
-<img src="https://d2w9rnfcy7mm78.cloudfront.net/38421/large_44adc918a181a4eb3f21e1d2a7b9904f.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/38421/square_44adc918a181a4eb3f21e1d2a7b9904f.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
 </figure>
 
 ---
