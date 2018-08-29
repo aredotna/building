@@ -26,9 +26,9 @@ The following channels feel out the spaces between species in the context of an 
 ### [Roberto Greco / Multispecies](https://www.are.na/roberto-greco/multispecies)
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2621442/large_a490300a3b81cb7f28d33beaea434247.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: middle;" />
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2621438/original_dc87bc4622b130241625657522247fd7.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: middle;" />
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2621244/original_6c915dc064146afaa68fdfa0b4b3591f.png" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: middle;" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2621442/large_a490300a3b81cb7f28d33beaea434247.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2621438/original_dc87bc4622b130241625657522247fd7.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2621244/original_6c915dc064146afaa68fdfa0b4b3591f.png" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
 </figure>
 
 ---
@@ -36,9 +36,9 @@ The following channels feel out the spaces between species in the context of an 
 ### [Antonia Hernandez / companion species](https://www.are.na/antonia-hernandez/companion-species)
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2621051/square_3cad6c2c1471e3742cfc8a94328f5039.png" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: middle;" />
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/952735/square_466503829c39f2f88cdac116acf82312.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: middle;" />
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/379435/square_fe1c4d45d34931a267818944f795acc7.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: middle;" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2621051/square_3cad6c2c1471e3742cfc8a94328f5039.png" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/952735/square_466503829c39f2f88cdac116acf82312.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/379435/square_fe1c4d45d34931a267818944f795acc7.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
 
 </figure>
 
@@ -47,9 +47,9 @@ The following channels feel out the spaces between species in the context of an 
 ### [Jenny Xing / Biomimicry and its philosophical implication](https://www.are.na/jenny-xing/biomimicry-and-its-philosophical-implication)
 
 <figure>
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2621328/square_752139294f9f7bda5ec421e3c712076b.png" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: middle;" />
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/40607/square_75e2801e23cf4709b1b6c2dad5aab927.jpeg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: middle;" />
-  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2621157/square_d21f08214c9e63ec6b11bbba2d265826.png" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: middle;" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2621328/square_752139294f9f7bda5ec421e3c712076b.png" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/40607/square_75e2801e23cf4709b1b6c2dad5aab927.jpeg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
+  <img src="https://d2w9rnfcy7mm78.cloudfront.net/2621157/square_d21f08214c9e63ec6b11bbba2d265826.png" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
 </figure>
 
 ---
@@ -57,9 +57,9 @@ The following channels feel out the spaces between species in the context of an 
 ### [David Hilmer Rex / Learning and living with (radically different) selves - Being naive & using experienced bodies](https://www.are.na/david-hilmer-rex/learning-and-living-with-radically-different-selves-being-naive-using-experienced-bodies)
 
 <figure>
-<img src="https://d2w9rnfcy7mm78.cloudfront.net/229941/square_fed9b21838bab25cdf4a0c713fd660b8.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: middle;" />
-<img src="https://d2w9rnfcy7mm78.cloudfront.net/2621463/large_628866f85e21212f9ac5c2d5d6b24f89.png" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: middle;" />
-<img src="https://d2w9rnfcy7mm78.cloudfront.net/287207/square_a207e687a01db184f1a116ae8cd03a09.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: middle;" />
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/229941/square_fed9b21838bab25cdf4a0c713fd660b8.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/2621463/large_628866f85e21212f9ac5c2d5d6b24f89.png" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
+<img src="https://d2w9rnfcy7mm78.cloudfront.net/287207/square_a207e687a01db184f1a116ae8cd03a09.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
 </figure>
 
 ---
