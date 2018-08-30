@@ -75,3 +75,5 @@ The following channels feel out the spaces between species in the context of an 
 ---
 
 Explore more interspecies behavior in the [Are.na Commons](https://www.are.na/are-na-commons/the-spaces-between-species).
+
+[Subscribe to the Are.na Dispatch newsletter](https://confirmsubscription.com/h/d/63777718A8377397) to get new blog posts and selected channels delivered to your inbox. 
