@@ -53,4 +53,4 @@ I’ve found that one of the most interesting aspects of GVC is not the aestheti
 ---
 **[Evan Collins](https://www.are.na/evan-collins-1522646491)** is an architect and design researcher living in Seattle, WA. For the past two years he’s been working with a collective of others on the [Consumer Aesthetic Research Institute](https://issuu.com/evancollins/docs/cari_presentation_-_july_2018_-_fin) (CARI). CARI is an online community dedicated to developing a taxonomy of recent design aesthetics in modern consumer culture, interpreting and critiquing them in the context of societal trends.
 
-<iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/evan-collins-1522646491/global-village-coffeehouse"></iframe>
+<iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/evan-collins-1522646491/global-village-coffeehouse/embed"></iframe>
