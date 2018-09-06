@@ -8,7 +8,7 @@ tags:
 layout: post
 image:
 author: "Evan Collins"
-description: ""
+description: "Woodcuts, tribal imagery, suns, curvy figures, aroma swirls, and earth tones: Evan Collins defines the look of the 90s."
 ---
 
 <figure>
@@ -51,6 +51,6 @@ The second wave of the environmental movement, beginning in the [late ’80s](ht
 I’ve found that one of the most interesting aspects of GVC is not the aesthetic itself, but that we’ve collectively forgotten how prevalent it once was in the design world. Going through Print magazines’ Regional Design Annuals from 1990-1995, GVC motifs are present in designs across a wide range of scales and clients, from branding for a small pottery shop in California to the 1993 Starbucks Annual Shareholders Report. Living in Seattle, one of the epicentres of GVC culture back in the ’90s, I’ll find remnants scattered throughout the city, slowly being erased without fanfare. When showing others GVC, a common reaction is a mix of embarrassment, nostalgia, and a sense of unease stemming from the underlying issues of cultural appropriation, the failed predictions of the harmonious ‘global village,’ the romanticization of colonialism, and the dark legacy of neoliberal globalization. It’ll be interesting to see whether GVC will be acknowledged or revived in the future, since as of yet it seems to be excluded from the general consensus of the ‘[90s look](https://www.google.com/search?q=90s+graphics&safe=active&rlz=1C1CHBF_enUS789US789&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjIm6fg9vTcAhWD0J8KHSb3CJAQ_AUICigB&biw=1920&bih=974)’.
 
 ---
-**Evan Collins** is an architect and design researcher living in Seattle, WA. For the past two years he’s been working with a collective of others on the [Consumer Aesthetic Research Institute](https://issuu.com/evancollins/docs/cari_presentation_-_july_2018_-_fin) (CARI). CARI is an online community dedicated to developing a taxonomy of recent design aesthetics in modern consumer culture, interpreting and critiquing them in the context of societal trends.
+**[Evan Collins](https://www.are.na/evan-collins-1522646491)** is an architect and design researcher living in Seattle, WA. For the past two years he’s been working with a collective of others on the [Consumer Aesthetic Research Institute](https://issuu.com/evancollins/docs/cari_presentation_-_july_2018_-_fin) (CARI). CARI is an online community dedicated to developing a taxonomy of recent design aesthetics in modern consumer culture, interpreting and critiquing them in the context of societal trends.
 
 <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/evan-collins-1522646491/global-village-coffeehouse"></iframe>
