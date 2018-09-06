@@ -4,7 +4,7 @@ date: 2018-09-06 00:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
 image:
 author: "Evan Collins"
