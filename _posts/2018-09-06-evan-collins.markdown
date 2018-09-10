@@ -1,5 +1,5 @@
 ---
-title: "Case Study: The Global Village Coffeehouse Aesthetic"
+title: "The Global Village Coffeehouse Aesthetic"
 date: 2018-09-06 00:00:00 Z
 categories:
 - Case Study
