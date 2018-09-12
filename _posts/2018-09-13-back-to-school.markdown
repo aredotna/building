@@ -21,21 +21,6 @@ Are.na is a unique place to watch insight grow, whether by intention or accident
 
 Here’s a collection of channels from many different learning pathways: studio programs, shared reading lists, lecture classes, unschooling experiments, self-organized workshops, and wide-open questions on pedagogy. 
 
-
----
-
-### Resource channels
-
-##### [Teaching on Are.na](https://are.na/are-na-commons/teaching-on-are-na)
-A growing, open collection of class channels (feel free to add your own!)
-
-
-##### [Design Education Resources](https://www.are.na/are-na-commons/design-education-resources)
-Tips, free tools, inspiration, syllabi, PDFs, and more
-
-##### [Self-Directed Learning Tools](https://www.are.na/are-na-commons/self-directed-learning-tools)
-An archive of channels dedicated to DIY education strategies
-
 ---
 
 ### Alternative Education
@@ -64,8 +49,6 @@ A meta-organization for non-institutional learning groups.
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/965485/square_d03f94ecb6a50c1a7d6e34e8647e32a6.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/736270/original_a1c740fba47e0ce15137c15a26455b89.gif" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
 </figure>
-
-
 ---
 
 ### Pedagogy
@@ -90,7 +73,6 @@ A meta-organization for non-institutional learning groups.
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2691658/square_338f99cdb6fab5fbde64402c7a56b7bf.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1249708/square_71d317b7aa51310cf57c7654d5e8fe86" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
 </figure>
-
 ---
 
 
@@ -118,7 +100,19 @@ A meta-organization for non-institutional learning groups.
 <img src="https://d2w9rnfcy7mm78.cloudfront.net/1923495/square_34fe03b42e8435f833e5ba51f732f83a" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
 <img src="https://d2w9rnfcy7mm78.cloudfront.net/2691772/square_d24dbb0eed3d32ca797139b566b2b749.png" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
 </figure>
+---
 
+### Resource channels
+
+##### [Teaching on Are.na](https://are.na/are-na-commons/teaching-on-are-na)
+A growing, open collection of class channels (feel free to add your own!)
+
+
+##### [Design Education Resources](https://www.are.na/are-na-commons/design-education-resources)
+Tips, free tools, inspiration, syllabi, PDFs, and more
+
+##### [Self-Directed Learning Tools](https://www.are.na/are-na-commons/self-directed-learning-tools)
+An archive of channels dedicated to DIY education strategies
 
 ---
 
