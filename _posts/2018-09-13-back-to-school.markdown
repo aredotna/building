@@ -93,7 +93,7 @@ A meta-organization for non-institutional learning groups.
 <img src="https://d2w9rnfcy7mm78.cloudfront.net/1597435/square_a383528c9ecf77eb1f18a2c079bd71dd.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
 </figure>
 
-##### [Callil Capuozzo / exercises that are antidotes to boring classes ](https://www.are.na/daniel-lefcourt/risd-efs-lefcourt)
+##### [Callil Capuozzo / exercises that are antidotes to boring classes ](https://www.are.na/callil-capuozzo/exercises-that-are-antidotes-to-boring-classes)
 
 <figure>
 <img src="https://d2w9rnfcy7mm78.cloudfront.net/1956033/square_0e28c27ab4825937966c80e31ce412e5.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
