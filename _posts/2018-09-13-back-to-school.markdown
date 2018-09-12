@@ -1,5 +1,5 @@
 ---
-title: "Back to School"
+title: "School's out forever"
 date: 2018-08-30 00:00:00 Z
 categories:
 - Dispatch
