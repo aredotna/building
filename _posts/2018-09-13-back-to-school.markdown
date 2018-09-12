@@ -26,21 +26,21 @@ Here’s a collection of channels from many different learning pathways: studio 
 
 ### Resource channels
 
-#### [Teaching on Are.na](https://are.na/are-na-commons/teaching-on-are-na)
+##### [Teaching on Are.na](https://are.na/are-na-commons/teaching-on-are-na)
 A growing, open collection of class channels (feel free to add your own!)
 
 
-#### [Design Education Resources](https://www.are.na/are-na-commons/design-education-resources)
+##### [Design Education Resources](https://www.are.na/are-na-commons/design-education-resources)
 Tips, free tools, inspiration, syllabi, PDFs, and more
 
-#### [Self-Directed Learning Tools](https://www.are.na/are-na-commons/self-directed-learning-tools)
+##### [Self-Directed Learning Tools](https://www.are.na/are-na-commons/self-directed-learning-tools)
 An archive of channels dedicated to DIY education strategies
 
 ---
 
 ### Alternative Education
 
-#### [Southland Institute](https://www.are.na/southland-institute/channels)
+##### [Southland Institute](https://www.are.na/southland-institute/channels)
 A Los Angeles workshop and resource center dedicated to exploring, identifying, and implementing meaningful, affordable, sustainable alternatives to higher education in art and design in the United States.
 
 <figure>
@@ -49,7 +49,7 @@ A Los Angeles workshop and resource center dedicated to exploring, identifying, 
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1261556/square_028ec2339780b23cfdbc1c00b595a2f8" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
 </figure>
 
-#### [Free School of Architecture](https://www.are.na/free-school-of-architecture-2018/channels)
+##### [Free School of Architecture](https://www.are.na/free-school-of-architecture-2018/channels)
 A participant-led, six week event committed to the free exploration and exchange of ideas in and around architecture, freed from traditional pedagogical and professional frameworks.
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2359938/square_1f0d563373592ce3bf7faa26d20a41b8.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
@@ -57,7 +57,7 @@ A participant-led, six week event committed to the free exploration and exchange
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2314616/square_b7e7dbb61b929eac5b7a49bf0ba5dc56.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
 </figure>
 
-#### [Learning Gardens](https://www.are.na/edouard-u/learning-gardens)
+##### [Learning Gardens](https://www.are.na/edouard-u/learning-gardens)
 A meta-organization for non-institutional learning groups.
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/726196/square_080e5f8d8005b82b451d9b04f05ce795" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
@@ -70,21 +70,21 @@ A meta-organization for non-institutional learning groups.
 
 ### Pedagogy
 
-#### [Lukas W / Effective Pedagogy](https://are.na/lukas-w/effective-pedagogy)
+##### [Lukas W / Effective Pedagogy](https://are.na/lukas-w/effective-pedagogy)
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/640523/square_880c710d9ee6f6ef474eaaeda940fcf4.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/806889/square_c404f1166babf8d15a81bf64d8b7fcba.jpeg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1316699/square_0da2d3393fca967085d34684f9620a84" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
 </figure>
 
-#### [Roberto Greco / Unschooling](https://www.are.na/roberto-greco/unschooling)
+##### [Roberto Greco / Unschooling](https://www.are.na/roberto-greco/unschooling)
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2494165/square_b7e51185a4828cbf99a2f908830fad20.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2574797/square_f999af9252e085148f31f0b9e651cbac.png" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1220075/square_aaf021b18ddd5b7c9f4b71374229a232.png" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
 </figure>
 
-#### [Sara Kaaman / making school](https://www.are.na/sara-kaaman/making-school)
+##### [Sara Kaaman / making school](https://www.are.na/sara-kaaman/making-school)
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1062760/square_4ee1d1092a341acabec59b8c120b8eb5.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2691658/square_338f99cdb6fab5fbde64402c7a56b7bf.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
