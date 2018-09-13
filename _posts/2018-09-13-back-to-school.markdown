@@ -76,7 +76,7 @@ A meta-organization for non-institutional learning groups.
 ---
 
 
-### Courses on Are.na
+### Teaching on Are.na
 
 ##### [Elizabeth Yarina / Agency of Mapping](https://www.are.na/elizabeth-yarina/agency-of-mapping)
 
