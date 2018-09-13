@@ -1,14 +1,14 @@
 ---
-title: "School's out forever"
+title: "Learning In and Out of School"
 date: 2018-08-30 00:00:00 Z
 categories:
 - Dispatch
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/571136/large_1ca76259cd1996f9db0cc8d208d11feb.jpg
 author: "Leo Shaw"
-description: "A collection of channels on learning, unschooling, and cooperative education."
+description: "A collection of resources on learning, pedagogy, and cooperative education."
 ---
 
 <figure>
