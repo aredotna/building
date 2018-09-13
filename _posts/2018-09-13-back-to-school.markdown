@@ -15,9 +15,7 @@ description: "A collection of resources on learning, pedagogy, and cooperative e
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/571136/large_1ca76259cd1996f9db0cc8d208d11feb.jpg" />
 </figure>
 
-Summer’s over and school’s in session. Vacations are wrapping up and work moves on. A semester of formal education to some will be a season of informal learning to others. 
-
-Growth continues on all sides, not linear but inevitable.
+Summer’s over and school’s in session. A semester of formal education to some will be a season of informal learning to others. Growth continues on all sides, not linear but inevitable.
 
 Are.na is a unique place to watch insight grow, whether by intention or accident, in carefully tended plots and in wild patches by the side of the information superhighway. Classes come together, open-ended collections come into maturity, and people discover new affinities between thoughts. We have the good fortune to share the harvest.
 
