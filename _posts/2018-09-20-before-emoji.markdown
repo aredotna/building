@@ -15,7 +15,7 @@ description: "A collection of channels on the origins of digital pictograms."
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2441088/original_14d7b1d9f23df94ae429e8cda9b9e119.jpg" />
 </figure>
 
-It’s a natural thing to speak in pictures. Our forebears may have wrangled images into alphabets and chiseled proud characters in stone, but instincts have a way of kicking in. These days we’re enjoying a return to form, each quivering iMessage a little Lascaux.
+It’s a natural thing to speak in pictures. Our forebears may have wrangled images into alphabets and chiseled proud characters in stone, but our digital alphabets offer a return to form – every iMessage a little Lascaux. 
 
 Here is a collection of channels dedicated to the culture of pictographic type, from the 19th century to the 1990s.
 
