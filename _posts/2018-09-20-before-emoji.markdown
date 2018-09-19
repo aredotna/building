@@ -53,6 +53,8 @@ Here is a collection of channels dedicated to the culture of pictographic type, 
 <img src="https://d2w9rnfcy7mm78.cloudfront.net/1345773/square_025344d312a511f414c95c121d061b80.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
 </figure>
 
+---
+
 ### [Damon Zucconi / ASCII Art](https://www.are.na/damon-zucconi/ascii-art)
 
 
