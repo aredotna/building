@@ -1,6 +1,6 @@
 ---
 title: "Notations & Scores"
-date: 2018-10-XX 00:00:00 Z
+date: 2018-10-10 00:00:00 Z
 categories:
 - Dispatch
 tags:
