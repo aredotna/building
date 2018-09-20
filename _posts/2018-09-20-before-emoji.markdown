@@ -1,6 +1,6 @@
 ---
 title: "Before Emoji"
-date: 2018-08-30 00:00:00 Z
+date: 2018-09-20 00:00:00 Z
 categories:
 - Dispatch
 tags:
