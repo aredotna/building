@@ -17,7 +17,7 @@ description: "A collection of channels on the origins of digital pictograms."
 
 It's easy to forget that people communicate naturally in images. If GIFs, memes, and filters feel like new forms of expression, maybe it's simply because words have won the day for millions of days running. Our forebears wrangled images into letterforms, squeezed languages into alphabets, and built tools to print identical copies of the same expressions. This was civilization. 
 
-These days we're free to return to our roots. We paint and pose and signify in pictures, each iMessage a little Lascaux. How did we get here?
+These days we're free to return to our roots. We paint and pose and signify in pictures, each iMessage a little Lascaux. How did we get this point?
 
 Here is a collection of channels dedicated to smileys, emoticons, ASCII, and the culture of pictographic type.
 
