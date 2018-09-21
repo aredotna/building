@@ -64,20 +64,6 @@ Intro text
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1836641/square_a881a9541a5f823d5e0276b013e8286a.png" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
 </figure>
 
-
----
-
-
-### [Owen Trueblood / Ghost Layers](https://www.are.na/owen-trueblood/ghost-layers)
-
-
-<figure>
-<img src="https://d2w9rnfcy7mm78.cloudfront.net/783996/square_78e00379b4215a9c1669eaa187767bb3" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
-<img src="https://d2w9rnfcy7mm78.cloudfront.net/2687134/square_5975a313a81781f75bbba4931101cbdf.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
-<img src="https://d2w9rnfcy7mm78.cloudfront.net/674514/square_fc13b9a97c63ac35753066febb8bf132.jpg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
-</figure>
-
-
 ---
 
 Are.na Dispatch is a biweekly selection of new blog posts and notable channels, selected by the Are.na team and community. [Subscribe here](https://confirmsubscription.com/h/d/63777718A8377397).
