@@ -4,7 +4,7 @@ date: 2018-09-25 00:00:00 Z
 categories:
 - Podcast
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/2438352/original_dff479ccd8de97bc57785c0e3a4532c7.jpg
 author: "Jeffrey Alan Scudder"
@@ -30,5 +30,7 @@ Referenced in the podcast is a generative worksheet inspired by an experiment of
 Yours truly,
 
 JAS 18.9.20.14.38
+
+_Editor's note: Are.na doesn't truly have its own podcast (yet!). This episode was created, produced, and edited entirely by Jeffrey Alan Scudder and the members of Goodiepal & Pals as part of their 2018 [Radical Digital Painting & Political Rock](https://www.youtube.com/watch?v=uSk8M6PzDmQ) tour._
 
 <iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/jeffrey-alan-scudder/referenced-media-podcast-radical-digital-painting-political-rock-100-naestekaerligheds-tek-radio/embed"></iframe>
