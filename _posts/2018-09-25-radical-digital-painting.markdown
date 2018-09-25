@@ -25,7 +25,7 @@ Many channels on Are.na exhibit sophisticated collections of diagrams, maps, and
   </small></figcaption>
 </figure>
 
-Referenced in the podcast is a generative worksheet inspired by an experiment of the late artist Harold Cohen, in addition to a PayPal address used by GP&PLS for donations, which is sara.paypal@gmail.com. You can access the worksheet here: https://ws1.justanothersystem.org (refresh the page to regenerate). Print and draw on or digitally annotate the PDF by connecting the dots in a meaningful way, and upload the results [here](https://www.are.na/jeffrey-alan-scudder/cohen-connect-jas-generative-worksheet-1)
+Referenced in the podcast is a generative worksheet inspired by an experiment of the late artist Harold Cohen, in addition to a PayPal address used by GP&PLS for donations, which is sara.paypal@gmail.com. You can access the worksheet here: [https://ws1.justanothersystem.org](https://ws1.justanothersystem.org) (refresh the page to regenerate). Print and draw on or digitally annotate the PDF by connecting the dots in a meaningful way, and upload the results [here](https://www.are.na/jeffrey-alan-scudder/cohen-connect-jas-generative-worksheet-1).
 
 Yours truly,
 
