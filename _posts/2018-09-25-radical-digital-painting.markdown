@@ -6,7 +6,7 @@ categories:
 tags:
 - featured
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/2438352/original_dff479ccd8de97bc57785c0e3a4532c7.jpg
+image: https://d2w9rnfcy7mm78.cloudfront.net/2745440/original_04a1b8f69ccbac03bf7b6d70021cda03.jpg
 author: "Jeffrey Alan Scudder"
 description: "The first Are.na podcast, brought directly to your eyes and ears by artist Jeffrey Alan Scudder and the refugee organization and techno rock band GP&PLS."
 ---
