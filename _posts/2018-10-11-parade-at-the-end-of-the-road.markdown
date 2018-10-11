@@ -8,7 +8,7 @@ tags:
 layout: post
 image: "https://d2w9rnfcy7mm78.cloudfront.net/2792257/original_0c8450293b981147a44a8a885c80b1d3.jpg?1538260784"
 author: "Nate Pyper"
-description: Nate Pyper on the parade as an "other" space of sociality, perpetually in motion.
+description: "Nate Pyper on the parade as an \"other\" space of sociality, perpetually in motion."
 ---
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2792257/original_0c8450293b981147a44a8a885c80b1d3.jpg?1538260784" />
