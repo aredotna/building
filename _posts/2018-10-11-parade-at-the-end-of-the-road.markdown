@@ -13,7 +13,7 @@ description: Nate Pyper on the parade as an "other" space of sociality, perpetua
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2792257/original_0c8450293b981147a44a8a885c80b1d3.jpg?1538260784" />
   <figcaption><small>
-    Manuel Casanueva, _Luodo 23_ (1984)
+    Manuel Casanueva, <i>Luodo 23</i> (1984)
   </small></figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Parades are deceptively easy to reproduce. All that’s needed is an ability and
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2632973/original_e9f7e8012bc9d8c77bf5d0ae0f48cb25.jpg?1535741227" />
   <figcaption><small>
-  Lygia Pape, _Espaços Imantados_ (1968)
+  Lygia Pape, <i>Espaços Imantados</i> (1968)
   </small></figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ What’s so seductive about Munro’s subway parties is not just the insistence 
 
 <figure>
   <img src="https://news.artnet.com/app/news-upload/2017/07/15_Parangole.jpg" />
-  <figcaption><small>_Parangolé_ cape in the New York City Subway (1972)
+  <figcaption><small><i>Parangolé</i> cape in the New York City Subway (1972)
   </small></figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ IV. Will’s Toronto subway parties bring to mind the movement work of another q
 
 <figure>
   <img src="https://southernperspectives.net/images/1cbf19096ec1_976E/image_5.png" />
-  <figcaption><small>Hélio Oiticica’s _Parangolés_
+  <figcaption><small>Hélio Oiticica’s <i>Parangolés</i>
   </small></figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ This effect was echoed by the aims of Oiticica’s contemporaries. Educator and 
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2854770/original_41bf87185abb4d67347dad4818defa84.jpg?1539272936" />
-  <figcaption><small>Lygia Pape, _Divisor_ (1968)
+  <figcaption><small>Lygia Pape, <i>Divisor</i> (1968)
   </small></figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ The multitude distinguishes between the homogenous droning mob (the parade at it
 
 <figure>
   <img src="https://i1.wp.com/www.newcitybrazil.com/wp-content/uploads/2018/05/Evandro-Teixeira-Passeata-dos-Cem-Mil-March-of-the-Hundred-Thousand-June-26-1968-gelatin-silver-print-33-x-50-cm.jpg?fit=1020%2C678&ssl=1" />
-  <figcaption><small>Evandro Teixeira, _Passeata dos cem mil (March of the One Hundred Thousand)_ (1968). The sign reads “DOWN WITH THE DICTATORSHIP, POWER TO THE PEOPLE.”
+  <figcaption><small>Evandro Teixeira, <i>Passeata dos cem mil (March of the One Hundred Thousand)</i> (1968). The sign reads “DOWN WITH THE DICTATORSHIP, POWER TO THE PEOPLE.”
   </small></figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ In fact, the protest continues today—most recently as a resistance to the very
 
 <figure>
   <img src="https://i.pinimg.com/originals/04/ba/3c/04ba3ccf42cd0756ff22718495f01b0f.jpg" />
-  <figcaption><small>Gracia Barrios, _América no invoco tu nombre en vano_ (1970)
+  <figcaption><small>Gracia Barrios, <i>América no invoco tu nombre en vano</i> (1970)
   </small></figcaption>
 </figure>
 
@@ -115,4 +115,4 @@ When utilized as an emancipatory mode of sociality, the parade is a nomadic netw
 
 [Nate Pyper](http://natepyper.com/) is an alphabet artist working in publishing, performance, and video. He maintains an ongoing research practice on queer anarcho-punk zines of the late 80s and early 90s. He is a 2018 graduate of the Yale School of Art.
 
-<iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/nate-pyper/a-parade-at-the-end-of-the-world"></iframe>
+<iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/nate-pyper/a-parade-at-the-end-of-the-world/embed"></iframe>
