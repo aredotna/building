@@ -17,7 +17,9 @@ description: Nate Pyper on the parade as an "other" space of sociality, perpetua
   </small></figcaption>
 </figure>
 
-I. The parade is always with us, even in its absence. Recently enlisted in an effort to exhibit American “military might,” the parade has reminded us of its ability to flaunt power. In its surplus, power parades. But [this specific parade](https://www.bbc.com/news/world-us-canada-45225102), the one planned to remind the world of a superpowerful iron-fistedness, has since been postponed (indefinitely), roundly opposed by pretty much everyone.
+**I.**
+
+The parade is always with us, even in its absence. Recently enlisted in an effort to exhibit American “military might,” the parade has reminded us of its ability to flaunt power. In its surplus, power parades. But [this specific parade](https://www.bbc.com/news/world-us-canada-45225102), the one planned to remind the world of a superpowerful iron-fistedness, has since been postponed (indefinitely), roundly opposed by pretty much everyone.
 
 And yet the parade goes on. The parade goes on because it is useful. It is useful in order to maintain hegemonic order, but also, in its multi-meaning mutability, it is useful in order to resist order. Parades are bouquets of bodies that, depending on who, when, and where, are used to invoke sameness or difference through expressions of celebration, memorial, resistance, fanfare, “military might,” “military won’t,” and any other host of reasons that two or three might decide to take up together.
 
@@ -30,9 +32,11 @@ Parades are deceptively easy to reproduce. All that’s needed is an ability and
   </small></figcaption>
 </figure>
 
-II. For all of these reasons, parades effectively inaugurate an “other” space. A parade produces the conditions that can enact an autonomous zone, a freely-enacted utopia, a block-by-block party. In practice, it is both a speculative, aspirational, fictional space, as a well as a real, historical, lived space. It is a space that only exists through the relation and proximity of bodies together; for this reason it can happen at any time in any place and evaporate as quickly as it materializes. At its best, the parade is an initiation not of a new way forward but of ways outward, determined in the steps of each parader. The paraders may choose to follow a set course or to follow the people at the front; they may also choose to determine their route dialectically based on ever-changing conditions through space and time. They may break off from each other and pursue other paths. So it goes.
+**II.**
 
-When it comes to “other” spaces of sociality, the field of possibility has been mapped out in vivid detail: Michel Foucault gives us [heterotopias](http://web.mit.edu/allanmc/www/foucault1.pdf); Stefano Harney and Fred Moten outline [the undercommons](http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf); Hakim Bey advocates for the [Temporary Autonomous Zone](http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf); Craig Wilkens champions [D-Space](http://clocktower.org/show/aasf-keynote-the-architecture-of-arts-education); José Esteban Muñoz describes [a disidentificatory position](http://artsites.ucsc.edu/faculty/gustafson/FILM%20165A.W11/film%20165A%5BW11%5D%20readings%20/munoz.pdf).
+For all of these reasons, parades effectively inaugurate an “other” space. A parade produces the conditions that can enact an autonomous zone, a freely-enacted utopia, a block-by-block party. In practice, it is both a speculative, aspirational, fictional space, as a well as a real, historical, lived space. It is a space that only exists through the relation and proximity of bodies together; for this reason it can happen at any time in any place and evaporate as quickly as it materializes. At its best, the parade is an initiation not of a new way forward but of ways outward, determined in the steps of each parader. The paraders may choose to follow a set course or to follow the people at the front; they may also choose to determine their route dialectically based on ever-changing conditions through space and time. They may break off from each other and pursue other paths. So it goes.
+
+When it comes to “other” spaces of sociality, the field of possibility has been mapped out in vivid detail: Michel Foucault gives us [heterotopias](http://web.mit.edu/allanmc/www/foucault1.pdf); Stefano Harney and Fred Moten outline [the undercommons](http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf); Hakim Bey advocates for the [Temporary Autonomous Zone](https://hermetic.com/bey/taz3#labeltaz); Craig Wilkens champions [D-Space](http://clocktower.org/show/aasf-keynote-the-architecture-of-arts-education); José Esteban Muñoz describes [a disidentificatory position](http://artsites.ucsc.edu/faculty/gustafson/FILM%20165A.W11/film%20165A%5BW11%5D%20readings%20/munoz.pdf).
 
 It’s hard not to be charmed by these possibilities. They don’t claim to be exterior “outside” spaces but exist interior to reality itself, conspiring with and against the ever-unfurling now. They are a way out through a way in. For some, retiring to these spaces might feel defeatist, or at least strategically essentialist: the current order of things is too all-enduring and too all-encompassing, thus these liberatory modes of being are only available to us in small bursts of freedom. I’d like to think that a more generous reading of these spaces values them not just for their world-apartness, but for the potential of their best attributes to spillover into normative space. So what do these spaces offer? What methods of relating to each other can we import into the quotidian? And how might the parade facilitate this aim?
 
@@ -43,7 +47,9 @@ It’s hard not to be charmed by these possibilities. They don’t claim to be e
   </small></figcaption>
 </figure>
 
-III. Amber Ternus describes one such possibility of the parade in action: “More than anything, I will remember Will for his birthday parties on the subway. Those were very iconic. He just threw it at us, like, ‘Hey, we’re going to take over a subway car and have a dance party.’”
+**III.**
+
+Amber Ternus describes one such possibility of the parade in action: “More than anything, I will remember Will for his birthday parties on the subway. Those were very iconic. He just threw it at us, like, ‘Hey, we’re going to take over a subway car and have a dance party.’”
 
 Ternus’s recollection comes from _Army of Lovers: A Community History of Will Munro_, a book by Sarah Liss that records oral accounts of the life and work of Will Munro. A Toronto artist, activist, zinester, and DJ (who organized the legendary, long-running queer club night Vazaleen), Munro died of brain cancer at the age of 35.
 
@@ -63,7 +69,9 @@ What’s so seductive about Munro’s subway parties is not just the insistence 
   </small></figcaption>
 </figure>
 
-IV. Will’s Toronto subway parties bring to mind the movement work of another queer: Brazilian artist Hélio Oiticica and his colorful fleet of _Parangolés_ that were deployed in urban settings across Rio de Janeiro at the commons, on the street, and in the subway. Oiticica’s _Parangolés_ are impromptu garments that challenge the normative order of being in the world. In her essay on the decolonial imperatives of Latin American artwork of the ’60s and ’70s, María Elena Lucero [describes them this way](https://www.southernperspectives.net/region/latin-america/decoloniality-in-latin-american-art): “The 1964 _Parangolés_ were capes that were made of ephemeral materials, outside the art circuit. The spectators, besides integrating the work, would make movements in space to the rhythm of Rio de Janeiro samba, thus establishing a dialogue with the surrounding context.”
+**IV.**
+
+Will’s Toronto subway parties bring to mind the movement work of another queer: Brazilian artist Hélio Oiticica and his colorful fleet of _Parangolés_ that were deployed in urban settings across Rio de Janeiro at the commons, on the street, and in the subway. Oiticica’s _Parangolés_ are impromptu garments that challenge the normative order of being in the world. In her essay on the decolonial imperatives of Latin American artwork of the ’60s and ’70s, María Elena Lucero [describes them this way](https://www.southernperspectives.net/region/latin-america/decoloniality-in-latin-american-art): “The 1964 _Parangolés_ were capes that were made of ephemeral materials, outside the art circuit. The spectators, besides integrating the work, would make movements in space to the rhythm of Rio de Janeiro samba, thus establishing a dialogue with the surrounding context.”
 
 <figure>
   <img src="https://southernperspectives.net/images/1cbf19096ec1_976E/image_5.png" />
@@ -91,7 +99,9 @@ The multitude distinguishes between the homogenous droning mob (the parade at it
   </small></figcaption>
 </figure>
 
-V. While in Rio de Janeiro visiting family in the summer leading up to the 2016 Olympic Games, I witnessed the _carioca_ spirit of life lived in public in full bloom. The city was a flurry of bodies, even more so than usual. The Olympics and previous FIFA World Cup had set into motion a wave of changes to civic life, though these changes largely sidestepped any serious structural redevelopment. Military presence increased. Poverty and crime were displaced rather than eradicated, exacerbating a widening disparity between the abject poor and the excessively rich. Many never experienced any of the so-called benefits that the Games promised.
+**V.**
+
+While in Rio de Janeiro visiting family in the summer leading up to the 2016 Olympic Games, I witnessed the _carioca_ spirit of life lived in public in full bloom. The city was a flurry of bodies, even more so than usual. The Olympics and previous FIFA World Cup had set into motion a wave of changes to civic life, though these changes largely sidestepped any serious structural redevelopment. Military presence increased. Poverty and crime were displaced rather than eradicated, exacerbating a widening disparity between the abject poor and the excessively rich. Many never experienced any of the so-called benefits that the Games promised.
 
 One day on my way back home from the store, I watched as a demonstration materialized at a nearby square. Protesters handed out stickers and literature to onlookers with phrases like “A LUTA NÃO VAI PARAR” (THE FIGHT WILL NOT STOP). Banners announced a new honorific for the Olympics as “os Jogos da Exclusão”, or, the Exclusion Games. Soon hundreds had gathered in the square and began marching down a street that would eventually lead them to the Opening Ceremonies. I joined them along with other bystanders and walked until the crowd passed in front my grandma’s apartment. As I watched from her window a few floors up, the protest ballooned to thousands of paraders. I don’t remember when it ended, or if it ever did.
 
