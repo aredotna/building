@@ -6,7 +6,7 @@ categories:
 tags:
 - draft
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/2871433/original_4bfb987fd08eb615087e57c535859c74.png?1539581638
+image: https://d2w9rnfcy7mm78.cloudfront.net/2871433/original_4bfb987fd08eb615087e57c535859c74.png
 author: "Shiraz Gallab"
 description: TK
 ---
