@@ -64,7 +64,7 @@ The language surrounding black tokenism typically points the finger at the token
 
 _[Shiraz Abdullahi Gallab](http://shirazn.es/) is a designer based in Chicago. She is interested in language, form, and the human condition._
 
-<iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/shiraz-gallab/the-primary-task-of-the-tokenizer/embed"></iframe>
+<iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/shiraz-gallab/black-tokenism/embed"></iframe>
 
 ---
 
