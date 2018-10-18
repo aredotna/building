@@ -4,7 +4,7 @@ date: 2018-10-17 7:00:00 Z
 categories:
 - Case Study
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/2871433/original_4bfb987fd08eb615087e57c535859c74.png
 author: "Shiraz Gallab"
