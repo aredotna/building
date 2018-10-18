@@ -8,7 +8,7 @@ tags:
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/2871433/original_4bfb987fd08eb615087e57c535859c74.png
 author: "Shiraz Gallab"
-description: TK
+description: "Shiraz Gallab argues that tokenism is determined from an external condition, and it’s time we shift our gaze to the tokenizer rather than the token."
 ---
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2871433/original_4bfb987fd08eb615087e57c535859c74.png?1539581638" />
@@ -33,7 +33,7 @@ By my definition, the black skater is a token—not out of choice, but out of ci
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/2871058/original_ca21b49450837e68bc2c33ab69dcd311.png?1539573734" />
   <figcaption><small>
-   Still image from the film Afro-Punk (2003).
+   Still image from the film <i>Afro-Punk</i> (2003).
   </small></figcaption>
 </figure>
 
