@@ -6,7 +6,7 @@ categories:
 tags:
 - draft
 layout: post
-image: https://d2w9rnfcy7mm78.cloudfront.net/2871433/original_4bfb987fd08eb615087e57c535859c74.png?1539581638
+image: https://d2w9rnfcy7mm78.cloudfront.net/2871433/original_4bfb987fd08eb615087e57c535859c74.png
 author: "Shiraz Gallab"
 description: TK
 ---
@@ -40,7 +40,7 @@ By my definition, the black skater is a token—not out of choice, but out of ci
 
 Traditionally, a token is an individual who has been recruited to symbolize efforts of inclusion in the workplace. Today, however, tokens can be found in both professional and personal environments. They not only exist in the office, but also in social circles, scenes, and spaces that are mostly white.
 
-Despite its problematic history in the United States, black tokenism tends to be dismissed as something that is less pressing than overt acts of hatred. In the eyes of the unassuming, tokenism is understood to be “a first step in the right direction,” because it alludes to the possibility of increased opportunity for Black Americans overall. Such an argument is naïve at best and manipulative at its core, since tokenism is nothing greater than an optical illusion and a convenient “hiding place” for the tokenizer’s deepest and darkest forms of racial antipathy.
+Despite its problematic history in the United States, black tokenism tends to be dismissed as something that is less pressing than overt acts of hatred. In the eyes of the unassuming, tokenism is understood to be “a first step in the right direction,” because it alludes to the possibility of increased opportunity for Black Americans overall.<sup><a href="#1">1</a></sup> Such an argument is naïve at best and manipulative at its core, since tokenism is nothing greater than an optical illusion and a convenient “hiding place” for the tokenizer’s deepest and darkest forms of racial antipathy.<sup><a href="#2">2</a></sup>
 
 In all cases, the token is determined from an external condition. He or she does not self-identify as a token, nor does the idea of being a token present itself as a personal or professional goal. Rather, tokenism occurs only when a tokenizer is present, and it is further exacerbated by the divisive strategies that are employed by that tokenizer.
 
@@ -48,7 +48,7 @@ An example of this might include the tokenizer stating that his or her token is 
 
 Tokenizers are particularly notorious when it comes to conversations on race, because they desperately try to dart from the topic altogether. For that reason, tokens are expected to speak up quietly, to stand up slowly, and to push for change patiently. Tokenizers prefer that their tokens discuss racial injustice without using language that is deemed threatening. They are essentially telling the token to “do you, but don’t.”
 
-A classic example took place in 2009 following the arrest of Harvard professor Henry Louis Gates, Jr at his Cambridge residence. During a press conference on the incident, Former President Barack Obama said the police “acted stupidly” and cited the disproportionate arrest of Blacks and Latinos as a historical fact. In response to his remarks, several law enforcement groups expressed dismay, Glenn Beck argued that the president had a “deep-seated hatred for white people,” and Obama’s approval rating with white voters dropped by seven points. The president then crafted a more sanitized statement to the press and coordinated the infamous “Beer Summit” with Gates and Sergeant Crowley in an attempt to minimize the growing backlash. And just like that, the most powerful person in the country was disempowered to speak on an incident that resonated with him and other black people in the United States.
+A classic example took place in 2009 following the arrest of Harvard professor Henry Louis Gates, Jr at his Cambridge residence. During a press conference on the incident, Former President Barack Obama said the police “acted stupidly” and cited the disproportionate arrest of Blacks and Latinos as a historical fact. In response to his remarks, several law enforcement groups expressed dismay, Glenn Beck argued that the president had a “deep-seated hatred for white people,” and Obama’s approval rating with white voters dropped by seven points. The president then crafted a more sanitized statement to the press and coordinated the infamous “Beer Summit” with Gates and Sergeant Crowley<sup><a href="#3">3</a></sup> in an attempt to minimize the growing backlash. And just like that, the most powerful person in the country was disempowered to speak on an incident that resonated with him and other black people in the United States.
 
 It’s important to note that in this case, the tokenizer was not a specific person but instead a body of people who deflected attention from the core issue of race in America. Much like “Drunk guy vs skateboarder,” the Beer Summit can be summarized as a comical and distracting response to an act of racial injustice. Both events leave us with the same unsettling conclusion—that something is missing from the story that’s being told.
 
@@ -58,10 +58,23 @@ It’s important to note that in this case, the tokenizer was not a specific per
   </small></figcaption>
 </figure>
 
-Tokenizers reach the peak of their success when their tokens live through them. A few highly publicized examples include [Stacey Dash calling for an end to Black History Month](https://www.are.na/block/1227279), [Lil Wayne claiming that he has never experienced racism](https://www.are.na/block/1247574), [Raven-Symoné outright stating that she is not an African American](https://www.are.na/block/1247287), and [John Ridley arguing for a blunt separation between “niggers” and what he calls “New Black Americans.”](https://www.are.na/block/1247496) These bizarre statements are certainly worth challenging, but I’d like to argue that they are secondary to the behavior exhibited by tokenizers, in part because they are words that the tokenizer has fed the token at the onset of the relationship. As Ishmael Reed put it, “the primary task of the token is to mine the intellectual obsessions of his or her sponsors.”
+Tokenizers reach the peak of their success when their tokens live through them. A few highly publicized examples include [Stacey Dash calling for an end to Black History Month](https://www.are.na/block/1227279), [Lil Wayne claiming that he has never experienced racism](https://www.are.na/block/1247574), [Raven-Symoné outright stating that she is not an African American](https://www.are.na/block/1247287), and [John Ridley arguing for a blunt separation between “niggers” and what he calls “New Black Americans.”](https://www.are.na/block/1247496) These bizarre statements are certainly worth challenging, but I’d like to argue that they are secondary to the behavior exhibited by tokenizers, in part because they are words that the tokenizer has fed the token at the onset of the relationship. As Ishmael Reed put it, “the primary task of the token is to mine the intellectual obsessions of his or her sponsors.”<sup><a href="#4">4</a></sup>
 
 The language surrounding black tokenism typically points the finger at the token and leaves the tokenizer unscathed. The token’s authorship is toyed with bit by bit, and any attempt at establishing an authentic identity is met with dismissive laughter, or worse, silence. The token is therefore accessible but out of focus; visible but unrecognized; subject turned object; misunderstood. It’s about time that we shift our gaze, rethink our rhetoric, and observe the tokenizer’s tasks before the token’s.
 
-[Shiraz Abdullahi Gallab](http://shirazn.es/) is a designer based in Chicago. She is interested in language, form, and the human condition.
+_[Shiraz Abdullahi Gallab](http://shirazn.es/) is a designer based in Chicago. She is interested in language, form, and the human condition._
 
-<iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/shiraz-gallab/black-tokenism"></iframe>
+<iframe class="arena-iframe" width="400" height="500" src="https://www.are.na/shiraz-gallab/black-tokenism/embed"></iframe>
+
+---
+
+<small>[<a name="1">1.</a>] Victor Wallis, “<a href="https://whowhatwhy.org/2014/05/12/the-plague-of-tokenism/">The Plague of Tokenism.</a>” (2014)</small>
+
+<small>[<a name="2">2.</a>] bell hooks, “<a href="http://pages.mtu.edu/~jdslack/readings/CSReadings/hooks_Representing_Whiteness_Black_Imagination.pdf">Representing Whiteness in the Black Imagination</a>,” <i>Displacing Whiteness: Essays in Social and Cultural Criticism</i>. (1997)
+</small>
+
+<small>[<a name="3">3.</a>] One of the officers involved in the arrest of Henry Louis Gates, Jr.
+</small>
+
+<small>[<a name="4">4.</a>] Ishmael Reed, “<a href="https://www.jstor.org/stable/41069302?seq=1/subjects">Ralph Ellison and the Agony of the Token</a>,” <i>The Black Scholar</i>. (2008)
+</small>
