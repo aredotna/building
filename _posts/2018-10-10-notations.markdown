@@ -17,7 +17,9 @@ description: "A collection of channels on systems of notation"
 
 In a 1976 essay called "[Performance: The Art of Notation](http://performa-arts.org/magazine/entry/tonight-the-languages-of-dance-performance-the-art-of-notation)," RoseLee Goldberg describes the ways that contemporary dancers, choreographers, and artists began to draw movement as a system. "If we look closely at the ‘live’ work," she wrote, "we recognise certain movement phrases which accumulate to form a specific ‘body language’ with its own signs and connotations. This body language can be ‘read’ both in real space and, through, diagrams, on paper."
 
-People in other fields created many other visual notation styles, which didn't always follow a traditional set of rules. Conceptual artists created artworks which consisted of instructions for an event. In music, composers created new graphic systems to represent what conventional notation couldn't express. Are.na members have collected wealth of these examples and we're sharing a handful below.
+It was a time when people in parallel fields created many other visual notation styles, which rarely followed traditional rules of composition. Conceptual artists created works which simply consisted of instructions for events. Musicians created new graphic systems to represent what conventional notation couldn't express. Ways of looking at the world that originated in systems thinking and computer programming gradually percolated into several creative fields.
+
+Are.na members have collected a wealth of these examples. Below is a handful of selections.
 
 ---
 
