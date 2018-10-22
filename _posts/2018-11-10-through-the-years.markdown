@@ -42,8 +42,6 @@ Intro text
 
 ---
 
-### [Michelle Ishikawa / Mount St. Helen's - May 18 1980](https://www.are.na/erin-schneider/la-freeway-memorials)
-
 ### [Meggie Kelley / 1986](https://www.are.na/erin-schneider/la-freeway-memorials)
 
 <figure>
