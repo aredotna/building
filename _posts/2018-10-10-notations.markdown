@@ -68,4 +68,4 @@ People in other fields created many other visual notation styles, which didn't a
 
 ---
 
-Are.na Dispatch is a biweekly selection of new blog posts and notable channels, selected by the Are.na team and community. [Subscribe here](https://confirmsubscription.com/h/d/63777718A8377397).
+Are.na Dispatch is a biweekly selection of new blog posts and notable channels, selected by the Are.na team and community. [Subscribe here](https://mailchi.mp/are.na/dispatch).
