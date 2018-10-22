@@ -44,7 +44,7 @@ People in other fields created many other visual notation styles, which didn't a
 
 ---
 
-### [Felia Gram-Hanssen / Notations](https://www.are.na/millennial-focus-group/death-salon)
+### [Felia Gram-Hanssen / Notations](https://www.are.na/felia-gram-hanssen/notations)
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1889006/square_8891dc9664bfd8476ffc90dba4c05c9c.jpeg" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
