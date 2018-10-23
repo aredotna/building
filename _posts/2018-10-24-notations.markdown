@@ -1,6 +1,6 @@
 ---
 title: "Notations & Scores"
-date: 2018-10-10 00:00:00 Z
+date: 2018-10-24 00:00:00 Z
 categories:
 - Dispatch
 tags:
@@ -15,7 +15,7 @@ description: "A collection of channels on systems of notation"
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/1326544/large_82ec0d895e937c6d52ccf2022ef04797.jpg" />
 </figure>
 
-In a 1976 essay called "[Performance: The Art of Notation](http://performa-arts.org/magazine/entry/tonight-the-languages-of-dance-performance-the-art-of-notation)," RoseLee Goldberg describes the ways that contemporary dancers, choreographers, and artists began to draw movement as a system. "If we look closely at the ‘live’ work," she wrote, "we recognise certain movement phrases which accumulate to form a specific ‘body language’ with its own signs and connotations. This body language can be ‘read’ both in real space and, through, diagrams, on paper."
+In a 1976 essay called "[Performance: The Art of Notation](http://performa-arts.org/magazine/entry/tonight-the-languages-of-dance-performance-the-art-of-notation)," RoseLee Goldberg describes the ways that contemporary dancers, choreographers, and artists began to draw movement as a system. "If we look closely at the ‘live’ work," she wrote, "we recognise certain movement phrases which accumulate to form a specific ‘body language’ with its own signs and connotations. This body language can be ‘read’ both in real space and, through diagrams, on paper."
 
 It was a time when people in parallel fields created many other visual notation styles, which rarely followed traditional rules of composition. Conceptual artists created works which simply consisted of instructions for events. Musicians created new graphic systems to represent what conventional notation couldn't express. Ways of looking at the world that originated in systems thinking and computer programming gradually percolated into several creative fields.
 
