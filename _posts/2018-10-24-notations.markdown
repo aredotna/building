@@ -6,7 +6,7 @@ categories:
 tags:
 - featured
 layout: post
-image:
+image: https://d2w9rnfcy7mm78.cloudfront.net/1326544/large_82ec0d895e937c6d52ccf2022ef04797.jpg
 author: "Leo Shaw"
 description: "A collection of channels on systems of notation"
 ---
