@@ -4,7 +4,7 @@ date: 2018-10-24 00:00:00 Z
 categories:
 - Dispatch
 tags:
-- draft
+- featured
 layout: post
 image:
 author: "Leo Shaw"
@@ -17,7 +17,7 @@ description: "A collection of channels on systems of notation"
 
 In a 1976 essay called "[Performance: The Art of Notation](http://performa-arts.org/magazine/entry/tonight-the-languages-of-dance-performance-the-art-of-notation)," RoseLee Goldberg describes the ways that contemporary dancers, choreographers, and artists began to draw movement as a system. "If we look closely at the ‘live’ work," she wrote, "we recognise certain movement phrases which accumulate to form a specific ‘body language’ with its own signs and connotations. This body language can be ‘read’ both in real space and, through diagrams, on paper."
 
-It was a time when people in parallel fields created many other visual notation styles, which rarely followed traditional rules of composition. Conceptual artists created works which simply consisted of instructions for events. Musicians created new graphic systems to represent what conventional notation couldn't express. Ways of looking at the world that originated in systems thinking and computer programming gradually percolated into several creative fields.
+The second half of the twentieth century saw people in adjacent fields create many other visual notation styles, which rarely followed traditional rules of composition. Conceptual artists created works which simply consisted of instructions for events. Musicians created new graphic systems to represent what conventional notation couldn't express. Ways of looking at the world that originated in systems thinking and computer programming percolated into several creative practices, from architecture to abstract art.
 
 Are.na members have collected a wealth of these examples. Below is a handful of selections.
 
