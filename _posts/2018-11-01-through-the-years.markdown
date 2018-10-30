@@ -1,21 +1,23 @@
 ---
 title: "Through the Years"
-date: 2018-11-10 00:00:00 Z
+date: 2018-11-01 00:00:00 Z
 categories:
 - Dispatch
 tags:
 - draft
 layout: post
-image:
+image:https://i.pinimg.com/originals/71/df/6b/71df6b194f7b1603ea419f50d8d5bbaa.jpg
 author: "Leo Shaw"
-description: "A collection of channels on the visual culture of the road"
+description: "A collection of notable years, frozen in digital amber"
 ---
 
 <figure>
-  <img src="" />
+  <img src="https://i.pinimg.com/originals/71/df/6b/71df6b194f7b1603ea419f50d8d5bbaa.jpg" />
 </figure>
 
-Intro text
+In the back of every yearbook – back when schools still published yearbooks – there was usually a pre-composed section inserted by the publishing company which collected the notable events of the year: oscar winners, elections, celebrity deaths, disasters, and so on. When reminiscers looked back at their photos and signatures, they could use reference these pages to get their bearings. Did the Gulf War break out the year we graduated? What was that Peter Gabriel song we danced to? Nowadays, you can find the same kind of neat memorialization on Wikipedia's [year](https://en.wikipedia.org/wiki/2004) articles. 
+
+On Are.na, we've noticed a handful of channels going for a different, more associative kind of time capsule. These include songs and artworks and events, but they also go for emotional flavor. Assembled below is a chronological collection of media, marking cultural moments in time.
 
 ---
 
