@@ -6,7 +6,7 @@ categories:
 tags:
 - draft
 layout: post
-image:https://i.pinimg.com/originals/71/df/6b/71df6b194f7b1603ea419f50d8d5bbaa.jpg
+image: https://i.pinimg.com/originals/71/df/6b/71df6b194f7b1603ea419f50d8d5bbaa.jpg
 author: "Leo Shaw"
 description: "A collection of notable years, frozen in digital amber"
 ---
