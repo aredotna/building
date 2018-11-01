@@ -17,7 +17,7 @@ description: "A collection of notable years, frozen in digital amber"
 
 In the back of every yearbook – back when schools still published yearbooks – there was usually a pre-composed section inserted by the publishing company that collected the notable events of the year: oscar winners, elections, celebrity deaths, disasters, and so on. When reminiscers looked back at their photos and signatures, they could reference these pages to get their bearings in time. Did the Gulf War break out the year we graduated? What was that Peter Gabriel song we danced to? Nowadays, you can find the same kind of neat memorialization on Wikipedia's [year](https://en.wikipedia.org/wiki/2004) articles. 
 
-On Are.na, we've noticed a handful of channels going for a different, more associative kind of time capsule. These include songs and artworks and events, but they also capture the emotional flavor of a point in the past. Assembled below is a chronological collection of media, marking cultural moments in time.
+On Are.na, we've noticed a handful of channels going for a different, more associative kind of time capsule. These include landmarks like songs and events, but they also capture the emotional flavor of a point in the past. Assembled below is a chronological collection of media, marking cultural moments in time.
 
 ---
 
