@@ -44,7 +44,7 @@ On Are.na, we've noticed a handful of channels going for a different, more assoc
 
 ---
 
-### [Meggie Kelley / 1986](https://www.are.na/erin-schneider/la-freeway-memorials)
+### [Meggie Kelley / 1986](https://www.are.na/meggie-kelley/one-nine-eight-six)
 
 <figure>
   <img src="https://d2w9rnfcy7mm78.cloudfront.net/837138/square_6a6ca268d69a738e2a00a4f79123a8ab.png" style="display:inline-block; width: 32%; margin-top: 0; vertical-align: top;" />
