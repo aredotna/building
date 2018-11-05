@@ -15,7 +15,7 @@ description: "An introduction to our book with The Creative Independent"
   <img src="https://pbs.twimg.com/media/Dq2dWxdXgAAVmay.jpg" />
 </figure>
 
-We recently printed a book in collaboration with The Creative Independent, called *How do you use the internet mindfully?* It collects a series of essays by artists. You can [download it here](https://thecreativeindependent.com/library/how-do-you-use-the-internet-mindfully/) for free and enjoy it offline. Below is our introduction.
+We recently printed a book in collaboration with The Creative Independent, called *How do you use the internet mindfully?* It collects a [series of essays](https://thecreativeindependent.com/notes/arena-tci-how-do-you-use-the-internet-mindfully/) by artists grappling with the web as both a creative medium and an engine of information overload. You can [download it here](https://thecreativeindependent.com/library/how-do-you-use-the-internet-mindfully/) for free and enjoy it offline. Below is our introduction.
 
 ---
 
