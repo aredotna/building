@@ -8,12 +8,15 @@ tags:
 layout: post
 image: https://pbs.twimg.com/media/Dq2dWxdXgAAVmay.jpg
 author: "Leo Shaw"
-description: "An introduction to our free book with The Creative Independent"
+description: "An introduction to our book with The Creative Independent"
 ---
 
 <figure>
-  <img src="https://i.pinimg.com/originals/71/df/6b/71df6b194f7b1603ea419f50d8d5bbaa.jpg" />
+  <img src="https://pbs.twimg.com/media/Dq2dWxdXgAAVmay.jpg" />
 </figure>
+
+We recently printed a book in collaboration with The Creative Independent, called *How do you use the internet mindfully?* It collects a series of essays by artists. You can [download it here](https://thecreativeindependent.com/library/how-do-you-use-the-internet-mindfully/) for free and enjoy it offline. Below is our introduction:
+
 
 This summer we got to watch a workshop created by a few friends that used colorful cardboard blocks to imagine the internet as a city. Together they built structures that represented different ways of organizing the infrastructure of the web. “If the Internet were a city,” they asked, “what would be its roads, buildings, and parks?”
 
