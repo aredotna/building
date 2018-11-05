@@ -1,6 +1,6 @@
 ---
 title: "Manifesting the web we want"
-date: 2018-11-01 00:00:00 Z
+date: 2018-11-06 00:00:00 Z
 categories:
 - Hello World
 tags:
