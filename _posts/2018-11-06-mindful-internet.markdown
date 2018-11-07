@@ -19,7 +19,7 @@ We recently printed a book in collaboration with The Creative Independent, calle
 
 ---
 
-This summer we got to watch a workshop created by a few friends that used colorful cardboard blocks to imagine the internet as a city. <sup><a href="#1">1</a></sup> Together they built structures that represented different ways of organizing the infrastructure of the web. “If the Internet were a city,” they asked, “what would be its roads, buildings, and parks?”
+This summer we got to watch a workshop created by a few friends that used colorful cardboard blocks to imagine the [internet as a city](https://internetas.city/). <sup><a href="#1">1</a></sup> Together they built structures that represented different ways of organizing the infrastructure of the web. “If the Internet were a city,” they asked, “what would be its roads, buildings, and parks?”
 
 We like this metaphor because it helps us talk about technology beyond the scope of individual features and technical problem-solving. Instead, it presses us to draw qualitatively on our relationship to the world around us for inspiration. Maybe you would prefer to live in a city with plentiful parks, efficient transportation, and affordable neighborhoods. Maybe you’d like to get rid of incessant advertisement and surveillance cameras. By picturing the ways that those features demonstrate our values— common access to public space, a meaningful right to individual privacy, and so on—we can think expansively about how to manifest those values on the web.
 
@@ -37,5 +37,5 @@ The essays in this book offer theories and strategies that creative people can u
 
 ---
 
-<small>[<a name="1">1.</a>] The Internet as a City workshop was created by a group of students and educators at MIT: Agnes
-Cameron (MIT Media Lab), Kalli Retzepi (MIT Media Lab), Sam Ghantous (MIT Architecture), and Zhexi Zhang (MIT ACT program). The workshop was part of the 2018 Decentralized Web Summit hosted by the Internet Archive. The blocks were subsequently adopted by an elementary school teacher in San Francisco.</small>
+<small>[<a name="1">1.</a>] The Internet as a City workshop was created by a group of students and educators at MIT: [Agnes
+Cameron](https://www.are.na/agnes-cameron) (MIT Media Lab), [Kalli Retzepi](https://www.are.na/kalli-retzepi) (MIT Media Lab), [Sam Ghantous](https://www.are.na/sam-ghantous) (MIT Architecture), and [Zhexi Zhang](https://www.are.na/zhexi-zhang) (MIT ACT program). The workshop was [part of the 2018 Decentralized Web Summit](https://www.decentralizedweb.net/internet-as-a-city/) hosted by the Internet Archive. The blocks were subsequently adopted by an elementary school teacher in San Francisco.</small>
