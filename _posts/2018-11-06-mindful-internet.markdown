@@ -1,6 +1,6 @@
 ---
 title: "How do you use the internet mindfully?"
-date: 2018-11-06 00:00:00 Z
+date: 2018-11-07 00:00:00 Z
 categories:
 - Hello World
 tags:
