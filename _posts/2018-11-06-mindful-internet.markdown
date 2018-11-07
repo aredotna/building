@@ -6,7 +6,7 @@ categories:
 tags:
 - featured
 layout: post
-image: https://pbs.twimg.com/media/Dq2dWxdXgAAVmay.jpg
+image: https://d2w9rnfcy7mm78.cloudfront.net/3001101/large_3a60d105182eb8baa3403e23adcf7b95.jpg?1541603840
 author: "Leo Shaw"
 description: "An introduction to our book with The Creative Independent"
 ---
