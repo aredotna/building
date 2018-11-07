@@ -4,7 +4,7 @@ date: 2018-11-06 00:00:00 Z
 categories:
 - Hello World
 tags:
-- draft
+- featured
 layout: post
 image: https://pbs.twimg.com/media/Dq2dWxdXgAAVmay.jpg
 author: "Leo Shaw"
