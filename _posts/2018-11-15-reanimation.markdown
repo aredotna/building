@@ -4,7 +4,7 @@ date: 2018-11-15 12:00:00 Z
 categories:
 - Focus
 tags:
-- draft
+- featured
 layout: post
 image: https://d2w9rnfcy7mm78.cloudfront.net/3043634/original_c46bc7a22322946da3bd6adea0d04130.jpg?1542256951
 author: "Meg Miller"
